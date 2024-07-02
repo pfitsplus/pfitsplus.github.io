@@ -1,4 +1,8 @@
+# Jekyll
 _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# VS Code
+pfitsplus.github.io.code-workspace
