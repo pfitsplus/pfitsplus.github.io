@@ -4,5 +4,8 @@ _site
 .jekyll-metadata
 Gemfile.lock
 
+# Web development
+assets/images/temp
+
 # VS Code
 pfitsplus.github.io.code-workspace
