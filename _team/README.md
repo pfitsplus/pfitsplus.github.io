@@ -1,5 +1,5 @@
 # Team Members
-This folder contains [Markdown](https://www.markdownguide.org/) files for the individual members populating the [**Team**](https://unlv-spfg.github.io/team/) page.
+This folder contains [Markdown](https://www.markdownguide.org/) files for the individual members populating the [**Team**](https://pfitsplus.github.io/team/) page.
 To create your own, we recommend copying an existing member profile as close to the structure you want (e.g., a simple paragraph or multiple, extensive sections) and renaming it as your `lastname-firstname.md`.
 
 
