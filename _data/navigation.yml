@@ -1,0 +1,33 @@
+# main navbar
+main:
+  - title: "News"
+    url: /news/
+  - title: "Research"
+    url: /research/
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
+    url: https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA
+    target: _blank
+
+# research sidebar
+research:
+  - title: "Research Overview"
+    url: /research/
+  - title: "Areas of Interest"
+    children:
+      - title: "Protoplanetary Disks"
+        url: /research/protoplanetary-disks/
+      - title: "Planet Formation"
+        url: /research/planet-formation/
+      - title: "Fluid Dynamics"
+        url: /research/fluid-dynamics/
+
+  - title: "Software Development"
+    children:
+      - title: "Athena"
+        url: https://princetonuniversity.github.io/Athena-Cversion/
+      - title: "Athena++"
+        url: https://www.athena-astro.app/
+      - title: "Pencil Code"
+        url: http://pencil-code.nordita.org/
