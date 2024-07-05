@@ -1,4 +1,4 @@
-# UNLV Star & Planet Group Homepage
+# PFITS+ Collaboration Homepage
 
 ## Viewing Site Locally
 You can [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this [repo](https://docs.github.com/en/repositories) and build the [GitHub Pages](https://docs.github.com/en/pages) site locally to preview and test any changes, as it can take up to 20 minutes to publish [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) to the site after [pushing](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github) to [GitHub](https://lab.github.com/githubtraining/introduction-to-github?overlay=register-box-overlay).
@@ -39,15 +39,15 @@ This will run a local web server that you can view at `http://localhost:4000` wi
 
 
 ### Team
-To create a new, or modify an existing, [team member](https://pfitsplus.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) diriectory.
+To create a new, or modify an existing, [team member](https://pfitsplus.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) directory.
 
 
 ### News
-To create a new, or modify an existing, [news post](https://pfitsplus.github.io/news/), see the [README.md](/_posts/README.md) in the [`_posts/`](/_posts) diriectory.
+To create a new, or modify an existing, [news post](https://pfitsplus.github.io/news/), see the [README.md](/_posts/README.md) in the [`_posts/`](/_posts) directory.
 
 
 ### Research
-To create a new, or modify an existing, [research page](https://pfitsplus.github.io/research/), see the [README.md](/_research/README.md) in the [`_research/`](/_research) diriectory.
+To create a new, or modify an existing, [research page](https://pfitsplus.github.io/research/), see the [README.md](/_research/README.md) in the [`_research/`](/_research) directory.
 
 
 ## Issues & Requests
