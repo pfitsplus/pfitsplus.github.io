@@ -39,15 +39,15 @@ This will run a local web server that you can view at `http://localhost:4000` wi
 
 
 ### Team
-To create a new, or modify an existing, [team member](https://pfitsplus.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) diriectory.
+To create a new, or modify an existing, [team member](https://pfitsplus.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) directory.
 
 
 ### News
-To create a new, or modify an existing, [news post](https://pfitsplus.github.io/news/), see the [README.md](/_posts/README.md) in the [`_posts/`](/_posts) diriectory.
+To create a new, or modify an existing, [news post](https://pfitsplus.github.io/news/), see the [README.md](/_posts/README.md) in the [`_posts/`](/_posts) directory.
 
 
 ### Research
-To create a new, or modify an existing, [research page](https://pfitsplus.github.io/research/), see the [README.md](/_research/README.md) in the [`_research/`](/_research) diriectory.
+To create a new, or modify an existing, [research page](https://pfitsplus.github.io/research/), see the [README.md](/_research/README.md) in the [`_research/`](/_research) directory.
 
 
 ## Issues & Requests
