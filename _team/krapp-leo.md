@@ -1,12 +1,12 @@
 ---
 title: "Krapp, Leo"
-excerpt: "Postdoctoral Scholar"
+excerpt: "Alum"
 header:
   teaser: /assets/images/team/krapp-leo.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/krapp-leo.jpg
-    text: "Postdoctoral Scholar"
+    text: "Ali,"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
