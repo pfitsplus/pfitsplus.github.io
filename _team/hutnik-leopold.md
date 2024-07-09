@@ -2,10 +2,10 @@
 title: "Hutnik, Leopold"
 excerpt: "Graduate Student"
 header:
-  teaser: /assets/images/team/male-placeholder-image.jpg
+  teaser: /assets/images/team/hutnik-leopold.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/male-placeholder-image.jpg
+    image: /assets/images/team/hutnik-leopold.jpg
     text: "Graduate Student"
   - title: "Research Interests"
     text: "<ul>
