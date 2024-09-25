@@ -22,17 +22,17 @@ permalink: /research/fluid-dynamics/
 (In development)
 
 
-### Magnetorotational (MRI)
+### Magnetorotational
 (In development)
 
 
-### Rossby Wave (RWI)
+### Rossby Wave
 (In development)
 
 
-### Streaming (SI)
+### Streaming
 (In development)
 
 
-### Vertical Shear (VSI)
+### Vertical Shear
 (In development)
