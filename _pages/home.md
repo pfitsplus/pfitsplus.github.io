@@ -11,7 +11,7 @@ header:
       url: "/research/"
 excerpt: "A theoretical and computational astrophysics network"
 intro: 
-  - excerpt: "Theoretical and computational research into protoplanetary disk evolution, planet formation, and the multiscale physics involved"
+  - excerpt: "Theoretical and computational research into protoplanetary disk evolution, planet formation, and the multiscale multiphysics involved"
 feature_row:
   - image_path: /assets/images/home/protoplanetary-disks.jpg
     alt: "Protoplanetary Disks"
@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/home/fluid-dynamics.jpg
     alt: "Fluid Dynamics"
     title: "Fluid Dynamics"
-    excerpt: "Radiation magnetohydrodynamics, dust–gas dynamics, instabilities, turbulence"
+    excerpt: "Radiation- and magneto-hydrodynamics, dust–gas dynamics, instabilities, and turbulence"
     url: "/research/fluid-dynamics/"
     btn_class: "btn--warning"
     btn_label: "Learn more"
