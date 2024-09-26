@@ -4,6 +4,8 @@ main:
     url: /news/
   - title: "Research"
     url: /research/
+  - title: "Code Comparison"
+    url: /code-comparison/
   - title: "Team"
     url: /team/
   - title: "Publications"
@@ -31,3 +33,8 @@ research:
         url: https://www.athena-astro.app/
       - title: "Pencil Code"
         url: http://pencil-code.nordita.org/
+
+  - title: "Code Comparison"
+    children:
+      - title: "Streaming Instability"
+        url: /code-comparison/
