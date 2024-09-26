@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Code Comparison"
-    url: /code-comparison/
+    url: /research/code-comparison/
   - title: "Team"
     url: /team/
   - title: "Publications"
@@ -37,4 +37,4 @@ research:
   - title: "Code Comparison"
     children:
       - title: "Streaming Instability"
-        url: /code-comparison/
+        url: /research/code-comparison/
