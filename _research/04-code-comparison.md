@@ -1,6 +1,6 @@
 ---
 title: "Code Comparison"
-permalink: /code-comparison/
+permalink: /research/code-comparison/
 ---
 ## Streaming Instability
 
@@ -10,8 +10,8 @@ However, the non-trivial differences between numerical techniques (e.g., finite 
 In an effort to address these issues, we are leading a comprehensive comparison of various multipurpose codes across some of the key models and problems previously studied in investigations into the streaming instability.
 
 
-### [Problem Set](/assets/docs/pages/comparison/si/SICC_Problem_Set.pdf){:target="_blank"}
-We invite users and developers of hydrodynamical codes who wish to participate or contribute to this project to review the Streaming Instability Code Comparison Problem Set ([PDF](/assets/docs/pages/comparison/si/SICC_Problem_Set.pdf){:target="_blank"}).
+### [Problem Set](/assets/docs/research/code-comparison/si/SICC_Problem_Set.pdf){:target="_blank"}
+We invite users and developers of hydrodynamical codes who wish to participate or contribute to this project to review the Streaming Instability Code Comparison Problem Set ([PDF](/assets/docs/research/code-comparison/si/SICC_Problem_Set.pdf){:target="_blank"}).
 As this document continues to be developed, please contact [Stanley A. Baronett](/team/baronett-stanley/) with any questions or feedback that may be helpful toward future revisions.
 
 
@@ -31,7 +31,7 @@ Further details on the structure and contents of submission data can be found in
 
 
 ### Preliminary Figures
-![A grid of dust density snapshots at various simulation times and from different codes for Problem BA with an average of one particle per gas grid cell.](/assets/images/pages/comparison/si/BA-np1-512.png)
+![A grid of dust density snapshots at various simulation times and from different codes for Problem BA with an average of one particle per gas grid cell.](/assets/images/research/code-comparison/si/BA-np1-512.png)
 A series of snapshots of the dust density field from various Lagrangian-dust codes for Problem BA with an average of one particle per gas cell, i.e. $$n_\mathrm{p} = 1$$, at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
 Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
 In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
