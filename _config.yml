@@ -14,16 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PFITS+
-subtitle: "Planet Formation in the Southwest (plus Iowa and Alabama)"
+subtitle: "Planet Formation in the Southwest + Iowa and Alabama"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Theoretical and computational research into protoplanetary disk evolution, planet
+  formation, and the multiscale physics involved
 # twitter_username: username
 github_username: pfitsplus
 minimal_mistakes_skin: dirt
 search: true
+logo: "/assets/images/logo.webp"
+favicon: "/assets/images/favicon.ico"
 
 # Build settings
 markdown: kramdown
@@ -34,13 +35,20 @@ paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
 timezone: US/Mountain # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "" # Replace this with your ID
+    anonymize_ip         : false
+
+# Reading Files
 include:
   - _pages
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -48,6 +56,58 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
 
 # Plugins (previously gems:)
 plugins:
@@ -58,9 +118,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
   name: "PFITS+"
-  avatar: "/assets/images/logo.jpg"
+  avatar: "/assets/images/logo.webp"
   bio: "Planet Formation in the Southwest (plus Iowa and Alabama)"
   location: "Las Cruces, NM</br>&emsp;&ensp;Tucson, AZ</br>&emsp;&ensp;Mountain View, CA</br>&emsp;&ensp;Ames, IA</br>&emsp;&ensp;Tuscaloosa, AL"
   links:
@@ -77,6 +138,7 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+# Site Footer
 footer:
   links:
     # - label: "Twitter"
@@ -89,6 +151,7 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+# Front Matter Defaults
 defaults:
   # _posts
   - scope:
@@ -134,6 +197,7 @@ defaults:
       excerpt: ""
       share: true
 
+# Archive Settings (GitHub Pages)
 category_archive:
   type: liquid
   path: /categories/
