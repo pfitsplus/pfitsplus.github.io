@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PFITS+
-subtitle: "Planet Formation in the Southwest+"
+subtitle: "Planet Formation in the Southwest +"
 email:
 description: "Theoretical and computational research into protoplanetary disk evolution, planet formation, and the multiscale physics involved"
   # >- this means to ignore newlines until "baseurl:"
