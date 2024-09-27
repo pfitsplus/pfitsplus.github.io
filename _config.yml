@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PFITS+
-subtitle: "Planet Formation in the Southwest + Iowa and Alabama"
+subtitle: "Planet Formation in the Southwest +"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Theoretical and computational research into protoplanetary disk evolution, planet
-  formation, and the multiscale physics involved
+description: "Theoretical and computational research into protoplanetary disk evolution, planet formation, and the multiscale physics involved"
+  # >- this means to ignore newlines until "baseurl:"
 # twitter_username: username
 github_username: pfitsplus
 minimal_mistakes_skin: dirt
