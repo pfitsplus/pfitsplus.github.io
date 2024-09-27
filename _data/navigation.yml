@@ -4,6 +4,8 @@ main:
     url: /news/
   - title: "Research"
     url: /research/
+  - title: "Gallery"
+    url: /research/gallery/
   - title: "Code Comparison"
     url: /research/code-comparison/
   - title: "Team"
@@ -33,6 +35,13 @@ research:
         url: https://www.athena-astro.app/
       - title: "Pencil Code"
         url: http://pencil-code.nordita.org/
+
+  - title: "Gallery"
+    children:
+      - title: "Images"
+        url: /research/gallery#images
+      - title: "Videos"
+        url: /research/gallery#videos
 
   - title: "Code Comparison"
     children:
