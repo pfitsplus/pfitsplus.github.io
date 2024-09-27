@@ -12,7 +12,9 @@ sidebar:
     <li> Planet formation"
 ---
 
-Andrew N. Youdin is ...
+Andrew N. Youdin is a theoretical astrophysicist working on planet formation, exoplanets and astrophysical fluid dynamics with a focus on disks.  Prof. Youdin pioneered the streaming instability mechanism, and has worked on giant planet formation, Kuiper belt origins, Hot Jupiter evolution, and aspects of disk hydronamics including instabilities and turbulent transport.
 
 ## Biography
-- __2020–present__ - Professor, University of 
+- __2023–present__ - Professor, University of Arizona, Steward Observatory and LPL
+- __2019–2023__ - Associate Professor, University of Arizona, Steward Observatory and LPL
+- __2014–2019__ - Assisstant Professor, University of Arizona, Steward Observatory
