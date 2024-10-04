@@ -1,6 +1,7 @@
 ---
 title: "Rea, David"
-excerpt: "Graduate Student"
+excerpt: "Iowa State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/rea-david.jpg
 sidebar:

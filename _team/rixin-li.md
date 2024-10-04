@@ -1,12 +1,13 @@
 ---
 title: "Li, Rixin"
-excerpt: "Postdoctoral Scholar"
+excerpt: "University of California, Berkeley"
+position: "51 Pegasi b Postdoctoral Fellow"
 header:
   teaser: /assets/images/team/rixin-li.png
 sidebar:
   - title: "Position"
     image: /assets/images/team/rixin-li.png
-    text: "Postdoctoral Scholar<br>
+    text: "51 Pegasi b Postdoctoral Fellow<br>
     <a href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9222-4367&sort=date%20desc%2C%20bibcode%20desc&p_=0' target='_blank'><i class='fas fa-fw fa-search'></i>ADS</a><br>
     <a href='https://scholar.google.com/citations?user=cEJjBwIAAAAJ&hl=en' target='_blank'><i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
     <a href='mailto:rixin@berkeley.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>"

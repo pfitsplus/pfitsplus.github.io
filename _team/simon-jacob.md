@@ -1,12 +1,13 @@
 ---
 title: "Simon, Jacob B."
-excerpt: "Principal Investigator"
+excerpt: "Iowa State University"
+position: "Associate Professor"
 header:
   teaser: /assets/images/team/simon-jacob.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/simon-jacob.jpg
-    text: "Principal Investigator"
+    text: "Associate Professor"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation"
@@ -15,4 +16,4 @@ sidebar:
 Jacob B. Simon is ...
 
 ## Biography
-- __2020–present__ - Professor, University of 
+- __2020–present__ - Associate Professor, Iowa State University

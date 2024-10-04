@@ -1,6 +1,7 @@
 ---
 title: "Tanvir, Tabassum"
-excerpt: "Postdoctoral Scholar"
+excerpt: "Iowa State University"
+position: "Postdoctoral Scholar"
 header:
   teaser: /assets/images/team/tanvir-tabassum.jpg
 sidebar:

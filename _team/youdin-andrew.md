@@ -1,12 +1,13 @@
 ---
 title: "Youdin, Andrew N."
-excerpt: "Principal Investigator"
+excerpt: "University of Arizona"
+position: "Professor"
 header:
   teaser: /assets/images/team/youdin-andrew.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/youdin-andrew.jpg
-    text: "Principal Investigator"
+    text: "Professor"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation"

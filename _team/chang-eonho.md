@@ -1,6 +1,7 @@
 ---
 title: "Chang, Eonho"
-excerpt: "Graduate Student"
+excerpt: "University of Arizona"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/chang-eonho.jpg
 sidebar:

@@ -1,12 +1,13 @@
 ---
 title: "Yang, Chao-Chin"
-excerpt: "Principal Investigator"
+excerpt: "University of Alabama"
+position: "Assistant Professor"
 header:
   teaser: /assets/images/team/yang-chao-chin.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/yang-chao-chin.jpg
-    text: "Principal Investigator"
+    text: "Assistant Professor"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation

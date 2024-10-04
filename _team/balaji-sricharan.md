@@ -1,6 +1,7 @@
 ---
 title: "Balaji, Sricharan"
-excerpt: "Graduate Student"
+excerpt: "University of Alabama"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/balaji-sricharan.jpg
 sidebar:

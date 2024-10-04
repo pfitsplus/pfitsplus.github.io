@@ -1,6 +1,7 @@
 ---
 title: "Lim, Jeonghoon (Jay)"
-excerpt: "Graduate Student"
+excerpt: "Iowa State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/lim-jeonghoon.jpg
 sidebar:

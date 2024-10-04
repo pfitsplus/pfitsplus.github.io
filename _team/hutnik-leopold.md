@@ -1,6 +1,7 @@
 ---
 title: "Hutnik, Leopold"
-excerpt: "Graduate Student"
+excerpt: "New Mexico State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/hutnik-leopold.jpg
 sidebar:
