@@ -1,4 +1,5 @@
 ---
+permalink: /team/decun-victoria/
 title: "de Cun, Victoria"
 excerpt: "Alum"
 header:
@@ -11,7 +12,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Victoria de Cun was a graduate student under [Wladimir Lyra](/team/lyra-wladimir). 
+Victoria de Cun was a graduate student under [Wladimir Lyra](/team/nmsu-00-lyra-wladimir). 
 
 
 ## Timeline

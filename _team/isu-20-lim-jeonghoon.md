@@ -1,6 +1,8 @@
 ---
+permalink: /team/lim-jeonghoon/
 title: "Lim, Jeonghoon (Jay)"
-excerpt: "Graduate Student"
+excerpt: "Iowa State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/lim-jeonghoon.jpg
 sidebar:
@@ -11,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Jeonghoon (Jay) Lim is a Graduate Student under [Jacob B. Simon](/team/simon-jacob)...
+Jeonghoon (Jay) Lim is a Graduate Student under [Jacob B. Simon](/team/isu-00-simon-jacob)...
 
 
 ## Timeline

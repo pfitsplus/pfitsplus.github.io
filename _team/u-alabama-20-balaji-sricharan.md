@@ -1,6 +1,8 @@
 ---
+permalink: /team/balaji-sricharan/
 title: "Balaji, Sricharan"
-excerpt: "Graduate Student"
+excerpt: "University of Alabama"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/balaji-sricharan.jpg
 sidebar:
@@ -11,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Sricharan Balaji is a Graduate Student under [Chao-Chin Yang](/team/yang-chao-chin)...
+Sricharan Balaji is a Graduate Student under [Chao-Chin Yang](/team/u-alabama-00-yang-chao-chin)...
 
 
 ## Timeline

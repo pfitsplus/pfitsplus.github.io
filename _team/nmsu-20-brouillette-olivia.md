@@ -1,6 +1,8 @@
 ---
+permalink: /team/brouillette-olivia/
 title: "Brouillette, Olivia"
-excerpt: "Graduate Student"
+excerpt: "New Mexico State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/brouillette-olivia.jpg
 sidebar:
@@ -11,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Olivia Brouillette is a Graduate Student under [Wladimir Lyra](/team/lyra-wladimir)...
+Olivia Brouillette is a Graduate Student under [Wladimir Lyra](/team/nmsu-00-lyra-wladimir)...
 
 
 ## Timeline

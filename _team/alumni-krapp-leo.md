@@ -1,4 +1,5 @@
 ---
+permalink: /team/krapp-leo/
 title: "Krapp, Leo"
 excerpt: "Alum"
 header:
@@ -11,7 +12,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Leo Krapp was a Postdoctoral Scholar under [Andrew Youdin](/team/youdin-andrew). He is currently a professor at the
+Leo Krapp was a Postdoctoral Scholar under [Andrew Youdin](/team/u-arizona-00-youdin-andrew). He is currently a professor at the
 University of Concepcion, Chile. 
 
 

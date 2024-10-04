@@ -1,6 +1,8 @@
 ---
+permalink: /team/godines-daniel/
 title: "Godines, Daniel"
-excerpt: "Graduate Student"
+excerpt: "New Mexico State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/godines-daniel.jpg
 sidebar:
@@ -11,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Daniel Godines is a Graduate Student under [Wladimir Lyra](/team/lyra-wladimir)...
+Daniel Godines is a Graduate Student under [Wladimir Lyra](/team/nmsu-00-lyra-wladimir)...
 
 
 ## Timeline

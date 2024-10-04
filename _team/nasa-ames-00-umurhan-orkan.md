@@ -1,6 +1,8 @@
 ---
+permalink: /team/umurhan-orkan/
 title: "Umurhan, Orkan M."
-excerpt: "Principal Investigator"
+excerpt: "NASA Ames Research Center"
+position: "Principal Investigator"
 header:
   teaser: /assets/images/team/umurhan-orkan.jpg
 sidebar:
@@ -15,4 +17,4 @@ sidebar:
 Orkan M. Umurhan is ...
 
 ## Biography
-- __2020–present__ - Professor, University of 
+- __2020–present__ - Principal Investigator, NASA Ames Research Center

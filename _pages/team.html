@@ -4,14 +4,16 @@ permalink: /team/
 layout: single
 toc: true
 toc_sticky: true
-toc_label: "&nbsp; Positions / Members"
+toc_label: "&nbsp; Institutions / Members"
 toc_icon: "users"
 ---
 
-<h2 id="principal-investigators">Principal Investigators</h2>
+<h1>Institutions in alphabetical order</h1>
+
+<h2 id="isu">Iowa State University</h2>
 <table>
   {% for post in site.team %}
-  {% if post.excerpt == 'Principal Investigator' %}
+  {% if post.excerpt == 'Iowa State University' %}
     <tr>
       <td>
         <a href="{{ post.url }}">
@@ -22,17 +24,17 @@ toc_icon: "users"
         <a href="{{ post.url }}">
           <h3 id="{{ post.title }}">{{ post.title }}</h3>
         </a>
-        {{ post.excerpt }}
+        {{ post.position }}
       </td>
     </tr>
   {% endif %}
 {% endfor %}
 </table>
 
-<h2 id="postdoctoral-scholars">Postdoctoral Scholars</h2>
+<h2 id="nasa-ames">NASA Ames Research Center</h2>
 <table>
   {% for post in site.team %}
-  {% if post.excerpt == 'Postdoctoral Scholar' %}
+  {% if post.excerpt == 'NASA Ames Research Center' %}
     <tr>
       <td>
         <a href="{{ post.url }}">
@@ -43,17 +45,17 @@ toc_icon: "users"
         <a href="{{ post.url }}">
           <h3 id="{{ post.title }}">{{ post.title }}</h3>
         </a>
-        {{ post.excerpt }}
+        {{ post.position }}
       </td>
     </tr>
   {% endif %}
 {% endfor %}
 </table>
 
-<h2 id="graduate-students">Graduate Students</h2>
+<h2 id="nmsu">New Mexico State University</h2>
 <table>
   {% for post in site.team %}
-  {% if post.excerpt == 'Graduate Student' %}
+  {% if post.excerpt == 'New Mexico State University' %}
     <tr>
       <td>
         <a href="{{ post.url }}">
@@ -64,7 +66,91 @@ toc_icon: "users"
         <a href="{{ post.url }}">
           <h3 id="{{ post.title }}">{{ post.title }}</h3>
         </a>
-        {{ post.excerpt }}
+        {{ post.position }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="u-alabama">University of Alabama</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'University of Alabama' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.position }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="u-arizona">University of Arizona</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'University of Arizona' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.position }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="uc-berkeley">University of California, Berkeley</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'University of California, Berkeley' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.position }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="unlv">University of Nevada, Las Vegas</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'University of Nevada, Las Vegas' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.position }}
       </td>
     </tr>
   {% endif %}
@@ -85,7 +171,6 @@ toc_icon: "users"
         <a href="{{ post.url }}">
           <h3 id="{{ post.title }}">{{ post.title }}</h3>
         </a>
-        {{ post.excerpt }}
       </td>
     </tr>
   {% endif %}

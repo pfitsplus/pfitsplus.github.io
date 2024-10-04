@@ -1,6 +1,8 @@
 ---
+permalink: /team/serviss-eleanor/
 title: "Serviss, Eleanor"
-excerpt: "Graduate Student"
+excerpt: "New Mexico State University"
+position: "Graduate Student"
 header:
   teaser: /assets/images/team/serviss-eleanor.jpg
 sidebar:
@@ -11,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Eleanor Serviss is a Graduate Student under [Wladimir Lyra](/team/lyra-wladimir)...
+Eleanor Serviss is a Graduate Student under [Wladimir Lyra](/team/nmsu-00-lyra-wladimir)...
 
 
 ## Timeline

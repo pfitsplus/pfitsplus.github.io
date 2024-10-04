@@ -1,12 +1,14 @@
 ---
+permalink: /team/baronett-stanley/
 title: "Baronett, Stanley A."
-excerpt: "Graduate Student"
+excerpt: "University of Nevada, Las Vegas"
+position: "UNLV Foundation Board of Trustees Fellow"
 header:
   teaser: /assets/images/team/baronett-stanley.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/baronett-stanley.jpg
-    text: "Graduate Student<br>
+    text: "UNLV Foundation Board of Trustees Fellow<br>
     <a href='https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22Baronett%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc&p_=0' target='_blank'><i class='fas fa-fw fa-search'></i>ADS</a><br>
     <a href='/assets/docs/team/baronett_cv.pdf' target='_blank'><i class='fas fa-fw fa-file-pdf'></i>CV</a><br>
     <a href='mailto:barons2@unlv.nevada.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>

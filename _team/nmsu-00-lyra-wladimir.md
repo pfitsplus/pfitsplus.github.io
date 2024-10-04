@@ -1,12 +1,14 @@
 ---
+permalink: /team/lyra-wladimir/
 title: "Lyra, Wladimir"
-excerpt: "Principal Investigator"
+excerpt: "New Mexico State University"
+position: "Associate Professor"
 header:
   teaser: /assets/images/team/lyra-wladimir.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/lyra-wladimir.jpg
-    text: "Principal Investigator<br>
+    text: "Associate Professor<br>
 	    <a href='https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22Lyra%2CW.%22)&sort=date%20desc%2C%20bibcode%20desc' target='_blank'><i class='fas fa-fw fa-search'></i>ADS</a><br>
     <a href='/assets/docs/team/lyra_cv.pdf' target='_blank'><i class='fas fa-fw fa-file-pdf'></i>CV</a><br>
     <a href='mailto:wlyra@nmsu.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>

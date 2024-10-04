@@ -1,4 +1,5 @@
 ---
+permalink: /team/davenport-abigail/
 title: "Davenport, Abigail"
 excerpt: "Alum"
 header:
@@ -11,7 +12,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Abigail Davenport was a graduate student under [Jake Simon](/team/simon-jacob).
+Abigail Davenport was a graduate student under [Jake Simon](/team/isu-00-simon-jacob).
 
 
 ## Timeline
