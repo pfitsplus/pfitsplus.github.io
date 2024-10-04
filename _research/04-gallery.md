@@ -11,5 +11,8 @@ The streaming instability with marginally coupled particles under various pressu
 
 
 ## [Videos](https://youtube.com/playlist?list=PLJJonQEjibQoyWgUsTPT5mC6Xq_GHD0Pj&si=K4PSwhv1B-CyOju8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaBSjHKoqSQ?si=l54EdvBjDxUyY97a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Planets forming in a vortex (Lyra et al. [2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract))
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6Dby5Suc-Y?si=y50q4ncdXB-npIv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-The streaming instability with marginally coupled particles (as featured in [NASA@SC21](https://www.nas.nasa.gov/SC21/research/project18.html))
+The streaming instability with marginally coupled particles, as featured by [NASA@SC21](https://www.nas.nasa.gov/SC21/research/project18.html) (Baronett et al. [2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract))
