@@ -1,4 +1,5 @@
 ---
+permalink: /team/youdin-andrew/
 title: "Youdin, Andrew N."
 excerpt: "University of Arizona"
 position: "Professor"

@@ -1,4 +1,5 @@
 ---
+permalink: /team/tanvir-tabassum/
 title: "Tanvir, Tabassum"
 excerpt: "Iowa State University"
 position: "Postdoctoral Scholar"
@@ -12,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Tabassum Tanvir is a Postdoctoral Scholar under [Jacob Simon](/team/simon-jacob)...
+Tabassum Tanvir is a Postdoctoral Scholar under [Jacob Simon](/team/isu-00-simon-jacob)...
 
 
 ## Timeline

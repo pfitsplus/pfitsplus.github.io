@@ -1,4 +1,5 @@
 ---
+permalink: /team/baronett-stanley/
 title: "Baronett, Stanley A."
 excerpt: "University of Nevada, Las Vegas"
 position: "UNLV Foundation Board of Trustees Fellow"

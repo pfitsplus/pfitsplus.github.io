@@ -1,4 +1,5 @@
 ---
+permalink: /team/umurhan-orkan/
 title: "Umurhan, Orkan M."
 excerpt: "NASA Ames Research Center"
 position: "Principal Investigator"

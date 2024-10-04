@@ -1,4 +1,5 @@
 ---
+permalink: /team/simon-jacob/
 title: "Simon, Jacob B."
 excerpt: "Iowa State University"
 position: "Associate Professor"

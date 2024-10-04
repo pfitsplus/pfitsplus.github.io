@@ -1,4 +1,5 @@
 ---
+permalink: /team/sengupta-debanjan/
 title: "Sengupta, Debanjan"
 excerpt: "New Mexico State University"
 position: "Research Scientist"

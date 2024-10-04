@@ -1,4 +1,5 @@
 ---
+permalink: /team/carrera-daniel/
 title: "Carrera, Daniel"
 excerpt: "New Mexico State University"
 position: "Assistant Research Professor"

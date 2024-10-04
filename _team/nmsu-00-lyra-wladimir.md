@@ -1,4 +1,5 @@
 ---
+permalink: /team/lyra-wladimir/
 title: "Lyra, Wladimir"
 excerpt: "New Mexico State University"
 position: "Associate Professor"

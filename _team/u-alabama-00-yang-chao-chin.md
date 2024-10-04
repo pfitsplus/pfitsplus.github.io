@@ -1,4 +1,5 @@
 ---
+permalink: /team/yang-chao-chin/
 title: "Yang, Chao-Chin"
 excerpt: "University of Alabama"
 position: "Assistant Professor"

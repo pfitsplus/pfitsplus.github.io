@@ -1,4 +1,5 @@
 ---
+permalink: /team/rixin-li/
 title: "Li, Rixin"
 excerpt: "University of California, Berkeley"
 position: "51 Pegasi b Postdoctoral Fellow"

@@ -1,4 +1,5 @@
 ---
+permalink: /team/mohov-aleksey/
 title: "Mohov, Aleksey"
 excerpt: "Alum"
 header:
@@ -11,7 +12,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Alex was a MSc student under [Chao-Chin Yang](/team/yang-chao-chin). He is currently a PhD student at Purdue University.
+Alex was a MSc student under [Chao-Chin Yang](/team/u-alabama-00-yang-chao-chin). He is currently a PhD student at Purdue University.
 
 
 ## Timeline
