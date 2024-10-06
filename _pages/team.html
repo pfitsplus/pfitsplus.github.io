@@ -10,6 +10,27 @@ toc_icon: "users"
 
 <h1>Institutions in alphabetical order</h1>
 
+<h2 id="nmsu">New Mexico State University</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'New Mexico State University' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.position }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
 <h2 id="isu">Iowa State University</h2>
 <table>
   {% for post in site.team %}
@@ -35,27 +56,6 @@ toc_icon: "users"
 <table>
   {% for post in site.team %}
   {% if post.excerpt == 'NASA Ames Research Center' %}
-    <tr>
-      <td>
-        <a href="{{ post.url }}">
-          <img src="{{ post.header.teaser }}" width="150">
-        </a>
-      </td>
-      <td>
-        <a href="{{ post.url }}">
-          <h3 id="{{ post.title }}">{{ post.title }}</h3>
-        </a>
-        {{ post.position }}
-      </td>
-    </tr>
-  {% endif %}
-{% endfor %}
-</table>
-
-<h2 id="nmsu">New Mexico State University</h2>
-<table>
-  {% for post in site.team %}
-  {% if post.excerpt == 'New Mexico State University' %}
     <tr>
       <td>
         <a href="{{ post.url }}">
