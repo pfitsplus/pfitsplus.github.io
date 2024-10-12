@@ -18,3 +18,4 @@ Olivia Brouillette is a Graduate Student under [Wladimir Lyra](/team/nmsu-00-lyr
 
 ## Timeline
 - __2024—present__: Ph.D., New Mexico State University
+- __2019-2023__: B.S, Iowa State University
