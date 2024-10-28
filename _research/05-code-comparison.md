@@ -4,7 +4,7 @@ permalink: /research/code-comparison/
 ---
 ## Streaming Instability
 
-The [streaming instability](/research/fluid-dynamics/#streaming-si) is a promising mechanism to drive [planetesimal formation](/research/planet-formation/#planetesimal-formation) from mm- to cm-sized pebbles, resulting from [dust coagulation](/research/planet-formation/#dust-coagulation), all of which occur within the gaseous [protoplanetary disk](/research/protoplanetary-disks/).
+The [streaming instability](/research/fluid-dynamics/#streaming-si) is a promising mechanism within [protoplanetary disks](/research/protoplanetary-disks/) to drive [planetesimal formation](/research/planet-formation/#planetesimal-formation) from mm- to cm-sized pebbles which result from [dust coagulation](/research/planet-formation/#dust-coagulation).
 Since its discovery by [Youdin](/team/youdin-andrew/) & Goodman ([2005](https://ui.adsabs.harvard.edu/abs/2005ApJ...620..459Y/abstract){:target="_blank"}), several [hydrodynamics codes](/research/#software-development) have explored the parameters, properties, and consequences of this aerodynamic instability that requires [feedback between dust and gas momenta](/research/fluid-dynamics/#dustgas-dynamics).
 However, the non-trivial differences between numerical techniques (e.g., finite difference or finite volume) and dust modeling (e.g., as a pressureless fluid or as Lagrangian particles) can make it difficult to disentangle unique scientific results from the potential idiosyncrasies of a particular code or implementation.
 In an effort to address these issues, we are leading a comprehensive comparison of various multipurpose codes across some of the key models and problems previously studied in investigations into the streaming instability.
@@ -31,8 +31,15 @@ Further details on the structure and contents of submission data can be found in
 
 
 ### Preliminary Figures
-![A grid of dust density snapshots at various simulation times and from different codes for Problem BA with an average of one particle per gas grid cell.](/assets/images/research/code-comparison/si/BA-np1-512.png)
+![A grid of dust density snapshots at various simulation times from different Lagrangian-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-np1-512.png)
 A series of snapshots of the dust density field from various Lagrangian-dust codes for Problem BA with an average of one particle per gas cell, i.e. $$n_\mathrm{p} = 1$$, at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
+Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
+In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
+The color-bar scale in the bottom right indicates the dust density $$\rho_\mathrm{p}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas scale height $$H_\mathrm{g}$$.
+
+![A grid of dust density snapshots at various simulation times from different fluid-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-fluid-512.png)
+A series of snapshots of the dust density field from various fluid-dust codes for Problem BA at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
 Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
 In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
 The color-bar scale in the bottom right indicates the dust density $$\rho_\mathrm{p}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
