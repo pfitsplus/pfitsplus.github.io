@@ -22,7 +22,7 @@ description: "Theoretical and computational research into protoplanetary disk ev
 github_username: pfitsplus
 minimal_mistakes_skin: dirt
 search: true
-logo: "/assets/images/logo.webp"
+logo: "/assets/images/logo.png"
 favicon: "/assets/images/favicon.ico"
 
 # Build settings
