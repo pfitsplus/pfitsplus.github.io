@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Planet Formation in the Southwest+"
+title: "Planet Formation in the Southwest +"
 permalink: /
 hidden: true
 header:
