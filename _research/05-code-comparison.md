@@ -5,32 +5,37 @@ permalink: /research/code-comparison/
 ## Streaming Instability
 
 The [streaming instability](/research/fluid-dynamics/#streaming-si) is a promising mechanism within [protoplanetary disks](/research/protoplanetary-disks/) to drive [planetesimal formation](/research/planet-formation/#planetesimal-formation) from mm- to cm-sized pebbles which result from [dust coagulation](/research/planet-formation/#dust-coagulation).
-Since its discovery by [Youdin](/team/youdin-andrew/) & Goodman ([2005](https://ui.adsabs.harvard.edu/abs/2005ApJ...620..459Y/abstract){:target="_blank"}), several [hydrodynamics codes](/research/#software-development) have explored the parameters, properties, and consequences of this aerodynamic instability that requires [feedback between dust and gas momenta](/research/fluid-dynamics/#dustgas-dynamics).
+Since its discovery by [Youdin](/team/youdin-andrew/) & Goodman ([2005](https://ui.adsabs.harvard.edu/abs/2005ApJ...620..459Y/abstract){:target="_blank"}), several [hydrodynamics codes](/research/#software-development) have explored the parameters, non-linear properties, and implications of this aerodynamic instability that requires [feedback between dust and gas momenta](/research/fluid-dynamics/#dustgas-dynamics).
 However, the non-trivial differences between numerical techniques (e.g., finite difference or finite volume) and dust modeling (e.g., as a pressureless fluid or as Lagrangian particles) can make it difficult to disentangle unique scientific results from the potential idiosyncrasies of a particular code or implementation.
 In an effort to address these issues, we are leading a comprehensive comparison of various multipurpose codes across some of the key models and problems previously studied in investigations into the streaming instability.
 
 
-### [Problem Set](/assets/docs/research/code-comparison/si/SICC_Problem_Set.pdf){:target="_blank"}
-We invite users and developers of hydrodynamical codes who wish to participate or contribute to this project to review the Streaming Instability Code Comparison Problem Set ([PDF](/assets/docs/research/code-comparison/si/SICC_Problem_Set.pdf){:target="_blank"}).
-As this document continues to be developed, please contact [Stanley A. Baronett](/team/baronett-stanley/) with any questions or feedback that may be helpful toward future revisions.
+### [<i class='fa-solid fa-file-pdf'></i>](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"} [Problem Set](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"}
+
+We invite users and developers of hydrodynamical codes who wish to participate or contribute to this project to review the Streaming Instability Code Comparison Problem Set ([PDF](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"}).
+As this document continues to be developed, including the addition of new problems in future revisions, please contact [Stanley A. Baronett](/team/baronett-stanley/) with any questions or feedback that may be helpful toward future revisions.
 
 
-### GitHub Repository
-Project and source files related to this project can be found in our associated [GitHub repository](https://github.com/sabaronett/sicc).
-[Jupyter Notebooks](https://jupyter.org/) containing [Python](https://www.python.org/) scripts to generate the figures [below](#preliminary-figures) and in our forthcoming manuscript can be found in the [`/ipynb`](https://github.com/sabaronett/sicc/tree/main/ipynb) directory.
-Source and input files for some participating codes, as well as pseudo code for particular models, can be found in the [`/source_files`](https://github.com/sabaronett/sicc/tree/main/source_files) directory.
-To be consistent with the structure of the [Problem Set](#problem-set) (Section 1.2), the subdirectories therein are hierarchically organized by model, by problem, then by variation.
-For more information, please see the repository [README](https://github.com/sabaronett/sicc/blob/main/README.md), and feel free to [create an issue](https://github.com/sabaronett/sicc/issues) for any questions, feedback, or issues encountered.
+### [<i class='fab fa-fw fa-github'></i>](https://github.com/pfitsplus/sicc){:target="_blank"} [GitHub Repository](https://github.com/pfitsplus/sicc){:target="_blank"}
+
+Project and source files related to this project can be found in our associated [GitHub repository](https://github.com/pfitsplus/sicc).
+[Jupyter Notebooks](https://jupyter.org/) containing [Python](https://www.python.org/) scripts to generate the figures [below](#preliminary-figures) and in our forthcoming manuscript can be found in the [`/ipynb`](https://github.com/pfitsplus/sicc/tree/main/ipynb) directory.
+Source and input files for some participating codes, as well as pseudo code for particular models, can be found in the [`/source_files`](https://github.com/pfitsplus/sicc/tree/main/source_files) directory.
+To be consistent with the structure of the [Problem Set](#problem-set) (Section 1.2), the subdirectories therein are hierarchically organized first by *model*, next by *problem*, next by *variation*, and last by *code*.
+For more information, please see the repository [README](https://github.com/pfitsplus/sicc/blob/main/README.md), and feel free to [create an issue](https://github.com/pfitsplus/sicc/issues) for any questions, feedback, or issues encountered.
 
 
-### Google Shared Drive
+### [<i class='fab fa-fw fa-google-drive'></i>](https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing){:target="_blank"}  [Google Shared Drive](https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing){:target="_blank"}
+
 The problem data outputted by participating codes for submission to the project should be uploaded to our designated [Google Shared Drive](https://drive.google.com/drive/u/1/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v).
-To be consistent with the structure of the [Problem Set](#problem-set) (Section 1.2), the subdirectories therein are hierarchically organized by model, by problem, by variation, then by code.
-Regardless of the inherent data format normally generated by a participating code, all requested output (e.g., arrays) must be converted to (i.e. stored in) individual compressed or uncompressed [NumPy](https://numpy.org/doc/stable/index.html) `.npz` files (see the [official "Input and output" documentation](https://numpy.org/doc/stable/reference/routines.io.html) for details).
+Anyone on with the link can view and comment on the contents, but please contact [Stanley A. Baronett](/team/baronett-stanley/) to request access to add or edit files.
+To be consistent with the structure of the [Problem Set](#problem-set) (Section 1.2), the subdirectories therein are hierarchically organized first by *model*, next by *problem*, next by *variation*, and last by *code*.
+Regardless of the inherent data format normally generated by a participating code, all requested output (e.g., arrays) must be stored in or converted to individual compressed [NumPy](https://numpy.org/doc/stable/index.html) `.npz` files (see the [official "Input and output" documentation](https://numpy.org/doc/stable/reference/routines.io.html) for details).
 Further details on the structure and contents of submission data can be found in Section 1.1.2 of the [Problem Set](#problem-set).
 
 
 ### Preliminary Figures
+
 ![A grid of dust density snapshots at various simulation times from different Lagrangian-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-np1-512.png)
 A series of snapshots of the dust density field from various Lagrangian-dust codes for Problem BA with an average of one particle per gas cell, i.e. $$n_\mathrm{p} = 1$$, at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
 Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
