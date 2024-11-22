@@ -36,16 +36,39 @@ Further details on the structure and contents of submission data can be found in
 
 ### Preliminary Figures
 
-![A grid of dust density snapshots at various simulation times from different Lagrangian-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-np1-512.png)
+#### Lagrangian dust particles
+
+![A grid of dust density snapshots at various simulation times from different Lagrangian-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-np1-512_snapshots.png)
 A series of snapshots of the dust density field from various Lagrangian-dust codes for Problem BA with an average of one particle per gas cell, i.e. $$n_\mathrm{p} = 1$$, at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
 Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
 In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
 The color-bar scale in the bottom right indicates the dust density $$\rho_\mathrm{p}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
 Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas scale height $$H_\mathrm{g}$$.
 
-![A grid of dust density snapshots at various simulation times from different fluid-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-fluid-512.png)
+![TO DO](/assets/images/research/code-comparison/si/BA-np1-512_time_series.png)
+Maximum dust density as a function of time for codes implementing Lagrangian particles.
+Line colours represent different codes.
+Densities are normalised to the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+
+![TO DO](/assets/images/research/code-comparison/si/BA-np1-512_CDF.png)
+Time-averaged cumulative distribution functions for the dust density for codes implementing Lagrangian particles.
+Solid lines represent the time-averaged densities, shaded areas represent the $$1\sigma$$ time variability, and different colours represent different codes.
+
+
+#### Pressureless dust fluid
+
+![A grid of dust density snapshots at various simulation times from different fluid-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-fluid-512_snapshots.png)
 A series of snapshots of the dust density field from various fluid-dust codes for Problem BA at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
 Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
 In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
 The color-bar scale in the bottom right indicates the dust density $$\rho_\mathrm{p}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
 Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas scale height $$H_\mathrm{g}$$.
+
+![FINISH.](/assets/images/research/code-comparison/si/BA--512_time_series.png)
+Maximum dust density as a function of time for codes implementing a pressureless fluid.
+Line colours represent different codes.
+Densities are normalised to the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+
+![TO DO](/assets/images/research/code-comparison/si/BA--512_CDF.png)
+Time-averaged cumulative distribution functions for the dust density for codes implementing Lagrangian particles.
+Solid lines represent the time-averaged densities, shaded areas represent the $$1\sigma$$ time variability, and different colours represent different codes.
