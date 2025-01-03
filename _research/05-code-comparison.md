@@ -12,7 +12,7 @@ In an effort to address these issues, we are leading a comprehensive comparison 
 
 ### [<i class='fa-solid fa-file-pdf'></i>](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"} [Problem Set](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"}
 
-We invite users and developers of hydrodynamical codes who wish to contribute to this project to review the Streaming Instability Code Comparison Problem Set ([PDF](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"}).
+We invite users and developers of hydrodynamics codes who wish to contribute to this project to review the Streaming Instability Code Comparison Problem Set ([PDF](/assets/docs/research/code-comparison/si/sicc_problem_set.pdf){:target="_blank"}).
 As this document continues to be developed, including the addition of new problems in future revisions, please contact [Stanley A. Baronett](/team/baronett-stanley/) with any questions or feedback that may be helpful toward future revisions.
 
 
@@ -36,39 +36,49 @@ Further details on the structure and contents of submission data can be found in
 
 ### Preliminary Figures
 
-#### Lagrangian dust particles
+#### Fiducial Grid Resolution
 
-![A grid of dust density snapshots at various simulation times from different Lagrangian-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-np1-512_snapshots.png)
-A series of snapshots of the dust density field from various Lagrangian-dust codes for Problem BA with an average of one particle per gas cell, i.e. $$n_\mathrm{p} = 1$$, at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
-Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
-In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
-The color-bar scale in the bottom right indicates the dust density $$\rho_\mathrm{p}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+![](/assets/images/research/code-comparison/si/BA-512_snapshots.png)
+**Figure 1.** Dust density snapshots for Problem BA at a grid resolution of 512 × 512.
+Each row shows the code labeled along the left margin.
+In alphabetical order from top to bottom, the upper group implements dust fluids 
+In alphabetical order from top to bottom, the upper group implements Lagrangian particles with $$n_\mathrm{p} = 1$$ ([Problem Set](#problem-set) Section 2.1.2), and the lower group implements dust fluids (Section 2.1.3).
+Each column shows the simulation time in local orbital periods $$T$$ labeled along the top margin.
+The color scale in the bottom right shows the dust density $$\rho_\mathrm{d}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
 Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas scale height $$H_\mathrm{g}$$.
 
-![TO DO](/assets/images/research/code-comparison/si/BA-np1-512_time_series.png)
-Maximum dust density as a function of time for codes implementing Lagrangian particles.
-Line colours represent different codes.
-Densities are normalised to the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+![](/assets/images/research/code-comparison/si/BA-512_time_series.png)
+**Figure 2.** Maximum dust densities $$\max(\rho_\mathrm{d})$$ as a function of time for Problem BA at a grid resolution of 512 × 512.
+The top panel compares time series with similar cadences, showing an average of 630 samples per code.
+The bottom panel shows the simple moving average $$\mathrm{SMA}$$ with a sampling window of $$10T$$.
+Densities are in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+Dotted lines show codes that implement Lagrangian particles with $$n_\mathrm{p} = 1$$, solid lines show codes with dust fluids, and line colors show different codes.
 
-![TO DO](/assets/images/research/code-comparison/si/BA-np1-512_CDF.png)
-Time-averaged cumulative distribution functions for the dust density for codes implementing Lagrangian particles.
-Solid lines represent the time-averaged densities, shaded areas represent the $$1\sigma$$ time variability, and different colours represent different codes.
+![](/assets/images/research/code-comparison/si/BA-512_CDF.png)
+**Figure 3.** Time-averaged cumulative distribution functions for the dust density for Problem BA at a grid resolution of 512 × 512.
+Lines show the densities time-averaged over the saturation state $$\overline{\rho_\mathrm{d}}$$, and shaded areas show the $$1\sigma$$ time variability.
+Densities are in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+Dotted lines show codes that implement Lagrangian particles with $$n_\mathrm{p} = 1$$, solid lines show codes with dust fluids, and line colors show different codes.
 
 
-#### Pressureless dust fluid
+##### Higher Particle Resolution
 
-![A grid of dust density snapshots at various simulation times from different fluid-dust codes for Problem BA with an average of one particle per gas grid cell at 512x512 resolution.](/assets/images/research/code-comparison/si/BA-fluid-512_snapshots.png)
-A series of snapshots of the dust density field from various fluid-dust codes for Problem BA at a grid resolution of $$512 \times 512$$ (see Section 2.2.1 of the [Problem Set](#problem-set)).
-Increasing from top to bottom, each row corresponds to the simulation time $$t_\mathrm{sim}$$ in units of the local orbital period $$T$$, as labeled along the left margin.
-In alphabetical order from left to right, each column corresponds to a different code, as labeled along the top row of snapshots.
-The color-bar scale in the bottom right indicates the dust density $$\rho_\mathrm{p}$$ in units of the initially uniform gas density $$\rho_\mathrm{g,0}$$.
-Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas scale height $$H_\mathrm{g}$$.
+![](/assets/images/research/code-comparison/si/BA-512-np9_snapshots.png)
+**Figure 4.** Similar to Figure [1](#higher-particle-resolution:~:text=Permalink-,Figure%201.,-Dust%20density%20snapshots) except for only codes with $$n_\mathrm{p} = 9$$ Lagrangian particles.
 
-![FINISH.](/assets/images/research/code-comparison/si/BA--512_time_series.png)
-Maximum dust density as a function of time for codes implementing a pressureless fluid.
-Line colours represent different codes.
-Densities are normalised to the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+![](/assets/images/research/code-comparison/si/BA-512-np9_time_series.png)
+**Figure 5.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except comparing only Lagrangian-particle implementations with dash–dotted lines showing $$n_\mathrm{p} = 9$$.
 
-![TO DO](/assets/images/research/code-comparison/si/BA--512_CDF.png)
-Time-averaged cumulative distribution functions for the dust density for codes implementing Lagrangian particles.
-Solid lines represent the time-averaged densities, shaded areas represent the $$1\sigma$$ time variability, and different colours represent different codes.
+![](/assets/images/research/code-comparison/si/BA-512-np9_CDF.png)
+**Figure 6.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except comparing only Lagrangian-particle implementations with dash–dotted lines showing $$n_\mathrm{p} = 9$$.
+
+#### Higher Grid Resolution
+
+![](/assets/images/research/code-comparison/si/BA-1024_snapshots.png)
+**Figure 7.** Similar to Figure [1](#higher-particle-resolution:~:text=Permalink-,Figure%201.,-Dust%20density%20snapshots) except at a grid resolution of 1024².
+
+![](/assets/images/research/code-comparison/si/BA-1024_time_series.png)
+**Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) with dash–dotted lines showing grid resolutions of 1024².
+
+![](/assets/images/research/code-comparison/si/BA-1024_CDF.png)
+**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) with dash–dotted lines showing grid resolutions of 1024².
