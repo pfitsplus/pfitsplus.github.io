@@ -66,11 +66,11 @@ Dotted lines show codes that implement an average of one (1) Lagrangian particle
 **Figure 4.** Similar to Figure [1](#higher-particle-resolution:~:text=Permalink-,Figure%201.,-Dust%20density%20snapshots) except for only codes that implement an average of nine (9) Lagrangian particles per grid cell.
 
 ![](/assets/images/research/code-comparison/si/BA-512-np9_time_series.png)
-**Figure 5.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except comparing only Lagrangian-particle implementations and that dash–dotted lines show an average of nine (9) particles per grid cell.
+**Figure 5.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except comparing only Lagrangian-particle implementations with dashed lines showing an average of nine (9) particles per grid cell.
 The top panel uses a similar cadence for each time series with an average of 1000 samples per code.
 
 ![](/assets/images/research/code-comparison/si/BA-512-np9_CDF.png)
-**Figure 6.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except comparing only Lagrangian-particle implementations and that dash–dotted lines show an average of nine (9) particles per grid cell.
+**Figure 6.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except comparing only Lagrangian-particle implementations with dashed lines showing an average of nine (9) particles per grid cell.
 
 #### Higher Grid Resolution
 
@@ -78,8 +78,8 @@ The top panel uses a similar cadence for each time series with an average of 100
 **Figure 7.** Similar to Figure [1](#higher-particle-resolution:~:text=Permalink-,Figure%201.,-Dust%20density%20snapshots) except at a grid resolution of 1024².
 
 ![](/assets/images/research/code-comparison/si/BA-1024_time_series.png)
-**Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) but with dash–dotted lines showing grid resolutions of 1024².
+**Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) but with dashed lines showing grid resolutions of 1024².
 The top panel uses a similar cadence for each time series with an average of 600 samples per code.
 
 ![](/assets/images/research/code-comparison/si/BA-1024_CDF.png)
-**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) but with dash–dotted lines showing grid resolutions of 1024².
+**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) but with dashed lines showing grid resolutions of 1024².
