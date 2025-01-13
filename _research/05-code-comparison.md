@@ -44,7 +44,7 @@ Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas sca
 ![](/assets/images/research/code-comparison/si/BA-512_time_series.png)
 **Figure 2.** Maximum dust densities $$\max(\rho_\mathrm{d})$$ as a function of time for Problem BA at a grid resolution of 512².
 The units for density and time are the initially uniform gas density $$\rho_\mathrm{g,0}$$ and the local orbital period $$T$$, respectively.
-The top panel uses a similar cadence for each time series with an average of 630 samples per code.
+The top panel uses a similar cadence for each time series.
 The bottom panel shows the simple moving average $$\mathrm{SMA}$$ with a sampling window of $$10T$$.
 Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagrangian particle per grid cell, solid lines show codes with pressureless dust fluids, and line colors show different codes.
 
@@ -62,7 +62,6 @@ Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagran
 
 ![](/assets/images/research/code-comparison/si/BA-512-np9_time_series.png)
 **Figure 5.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except comparing only Lagrangian-particle implementations with dashed lines showing an average of $$n_\mathrm{p} = 9$$ particles per grid cell.
-The top panel uses a similar cadence for each time series with an average of 1000 samples per code.
 
 ![](/assets/images/research/code-comparison/si/BA-512-np9_CDF.png)
 **Figure 6.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except comparing only Lagrangian-particle implementations with dashed lines showing an average $$n_\mathrm{p} = 9$$ particles per grid cell.
@@ -74,7 +73,6 @@ The top panel uses a similar cadence for each time series with an average of 100
 
 ![](/assets/images/research/code-comparison/si/BA-1024_time_series.png)
 **Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) but with dashed lines showing grid resolutions of 1024².
-The top panel uses a similar cadence for each time series with an average of 600 samples per code.
 
 ![](/assets/images/research/code-comparison/si/BA-1024_CDF.png)
 **Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) but with dashed lines showing grid resolutions of 1024².
