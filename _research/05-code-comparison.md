@@ -18,8 +18,8 @@ As this document continues to be developed, including the addition of new proble
 
 ### [<i class='fab fa-fw fa-github'></i>](https://github.com/pfitsplus/sicc){:target="_blank"} [GitHub Repository](https://github.com/pfitsplus/sicc){:target="_blank"}
 
-Figure scripts and source codes related to this project can be found in our [__pfitsplus/sicc__](https://github.com/pfitsplus/sicc){:target="_blank"} GitHub repository.
-For more information, please see the repository [README](https://github.com/pfitsplus/sicc/blob/main/README.md){:target="_blank"}
+Figure scripts and source code files related to this project can be found in our [__pfitsplus/sicc__](https://github.com/pfitsplus/sicc){:target="_blank"} GitHub repository.
+For more information, please see the repository [README](https://github.com/pfitsplus/sicc/blob/main/README.md){:target="_blank"}.
 
 
 ### [<i class='fab fa-fw fa-google-drive'></i>](https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing){:target="_blank"}  [Google Shared Drive](https://drive.google.com/drive/folders/14GiJq2lyPePPaCrZzzELsCou5rLTza0v?usp=sharing){:target="_blank"}
