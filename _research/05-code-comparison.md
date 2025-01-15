@@ -38,7 +38,7 @@ Further details on the structure and contents of submission data can be found in
 Each row shows the code labeled along the left margin.
 In alphabetical order from top to bottom, the upper group implements an average of one (1) Lagrangian particle per grid cell, and the lower group implements a pressureless dust fluid.
 Each column shows the simulation time in local orbital periods $$T$$ labeled along the top margin.
-The color scale in the bottom right shows the dust density $$\rho_\mathrm{d}$$ relative to the initially uniform gas density $$\rho_\mathrm{g,0}$$.
+The color scale in the bottom right shows the dust density $$\rho_\mathrm{d}$$ relative to the initially uniform gas density $$\rho_\mathrm{g,0}$$ and applies to all snapshots.
 Radial $$x$$ and vertical $$z$$ coordinates are in units of the vertical gas scale height $$H_\mathrm{g}$$.
 
 ![](/assets/images/research/code-comparison/si/BA-512_time_series.png)
