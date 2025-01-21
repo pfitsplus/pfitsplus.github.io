@@ -55,7 +55,7 @@ Dust densities are relative to the initially uniform gas density $$\rho_\mathrm{
 Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagrangian particle per grid cell, solid lines show codes with pressureless dust fluids, and line colors show different codes.
 
 
-##### Higher Particle Resolution
+##### Additional Particles
 
 ![](/assets/images/research/code-comparison/si/BA-512-np9_snapshots.png)
 **Figure 4.** Similar to Figure [1](#higher-particle-resolution:~:text=Permalink-,Figure%201.,-Dust%20density%20snapshots) except for only codes that implement an average of $$n_\mathrm{p} = 9$$ Lagrangian particles per grid cell.
@@ -72,7 +72,7 @@ Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagran
 **Figure 7.** Similar to Figure [1](#higher-particle-resolution:~:text=Permalink-,Figure%201.,-Dust%20density%20snapshots) except at a grid resolution of 1024².
 
 ![](/assets/images/research/code-comparison/si/BA-1024_time_series.png)
-**Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) but with dashed lines showing grid resolutions of 1024².
+**Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except with dashed lines showing grid resolutions of 1024².
 
 ![](/assets/images/research/code-comparison/si/BA-1024_CDF.png)
-**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) but with dashed lines showing grid resolutions of 1024².
+**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except with dashed lines showing grid resolutions of 1024².
