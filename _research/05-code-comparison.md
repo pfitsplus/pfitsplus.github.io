@@ -49,10 +49,11 @@ The bottom panel shows the simple moving average $$\mathrm{SMA}$$ with a samplin
 Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagrangian particle per grid cell, solid lines show codes with pressureless dust fluids, and line colors show different codes.
 
 ![](/assets/images/research/code-comparison/si/BA-512_CDF.png)
-**Figure 3.** Time-averaged cumulative distribution functions for the dust density for Problem BA at a grid resolution of 512².
-Lines show the densities time-averaged over the saturation state $$\overline{\rho_\mathrm{d}}$$, and shaded areas show the $$1\sigma$$ time variability.
+**Figure 3.** Cumulative distribution functions of the dust density for Problem BA at a grid resolution of 512².
+In the upper panel, lines show densities time-averaged over the saturation state $$\overline{\rho_\mathrm{d}}$$, line colors different codes, and shaded areas the $$1\sigma$$ time variability.
+In the lower panel, lines and shaded areas show the meta-average $$\overline{\overline{\rho_\mathrm{d}}}$$ and standard deviation, respectively, of $$\overline{\rho_\mathrm{d}}$$ in the upper panel for each dust implementation.
 Dust densities are relative to the initially uniform gas density $$\rho_\mathrm{g,0}$$.
-Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagrangian particle per grid cell, solid lines show codes with pressureless dust fluids, and line colors show different codes.
+Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagrangian particle per grid cell and solid lines codes with pressureless dust fluids.
 
 
 ##### Additional Particles
@@ -64,7 +65,7 @@ Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagran
 **Figure 5.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except comparing only Lagrangian-particle implementations with dashed lines showing an average of $$n_\mathrm{p} = 9$$ particles per grid cell.
 
 ![](/assets/images/research/code-comparison/si/BA-512-np9_CDF.png)
-**Figure 6.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except comparing only Lagrangian-particle implementations with dashed lines showing an average $$n_\mathrm{p} = 9$$ particles per grid cell.
+**Figure 6.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except comparing only Lagrangian-particle implementations with dashed lines showing an average of $$n_\mathrm{p} = 9$$ particles per grid cell.
 
 #### Higher Grid Resolution
 
@@ -75,4 +76,4 @@ Dotted lines show codes that implement an average of $$n_\mathrm{p} = 1$$ Lagran
 **Figure 8.** Similar to Figure [2](#higher-particle-resolution:~:text=.-,Figure%202.,-Maximum%20dust%20densities) except with dashed lines showing grid resolutions of 1024².
 
 ![](/assets/images/research/code-comparison/si/BA-1024_CDF.png)
-**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative) except with dashed lines showing grid resolutions of 1024².
+**Figure 9.** Similar to Figure [3](#higher-particle-resolution:~:text=show%20different%20codes.-,Figure%203.,-Time%2Daveraged%20cumulative), except grid resolutions at 1024² are shown as dashed and darker lines in the upper and lower panels, respectively.
