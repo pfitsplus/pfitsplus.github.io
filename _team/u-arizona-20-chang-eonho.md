@@ -13,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Eonho Chang is a Graduate Student under [Andrew Youdin](/team/u-arizona-00-youdin-andrew)...
+Eonho Chang is a Graduate Student under [Andrew Youdin](/team/youdin-andrew).
 
 
 ## Timeline

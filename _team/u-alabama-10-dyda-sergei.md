@@ -13,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Sergei Dyda is a Postdoctoral Scholar under [Chao-Chin Yang](/team/u-alabama-00-yang-chao-chin) at the University of Alabama.
+Sergei Dyda is a Postdoctoral Scholar under [Chao-Chin Yang](/team/yang-chao-chin) at the University of Alabama.
 
 
 ## Timeline

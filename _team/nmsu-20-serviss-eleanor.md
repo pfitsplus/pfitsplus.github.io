@@ -13,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Eleanor Serviss is a Graduate Student under [Wladimir Lyra](/team/nmsu-00-lyra-wladimir)...
+Eleanor Serviss is a Graduate Student under [Wladimir Lyra](/team/lyra-wladimir).
 
 
 ## Timeline

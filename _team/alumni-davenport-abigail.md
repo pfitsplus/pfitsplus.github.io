@@ -12,7 +12,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Abigail Davenport was a graduate student under [Jake Simon](/team/isu-00-simon-jacob).
+Abigail Davenport was a graduate student under [Jake Simon](/team/simon-jacob).
 
 
 ## Timeline

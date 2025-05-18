@@ -13,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Leopold Hutnik is a Graduate Student under [Wladimir Lyra](/team/nmsu-00-lyra-wladimir)...
+Leopold Hutnik is a Graduate Student under [Wladimir Lyra](/team/lyra-wladimir).
 
 
 ## Timeline
