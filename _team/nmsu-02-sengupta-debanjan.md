@@ -13,7 +13,7 @@ sidebar:
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
 ---
-Debanjan Sengupta is a Research Scientist at New Mexico State University
+Debanjan Sengupta is a Research Scientist at New Mexico State University.
 
 
 ## Timeline

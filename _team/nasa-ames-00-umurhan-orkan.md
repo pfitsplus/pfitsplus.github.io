@@ -14,7 +14,7 @@ sidebar:
     <li> Planet formation"
 ---
 
-Orkan M. Umurhan is ...
+Orkan M. Umurhan is a Principal Investigator at NASA Ames Research Center.
 
 ## Biography
 - __2020–present__ - Principal Investigator, NASA Ames Research Center
