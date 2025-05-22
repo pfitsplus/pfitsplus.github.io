@@ -13,6 +13,9 @@ main:
   - title: "Publications"
     url: https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA
     target: _blank
+  - title: "Talks"
+    url: https://www.youtube.com/@PFITSTalkSeries
+    target: _blank
 
 # research sidebar
 research:
