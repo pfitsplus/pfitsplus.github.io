@@ -1,20 +1,22 @@
 # main navbar
 main:
-  - title: "News"
-    url: /news/
-  - title: "Research"
-    url: /research/
-  - title: "Gallery"
-    url: /research/gallery/
-  - title: "Code Comparison"
-    url: /research/code-comparison/
   - title: "Team"
     url: /team/
-  - title: "Publications"
-    url: https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA
-    target: _blank
+  - title: "Meetings"
+    url: /research/meetings/
+  - title: "Code Comparisons"
+    url: /research/code-comparisons/
   - title: "Talks"
     url: https://www.youtube.com/@PFITSTalkSeries
+    target: _blank
+  - title: "Research"
+    url: /research/
+  - title: "News"
+    url: /news/
+  - title: "Gallery"
+    url: /research/gallery/
+  - title: "Publications"
+    url: https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA
     target: _blank
 
 # research sidebar
@@ -31,6 +33,7 @@ research:
         url: /research/fluid-dynamics/
 
   - title: "Software Development"
+    url: /research#software-development
     children:
       - title: "Athena"
         url: https://princetonuniversity.github.io/Athena-Cversion/
@@ -39,6 +42,18 @@ research:
       - title: "Pencil Code"
         url: http://pencil-code.nordita.org/
 
+  - title: "Meetings"
+    url: /research/meetings
+    children:
+      - title: "2026 June 8‒12"
+        url: /research/meetings#2026-june-812
+
+  - title: "Code Comparisons"
+    url: /research/code-comparisons
+    children:
+      - title: "Streaming Instability"
+        url: /research/code-comparisons#streaming-instability
+
   - title: "Gallery"
     children:
       - title: "Images"
@@ -46,7 +61,4 @@ research:
       - title: "Videos"
         url: /research/gallery#videos
 
-  - title: "Code Comparison"
-    children:
-      - title: "Streaming Instability"
-        url: /research/code-comparison/
+
