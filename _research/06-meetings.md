@@ -6,7 +6,12 @@ permalink: /research/meetings/
 {% include figure image_path='/assets/images/research/meetings/goldengate.png' %}
 ## 2026 June 8--12
 
-The goal of the meeting is to bring together researchers to discuss current and future research on planet formation with a focus on hydrodynamical instabilities and computational astrophysics. Topics to be covered are: vertical shear instability, convective overstability, rossby wave instability, streaming instability, and other instabilities. 
+The goal of the meeting is to bring together researchers to discuss current and future research on planet formation with a focus on hydrodynamical instabilities and computational astrophysics. Topics to be covered:
+- vertical shear instability
+- convective overstability
+- Rossby wave instability
+- streaming instabilities
+- other instabilities
 
 The workshop is the third in the [PFITS+](/) (Planet Formation in the Southwest Plus) series:
 the [first meeting](https://www.ufos-project.eu/dust-gas-drag-instability-code-comparison) was held in June, 2022, in Las Cruces, NM;
