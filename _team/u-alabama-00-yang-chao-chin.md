@@ -1,7 +1,7 @@
 ---
 permalink: /team/yang-chao-chin/
 title: "Yang, Chao-Chin"
-excerpt: "University of Alabama"
+excerpt: "The University of Alabama"
 position: "Assistant Professor"
 header:
   teaser: /assets/images/team/yang-chao-chin.jpg
@@ -19,7 +19,7 @@ sidebar:
     <li> Computational astrophysics"
 ---
 
-Chao-Chin Yang (楊朝欽) is an Assistant Professor in the Department of Physics and Astronomy at the University of Alabama.
+Chao-Chin Yang (楊朝欽) is an Assistant Professor in the Department of Physics and Astronomy at The University of Alabama.
 Dr. Yang is a theoretical astrophysicist studying how planets were assembled from their natal circumstellar disks to form our Solar System and thousands of extrasolar planetary systems detected in the past couple of decades.
 He specializes in magneto-hydrodynamics and dust-gas dynamics of circumstellar disks and the formation of kilometer-sized planetary objects such as asteroids and Kuiper Belt objects in the Solar System.
 His investigation usually involves large-scale computer simulations on high-end computing clusters and the ensuing data analysis.
