@@ -4,7 +4,7 @@ permalink: /research/meetings/
 ---
 # 3rd PFITS+ Meeting on Hydrodynamics of Circumstellar Disks and Planet Formation
 {% include figure image_path='/assets/images/research/meetings/goldengate.png' %}
-## 2026 June 8--12
+## <i class="fa-solid fa-calendar-days"></i> 2026 June 8--12
 
 The goal of the meeting is to bring together researchers to discuss current and future research on planet formation with a focus on hydrodynamical instabilities and computational astrophysics. Topics to be covered:
 - vertical shear instability
