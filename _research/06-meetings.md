@@ -2,14 +2,22 @@
 title: "Meetings"
 permalink: /research/meetings/
 ---
-# 2026 June 8--12
-{% include figure image_path='/assets/images/research/meetings/2026-06.jpeg' %}
-## 3rd PFITS+ Meeting on Hydrodynamics of Circumstellar Disks and Planet Formation
+# 3rd PFITS+ Meeting on Hydrodynamics of Circumstellar Disks and Planet Formation
+{% include figure image_path='/assets/images/research/meetings/goldengate.png' %}
+## 2026 June 8--12
 
-The goal of the meeting is to bring together professors, postdocs, and students to discuss current and future research on planet formation with a focus on hydrodynamical instabilities and computational astrophysics.
+The goal of the meeting is to bring together researchers to discuss current and future research on planet formation with a focus on hydrodynamical instabilities and computational astrophysics. Topics to be covered:
+- vertical shear instability
+- convective overstability
+- Rossby wave instability
+- streaming instabilities
+- other instabilities
+
 The workshop is the third in the [PFITS+](/) (Planet Formation in the Southwest Plus) series:
-the first meeting was held in June, 2022, in Las Cruces, NM; the second in Tucson AZ, in Nov., 2023.
-All participants are requested to register by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"}).
+the [first meeting](https://www.ufos-project.eu/dust-gas-drag-instability-code-comparison) was held in June, 2022, in Las Cruces, NM;
+the [second](https://sites.google.com/view/tcanaz) in Tucson AZ, in Nov., 2023.
+
+All participants are kindly asked to register by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"}).
 The meeting will include invited and contributed talks to be announced here.
 
 [**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**

@@ -5,7 +5,7 @@ sidebar:
   nav: "research"
 ---
 ## Overview
-We develop theoretical and numerical models to investigate protoplanetary disk evolution, planet formation, and the multiscale multiphysics involved and to compliment existing and forthcoming astronomical observations.
+We develop theoretical and numerical models to investigate protoplanetary disk evolution, planet formation, and the multiscale multiphysics involved and to complement existing and forthcoming astronomical observations.
 
 
 ## Areas of Interest

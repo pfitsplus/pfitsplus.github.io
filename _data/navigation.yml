@@ -46,7 +46,7 @@ research:
     url: /research/meetings
     children:
       - title: "2026 June 8‒12"
-        url: /research/meetings#2026-june-812
+        url: /research/meetings#3rd-pfits-meeting-on-hydrodynamics-of-circumstellar-disks-and-planet-formation
 
   - title: "Code Comparisons"
     url: /research/code-comparisons
@@ -55,6 +55,7 @@ research:
         url: /research/code-comparisons#streaming-instability
 
   - title: "Gallery"
+    url: /research/gallery
     children:
       - title: "Images"
         url: /research/gallery#images
