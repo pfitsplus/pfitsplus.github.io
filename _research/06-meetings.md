@@ -3,7 +3,7 @@ title: "Meetings"
 permalink: /research/meetings/
 ---
 # 3rd PFITS+ Meeting on Hydrodynamics of Circumstellar Disks and Planet Formation
-{% include figure image_path='/assets/images/research/meetings/seti-institute-admin-building.jpg' %}
+{% include figure image_path='/assets/images/research/meetings/goldengate.png' %}
 ## <i class="fa-solid fa-calendar-days"></i> 2026 June 8--12
 
 The goal of the meeting is to bring together researchers to discuss current and future research on planet formation with a focus on hydrodynamical instabilities and computational astrophysics. Topics to be covered:
@@ -11,7 +11,7 @@ The goal of the meeting is to bring together researchers to discuss current and 
 - Convective overstability
 - Rossby wave instability
 - Streaming instabilities
-- (Non-ideal) MHD instabilities
+- Non-ideal MHD instabilities
 
 The workshop is the third in the [PFITS+](/) (Planet Formation in the Southwest Plus) series:
 the [first meeting](https://www.ufos-project.eu/dust-gas-drag-instability-code-comparison) was held in June, 2022, in Las Cruces, NM;
@@ -26,7 +26,14 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 
 ### <i class="fa-solid fa-landmark"></i> Venue
-[SETI institute](https://www.seti.org/){:target="_blank"}, Mountain View, CA.
+
+{% include figure image_path='/assets/images/research/meetings/seti-institute-admin-building.jpg' caption='[SETI institute](https://www.seti.org/){:target="_blank"}, Mountain View, CA.' %}
+
+Mountain View is located in the southern part of the San Francisco Bay Area, approximately 10 miles north of San Jose and 35 miles south of San Francisco.
+The closest airport is San Jose Mineta International Airport ([SJC](https://maps.app.goo.gl/KT6MmhhNjETEhP5b9){:target="_blank"}), about a 15–20 minute drive from the venue.
+San Francisco International Airport ([SFO](https://maps.app.goo.gl/YxKQw8aKx993stjF9){:target="_blank"}) and Oakland International Airport ([OAK](https://maps.app.goo.gl/B3MEuj7ju2oCNpj48){:target="_blank"}) are additional options, each roughly 45–60 minutes away depending on traffic. 
+While limited regional rail ([Caltrain](https://www.caltrain.com/){:target="_blank"}) and light rail services are available, public transportation within Mountain View and between airports and hotels can be sparse and time-consuming.
+We therefore recommend renting a car or planning to use rideshare services for convenience.
 
 <!-- 16:9 responsive iframe -->
 <div class="map-embed">
@@ -54,30 +61,15 @@ A hybrid Zoom component will be available for remote participants beyond this li
 }
 </style>
 
-Mountain View is located in the southern part of the San Francisco Bay Area, approximately 10 miles north of San Jose and 35 miles south of San Francisco.
-The closest airport is San Jose Mineta International Airport ([SJC](https://maps.app.goo.gl/KT6MmhhNjETEhP5b9){:target="_blank"}), about a 15–20 minute drive from the venue.
-San Francisco International Airport ([SFO](https://maps.app.goo.gl/YxKQw8aKx993stjF9){:target="_blank"}) and Oakland International Airport ([OAK](https://maps.app.goo.gl/B3MEuj7ju2oCNpj48){:target="_blank"}) are additional options, each roughly 45–60 minutes away depending on traffic. 
-While limited regional rail ([Caltrain](https://www.caltrain.com/){:target="_blank"}) and light rail services are available, public transportation within Mountain View and between airports and hotels can be sparse and time-consuming.
-We therefore recommend renting a car or planning to use rideshare services for convenience.
-
 
 ### <i class="fa-solid fa-envelope"></i> Contact
 Please email inquiries to [Orkan Umurhan](/team/umurhan-orkan) ([oumurhan@seti.org](mailto:oumurhan@seti.org)) or [Wladimir Lyra](/team/lyra-wladimir)  ([wlyra@nmsu.edu](mailto:wlyra@nmsu.edu)).
 
 
-### <i class="fa-solid fa-users-rectangle"></i> SOC
-The [PFITS+ collaboration](/team).
+### <i class="fa-solid fa-users-gear"></i> SOC
+The [PFITS+ collaboration](/team)
 
-
-### <i class="fa-solid fa-users-rectangle"></i> LOC
-- [Orkan Umurhan](/team/umurhan-orkan)
-- Linda Ray
-- Uma Gorti
-- Paul Estrada
-
-
-### <i class="fa-solid fa-users-rectangle"></i> PFITS+ Team Node Leaders
-
+| PFITS+ Node Leaders                                                                         |
 | Name                                   | Institution                                             |
 | -------------------------------------- | ------------------------------------------------------- |
 | [Wladimir Lyra](/team/lyra-wladimir)   | [New Mexico State University](https://nmsu.edu/)        |
@@ -85,3 +77,10 @@ The [PFITS+ collaboration](/team).
 | [Orkan Umurhan](/team/umurhan-orkan)   | [NASA Ames Research Center](https://www.nasa.gov/ames/) |
 | [Chao-Chin Yang](/team/yang-chao-chin) | [The University of Alabama](https://www.ua.edu/)        |
 | [Andrew Youdin](/team/youdin-andrew)   | [University of Arizona](https://www.arizona.edu/)       |
+
+
+### <i class="fa-solid fa-people-roof"></i> LOC
+- [Orkan Umurhan](/team/umurhan-orkan)
+- Linda Ray
+- Uma Gorti
+- Paul Estrada
