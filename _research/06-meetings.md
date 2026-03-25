@@ -26,56 +26,56 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 ### <i class="fa-solid fa-landmark"></i> Confirmed Participants
 
-| Name                         | Affiliation                                         | Attendance     |
-|------------------------------|-----------------------------------------------------|----------------|
-| Hossam Aly                   | TU Delft                                            | remote         |
-| Stanley A. Baronett          | UVA/UNLV                                            | in person      |
-| Olivia Brouillette           | New Mexico State University                         | in person      |
-| Daniel Carrera               | New Mexico State University                         | in person      |
-| Eonho Chang                  | University of Arizona                               | remote         |
-| Anna Childs                  | University of Alabama                               | in person      |
-| Jeff Cuzzi                   | SETI                                                | in person      |
-| Sergei Dyda                  | University of Alabama                               | in person      |
-| Linn Eriksson                | AMNH                                                | in person      |
-| Paul Estrada                 | SETI                                                | in person      |
-| Mario Flock                  | MPIA                                                | remote         |
-| Lizxandra Flores-Rivera      | MPIA                                                | remote         |
-| David Melon Fuksman          | MPIA                                                | remote         |
-| Yuya Fukuhara                | ASIAA                                               | in person      |
-| Susmita Garai                | University of New Mexico                            | in person      |
-| Daniel Godines               | New Mexico State University                         | in person      |
-| Uma Gorti                    | SETI                                                | in person      |
-| Cassandra Hall               | University of Georgia                               | in person      |
-| Weston Hall                  | Iowa State University                               | in person      |
-| Pinghui Huang                | Purple Mountain Observatory                         | remote         |
-| Leopold Hutnik               | New Mexico State University                         | in person      |
-| Leonardo Krapp               | Universidad de Concepción                           | remote         |
-| Kaitlin Kratter              | University of Arizona                               | in person      |
-| Marius Lehmann               | Iowa State University                               | in person      |
-| Hui Li                       | Los Alamos National Laboratory                      | in person      |
-| Rixin Li                     | UC Berkeley                                         | in person      |
-| Shengtai Li                  | Los Alamos National Laboratory                      | in person      |
-| Jay Lim                      | Iowa State University                               | in person      |
-| Min-Kai Lin                  | ASIAA                                               | remote         |
-| Wladimir Lyra                | New Mexico State University                         | in person      |
-| Nathan Magnan                | Observatoire de la Côte d'Azur                      | remote         |
-| Heloise Meheut               | CNRS, UniCA                                         | remote         |
-| Richard Nelson               | Queen Mary University of London                     | remote         |
-| Camden Olds                  | Iowa State University                               | in person      |
-| Dominik Ostertag             | MPIA                                                | remote         |
-| Thomas Pfeil                 | Flatiron Institute                                  | in person      |
-| David Rea                    | Iowa State University                               | in person      |
-| Luca Ricci                   | California State University, Northridge             | remote         |
-| Chiara Eleonora Scardoni     | University of Milan                                 | remote         |
-| Debanjan Sengupta            | New Mexico State University                         | in person      |
-| Eleanor Serviss              | New Mexico State University                         | in person      |
-| Jake Simon                   | Iowa State University                               | in person      |
-| Nadine Soliman               | Institute for Advanced Study                        | in person      |
-| Tabassum S Tanvir            | Iowa State University                               | in person      |
-| Orkan Umurhan                | SETI                                                | in person      |
-| Chao-Chin Yang               | The University of Alabama                           | in person      |
-| Andrew Youdin                | University of Arizona                               | in person      |
-| Alex Ziampras                | LMU Munich                                          | in person      |
+| Name                     | Affiliation                               | Attendance                                         |
+|--------------------------|-------------------------------------------|----------------------------------------------------|
+| Hossam Aly               | TU Delft                                  | <i class="fa-solid fa-laptop"></i>       remote    |
+| Stanley A. Baronett      | UVA/UNLV                                  | <i class="fa-solid fa-location-dot"></i> in person |
+| Olivia Brouillette       | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Daniel Carrera           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Eonho Chang              | University of Arizona                     | <i class="fa-solid fa-laptop"></i>       remote    |
+| Anna Childs              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
+| Jeff Cuzzi               | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Sergei Dyda              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
+| Linn Eriksson            | AMNH                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Paul Estrada             | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Mario Flock              | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
+| Lizxandra Flores-Rivera  | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
+| David Melon Fuksman      | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
+| Yuya Fukuhara            | ASIAA                                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Susmita Garai            | University of New Mexico                  | <i class="fa-solid fa-location-dot"></i> in person |
+| Daniel Godines           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Uma Gorti                | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Cassandra Hall           | University of Georgia                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Weston Hall              | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Pinghui Huang            | Purple Mountain Observatory               | <i class="fa-solid fa-laptop"></i>       remote    |
+| Leopold Hutnik           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Leonardo Krapp           | Universidad de Concepción                 | <i class="fa-solid fa-laptop"></i>       remote    |
+| Kaitlin Kratter          | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Marius Lehmann           | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Hui Li                   | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
+| Rixin Li                 | UC Berkeley                               | <i class="fa-solid fa-location-dot"></i> in person |
+| Shengtai Li              | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
+| Jay Lim                  | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Min-Kai Lin              | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
+| Wladimir Lyra            | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Nathan Magnan            | Observatoire de la Côte d'Azur            | <i class="fa-solid fa-laptop"></i>       remote    |
+| Heloise Meheut           | CNRS, UniCA                               | <i class="fa-solid fa-laptop"></i>       remote    |
+| Richard Nelson           | Queen Mary University of London           | <i class="fa-solid fa-laptop"></i>       remote    |
+| Camden Olds              | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Dominik Ostertag         | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
+| Thomas Pfeil             | Flatiron Institute                        | <i class="fa-solid fa-location-dot"></i> in person |
+| David Rea                | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Luca Ricci               | California State University, Northridge   | <i class="fa-solid fa-laptop"></i>       remote    |
+| Chiara Eleonora Scardoni | University of Milan                       | <i class="fa-solid fa-laptop"></i>       remote    |
+| Debanjan Sengupta        | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Eleanor Serviss          | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Jake Simon               | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Nadine Soliman           | Institute for Advanced Study              | <i class="fa-solid fa-location-dot"></i> in person |
+| Tabassum S Tanvir        | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Orkan Umurhan            | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Chao-Chin Yang           | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
+| Andrew Youdin            | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Alex Ziampras            | LMU Munich                                | <i class="fa-solid fa-location-dot"></i> in person |
 
 
 ### <i class="fa-solid fa-landmark"></i> Venue
