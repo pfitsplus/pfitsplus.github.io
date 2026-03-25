@@ -54,7 +54,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Marius Lehmann               | Iowa State University                               | in person      |
 | Hui Li                       | Los Alamos National Laboratory                      | in person      |
 | Rixin Li                     | UC Berkeley                                         | in person      |
-| Shengtai Li                  | Los Alamos National Lab                             | in person      |
+| Shengtai Li                  | Los Alamos National Laboratory                      | in person      |
 | Jay Lim                      | Iowa State University                               | in person      |
 | Min-Kai Lin                  | ASIAA                                               | remote         |
 | Wladimir Lyra                | New Mexico State University                         | in person      |
