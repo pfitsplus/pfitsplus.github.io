@@ -55,7 +55,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Hui Li                   | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
 | Rixin Li                 | UC Berkeley                               | <i class="fa-solid fa-location-dot"></i> in person |
 | Shengtai Li              | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
-| Jay Lim                  | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Jay Lim                  | UNLV/Iowa State University                | <i class="fa-solid fa-location-dot"></i> in person |
 | Min-Kai Lin              | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Wladimir Lyra            | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Nathan Magnan            | Observatoire de la Côte d'Azur            | <i class="fa-solid fa-laptop"></i>       remote    |
