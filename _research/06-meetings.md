@@ -75,6 +75,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Orkan Umurhan                | SETI                                                | in person      |
 | Chao-Chin Yang               | The University of Alabama                           | in person      |
 | Andrew Youdin                | University of Arizona                               | in person      |
+| Alex Ziampras                | LMU Munich                                          | in person      |
 
 
 ### <i class="fa-solid fa-landmark"></i> Venue
