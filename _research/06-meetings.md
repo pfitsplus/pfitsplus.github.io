@@ -58,7 +58,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Jay Lim                      | Iowa State University                               | in person      |
 | Min-Kai Lin                  | ASIAA                                               | remote         |
 | Wladimir Lyra                | New Mexico State University                         | in person      |
-| Nathan Magnan                | Observatoire de la Cote d'Azur                      | remote         |
+| Nathan Magnan                | Observatoire de la Côte d'Azur                      | remote         |
 | Heloise Meheut               | CNRS, UniCA                                         | remote         |
 | Richard Nelson               | Queen Mary University of London                     | remote         |
 | Camden Olds                  | Iowa State University                               | in person      |
