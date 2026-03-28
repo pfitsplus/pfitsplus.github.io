@@ -71,6 +71,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Eleanor Serviss          | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Jake Simon               | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Nadine Soliman           | Institute for Advanced Study              | <i class="fa-solid fa-location-dot"></i> in person |
+| Prakruti Sudarshan       | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
 | Tabassum S Tanvir        | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Orkan Umurhan            | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Chao-Chin Yang           | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
