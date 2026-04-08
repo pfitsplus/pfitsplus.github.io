@@ -150,6 +150,11 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+footer_scripts:
+  - /assets/js/main.min.js
+  - https://unpkg.com/tablesort@5.6.0/dist/tablesort.min.js
+  - /assets/js/init-sortable-tables.js
+
 # Front Matter Defaults
 defaults:
   # _posts

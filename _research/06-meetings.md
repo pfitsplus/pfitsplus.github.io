@@ -27,7 +27,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 ### <i class="fa-solid fa-landmark"></i> Confirmed Participants
 
 | Name                     | Affiliation                               | Attendance                                         |
-|--------------------------|-------------------------------------------|----------------------------------------------------|
+|:-------------------------|:------------------------------------------|:---------------------------------------------------|
 | Hossam Aly               | TU Delft                                  | <i class="fa-solid fa-laptop"></i>       remote    |
 | Hans Baehr               | MPIA                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Stanley A. Baronett      | UVA/UNLV                                  | <i class="fa-solid fa-location-dot"></i> in person |
@@ -89,6 +89,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Shangjia Zhang           | Columbia University                       | <i class="fa-solid fa-laptop"></i>       remote    |
 | Alex Ziampras            | LMU Munich                                | <i class="fa-solid fa-location-dot"></i> in person |
 | Zhaohuan Zhu             | UNLV                                      | <i class="fa-solid fa-laptop"></i>       remote    |
+{: .js-sort-table }
 
 
 ### <i class="fa-solid fa-landmark"></i> Venue
