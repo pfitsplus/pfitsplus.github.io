@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  document.querySelectorAll("table").forEach((table) => {
+  document.querySelectorAll("table.js-sort-table").forEach((table) => {
     addSortIcons(table);
 
     const headers = table.querySelectorAll("thead th");
