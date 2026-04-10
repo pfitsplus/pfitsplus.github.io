@@ -75,6 +75,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Thomas Pfeil             | Flatiron Institute                        | <i class="fa-solid fa-location-dot"></i> in person |
 | David Rea                | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Luca Ricci               | California State University, Northridge   | <i class="fa-solid fa-laptop"></i>       remote    |
+| Eleftheria Sarafidou     | Queen Mary University London              | <i class="fa-solid fa-laptop"></i>       remote    |
 | Chiara Eleonora Scardoni | University of Milan                       | <i class="fa-solid fa-laptop"></i>       remote    |
 | Debanjan Sengupta        | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Eleanor Serviss          | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
@@ -82,6 +83,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Nadine Soliman           | Institute for Advanced Study              | <i class="fa-solid fa-location-dot"></i> in person |
 | Prakruti Sudarshan       | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
 | Tabassum S Tanvir        | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
+| Ryosuke Tominaga         | Institute of Science Tokyo                | <i class="fa-solid fa-laptop"></i>       remote    |
 | Orkan Umurhan            | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Shiang-Chih Wang         | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Chao-Chin Yang           | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
