@@ -27,7 +27,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 <!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
-### <i class="fa-solid fa-landmark"></i> Confirmed Participants
+### <i class="fa-solid fa-user-group"></i> Confirmed Participants
 
 | Name                     | Affiliation                               | Attendance                                         |
 |--------------------------|-------------------------------------------|----------------------------------------------------|
@@ -134,6 +134,10 @@ We therefore recommend renting a car or planning to use rideshare services for c
 }
 </style>
 
+### <i class="fa-solid fa-bed"></i> Accomodation
+
+We locked a number of rooms at the <a href="https://www.larkspurhotels.com/sunnyvale">Larkspur Landing</a>, in Sunnyvale, two miles from the institute, at a reduced rate. An email will be sent to the participants with the link
+for the group reservation. Participants need to book themselves, with the group code, through the link provided. 
 
 ### <i class="fa-solid fa-envelope"></i> Contact
 Please email inquiries to [Orkan Umurhan](/team/umurhan-orkan) ([oumurhan@seti.org](mailto:oumurhan@seti.org)) or [Wladimir Lyra](/team/lyra-wladimir)  ([wlyra@nmsu.edu](mailto:wlyra@nmsu.edu)).
