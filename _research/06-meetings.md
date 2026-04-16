@@ -17,12 +17,15 @@ The workshop is the third in the [PFITS+](/) (Planet Formation in the Southwest 
 the [first meeting](https://www.ufos-project.eu/dust-gas-drag-instability-code-comparison) was held in June, 2022, in Las Cruces, NM;
 the [second](https://sites.google.com/view/tcanaz) in Tucson AZ, in Nov., 2023.
 
-We kindly ask all participants to register by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"}).
+~~We kindly ask all participants to register by filling out [this form]~~<!--(https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"}).-->
+
+Registration is now closed. 
+
 The meeting will include invited and contributed talks to be announced here.
-Due to space constraints, the meeting will be capped at 50 participants.
+Due to space constraints, the meeting will be capped at 40 participants.
 A hybrid Zoom component will be available for remote participants beyond this limit or those who cannot make the trip.
 
-[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**
+<!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
 ### <i class="fa-solid fa-users"></i> Confirmed Participants
 
@@ -35,7 +38,6 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Daniel Carrera           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Michael Cecil            | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
 | Eonho Chang              | University of Arizona                     | <i class="fa-solid fa-laptop"></i>       remote    |
-| Wang Chen                | Beijing Normal University                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Anna Childs              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Jeff Cuzzi               | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Sergei Dyda              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
@@ -67,6 +69,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Min-Kai Lin              | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Wladimir Lyra            | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Nathan Magnan            | Observatoire de la Côte d'Azur            | <i class="fa-solid fa-laptop"></i>       remote    |
+| Jip Matthijsse           | TU Delft                                  | <i class="fa-solid fa-location-dot"></i> in person |
 | Heloise Meheut           | CNRS, UniCA                               | <i class="fa-solid fa-laptop"></i>       remote    |
 | Takayuki Muto            | Kogakuin University                       | <i class="fa-solid fa-location-dot"></i> in person |
 | Richard Nelson           | Queen Mary University of London           | <i class="fa-solid fa-laptop"></i>       remote    |
@@ -85,6 +88,8 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Tabassum S Tanvir        | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Ryosuke Tominaga         | Institute of Science Tokyo                | <i class="fa-solid fa-laptop"></i>       remote    |
 | Orkan Umurhan            | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Peggy Varniere           | APC CNRS Universite Paris Cite France     | <i class="fa-solid fa-laptop"></i>       remote    |
+| Chen Wang                | Beijing Normal University                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Shiang-Chih Wang         | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Chao-Chin Yang           | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Andrew Youdin            | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
