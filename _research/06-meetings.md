@@ -35,7 +35,6 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Daniel Carrera           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Michael Cecil            | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
 | Eonho Chang              | University of Arizona                     | <i class="fa-solid fa-laptop"></i>       remote    |
-| Wang Chen                | Beijing Normal University                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Anna Childs              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Jeff Cuzzi               | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Sergei Dyda              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
@@ -67,6 +66,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Min-Kai Lin              | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Wladimir Lyra            | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Nathan Magnan            | Observatoire de la Côte d'Azur            | <i class="fa-solid fa-laptop"></i>       remote    |
+| Jip Matthijsse           | TU Delft                                  | <i class="fa-solid fa-location-dot"></i> in person |
 | Heloise Meheut           | CNRS, UniCA                               | <i class="fa-solid fa-laptop"></i>       remote    |
 | Takayuki Muto            | Kogakuin University                       | <i class="fa-solid fa-location-dot"></i> in person |
 | Richard Nelson           | Queen Mary University of London           | <i class="fa-solid fa-laptop"></i>       remote    |
@@ -85,6 +85,8 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Tabassum S Tanvir        | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Ryosuke Tominaga         | Institute of Science Tokyo                | <i class="fa-solid fa-laptop"></i>       remote    |
 | Orkan Umurhan            | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Peggy Varniere           | APC CNRS Universite Paris Cite France     | <i class="fa-solid fa-laptop"></i>       remote    |
+| Chen Wang                | Beijing Normal University                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Shiang-Chih Wang         | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Chao-Chin Yang           | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Andrew Youdin            | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
