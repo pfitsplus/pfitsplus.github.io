@@ -58,6 +58,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Pinghui Huang            | Purple Mountain Observatory               | <i class="fa-solid fa-laptop"></i>       remote    |
 | Leopold Hutnik           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Hubert Klahr             | MPIA                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Tom Konijn               | TU Delft                                  | <i class="fa-solid fa-location-dot"></i> in person |
 | Leonardo Krapp           | Universidad de Concepción                 | <i class="fa-solid fa-laptop"></i>       remote    |
 | Kaitlin Kratter          | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Aleksandra Kunetsova     | University of Connecticut                 | <i class="fa-solid fa-location-dot"></i> in person |
