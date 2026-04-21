@@ -260,6 +260,8 @@ def select_tags(paper: dict) -> list:
         kw_clean = str(kw).strip().lower()
         if not kw_clean:
             continue
+        if kw_clean.isdigit():
+            continue
         if any(kw_clean.startswith(p) for p in skip_prefixes):
             continue
         if kw_clean not in seen:
