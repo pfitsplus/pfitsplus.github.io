@@ -226,7 +226,7 @@ def format_citation_line(paper: dict) -> str:
 
     volume = str(paper.get("volume") or "")
     pages = paper.get("page") or []
-    page_str = str(pages[0]) if pages else ""
+    page_str = str(pages[0]) if pages and pages[0] is not None else ""
 
     if doctype == "eprint" or jcode == "arXiv":
         # Preprint – try to name the target journal from the ADS 'pub' field
