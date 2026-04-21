@@ -2,6 +2,17 @@
 This folder contains [Markdown](https://www.markdownguide.org/) files for individual posts populating the [**News**](https://pfitsplus.github.io/news/) page.
 To create a new post, we recommend copying an existing post as close to the formatting, structure, or features you want and renaming it in the following *hyphenated* format: `YYYY-MM-DD-key-words.md`.
 
+## Automated Publication Posts
+Publication posts for papers in the [PFITS+ ADS library](https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA) can be generated automatically using the script at [`scripts/ads_to_posts.py`](../scripts/ads_to_posts.py).
+The script runs weekly via GitHub Actions and opens a pull request with draft posts for any new papers.
+You can also run it locally:
+```bash
+export ADS_TOKEN=<your-token>   # https://ui.adsabs.harvard.edu/user/settings/token
+python scripts/ads_to_posts.py --posts-dir _posts
+```
+Review each generated draft before merging: trim tags, verify author links, and confirm citation details.
+To add a new team member to the auto-link lookup, update the `TEAM_MEMBERS` dictionary in `scripts/ads_to_posts.py`.
+
 Note:
 - Posts can be back- or future-dated, but must use a four-digit year and two-digit month and day.
 - `key-words` serve only to differentiate posts with the same date, so keep to a maximum of three (3).
