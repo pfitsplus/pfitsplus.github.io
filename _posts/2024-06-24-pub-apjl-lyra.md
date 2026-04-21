@@ -16,4 +16,4 @@ link: https://ui.adsabs.harvard.edu/abs/2024arXiv240617934L/abstract
 
 Accepted for publication in *The Astrophysical Journal Letters*.
 
-[Wladimir Lyra](/team/lyra-wladimir), [Chao-Chin Yang](/team/yang-chao-chin), [Jacob B. Simon](/team/simon-jacob), [Orkan M. Umurhan](/team/umurhan-orkan), [Andrew N. Youdin](/team/youdin-andrew), **Rapid protoplanet formation in vortices: three-dimensional local simulations with selfgravity**, *The Astrophysical Journal Letters*.
+Authors: [Wladimir Lyra](/team/lyra-wladimir/), [Chao-Chin Yang](/team/yang-chao-chin/), [Jacob B. Simon](/team/simon-jacob/), [Orkan M. Umurhan](/team/umurhan-orkan/), [Andrew N. Youdin](/team/youdin-andrew/)
