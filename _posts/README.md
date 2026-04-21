@@ -28,7 +28,7 @@ tags:
 
 Published in *Nature*, 123, 456.
 
-Author One, Author Two, **My Paper Title on Protoplanetary Disks**, *Nature*, 123, 456.
+Authors: [Author One](/team/one-author/), Author Two
 ```
 ### Key Legend
 - `title:` The title (wrapped in double quotes) to be displayed in the [News list](http://pfitsplus.github.io/news/), at the top of the post's page itself, and in any relevant search results.
