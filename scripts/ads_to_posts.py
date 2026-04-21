@@ -224,9 +224,9 @@ def format_citation_line(paper: dict) -> str:
     doctype = paper.get("doctype", "article")
     pub = paper.get("pub", "")
 
-    volume = paper.get("volume", "")
-    pages = paper.get("page", [])
-    page_str = pages[0] if pages else ""
+    volume = str(paper.get("volume") or "")
+    pages = paper.get("page") or []
+    page_str = str(pages[0]) if pages else ""
 
     if doctype == "eprint" or jcode == "arXiv":
         # Preprint – try to name the target journal from the ADS 'pub' field
@@ -257,7 +257,7 @@ def select_tags(paper: dict) -> list:
     seen: set[str] = set()
     raw_keywords = paper.get("keyword") or []
     for kw in raw_keywords:
-        kw_clean = kw.strip().lower()
+        kw_clean = str(kw).strip().lower()
         if not kw_clean:
             continue
         if any(kw_clean.startswith(p) for p in skip_prefixes):
@@ -293,10 +293,13 @@ def generate_post_content(paper: dict) -> str:
     citation_line = format_citation_line(paper)
 
     # Build YAML front matter
-    tags_yaml = "\n".join(f"  - {t}" for t in tags)
+    # Escape any embedded double-quotes in the title so the YAML scalar stays valid
+    title_escaped = title.replace('"', '\\"')
+    # Quote every tag so bare numbers (e.g. "101") are not parsed as YAML integers
+    tags_yaml = "\n".join(f'  - "{t}"' for t in tags)
     front_matter = (
         f'---\n'
-        f'title: "{title}"\n'
+        f'title: "{title_escaped}"\n'
         f'date: {pub_date.strftime("%Y-%m-%dT%H:%M:%S")}\n'
         f'categories:\n'
         f'  - Publications\n'
