@@ -1,0 +1,67 @@
+name: Generate news posts from ADS library
+
+on:
+  # Run every Monday at 08:00 UTC
+  schedule:
+    - cron: "0 8 * * 1"
+  # Allow manual runs from the GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  ads-news-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate draft posts from ADS library
+        env:
+          ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
+        run: python scripts/ads_to_posts.py --posts-dir _posts
+
+      - name: Check for new posts
+        id: check
+        run: |
+          git add _posts/
+          if git diff --cached --quiet; then
+            echo "new_posts=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "new_posts=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create pull request with new post drafts
+        if: steps.check.outputs.new_posts == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ads-news-drafts/${{ github.run_id }}
+          base: main
+          commit-message: "news: add draft publication posts from ADS library"
+          title: "News post drafts from ADS library (${{ github.run_id }})"
+          body: |
+            This pull request was opened automatically by the **Generate news posts from ADS library** workflow.
+
+            It contains draft Markdown files in `_posts/` for publications found in the [PFITS+ ADS library](https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA) that do not yet have a corresponding news post.
+
+            **Before merging, please review each file and:**
+            - Trim the `tags:` list to 3–6 relevant subject keywords (remove overly specific or administrative ones).
+            - Verify that all team-member authors have working profile links.
+            - Confirm the citation line (journal, volume, and page numbers).
+            - For arXiv preprints, update the entry once the paper is formally published.
+
+            See `_posts/README.md` for full formatting conventions.
+          labels: "news,publications,automated"
+          draft: false
