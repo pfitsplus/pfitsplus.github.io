@@ -4,6 +4,11 @@ _site
 .jekyll-metadata
 Gemfile.lock
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
 # Web development
 assets/images/temp
 
