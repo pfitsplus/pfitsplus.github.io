@@ -1,23 +1,23 @@
 # main navbar
 main:
-  - title: "Team"
-    url: /team/
-  - title: "Meetings"
-    url: /research/meetings/
-  - title: "Code Comparisons"
-    url: /research/code-comparisons/
-  - title: "Talks"
-    url: https://www.youtube.com/@PFITSTalkSeries
-    target: _blank
   - title: "Research"
     url: /research/
   - title: "News"
     url: /news/
-  - title: "Gallery"
-    url: /research/gallery/
   - title: "Publications"
     url: https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA
     target: _blank
+  - title: "Talks"
+    url: https://www.youtube.com/@PFITSTalkSeries
+    target: _blank
+  - title: "Meetings"
+    url: /research/meetings/
+  - title: "Team"
+    url: /team/
+  - title: "Code Comparisons"
+    url: /research/code-comparisons/
+  - title: "Gallery"
+    url: /research/gallery/
 
 # research sidebar
 research:
