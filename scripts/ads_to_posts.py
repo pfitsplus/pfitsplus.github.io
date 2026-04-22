@@ -301,6 +301,11 @@ def select_tags(paper: dict) -> list:
 
     # Subject keywords from ADS (skip very generic or administrative ones)
     skip_prefixes = ("arxiv:", "doi:", "isbn:", "issn:")
+    # Broad/administrative standalone keywords to always exclude
+    skip_exact = {
+        "earth and planetary astrophysics",
+        "solar and stellar astrophysics",
+    }
     seen: set[str] = set()
     raw_keywords = paper.get("keyword") or []
     for kw in raw_keywords:
@@ -310,6 +315,11 @@ def select_tags(paper: dict) -> list:
         if kw_clean.isdigit():
             continue
         if any(kw_clean.startswith(p) for p in skip_prefixes):
+            continue
+        # Skip hyphenated subcategory tags (e.g. "astrophysics - solar and stellar astrophysics")
+        if " - " in kw_clean:
+            continue
+        if kw_clean in skip_exact:
             continue
         if kw_clean not in seen:
             seen.add(kw_clean)
