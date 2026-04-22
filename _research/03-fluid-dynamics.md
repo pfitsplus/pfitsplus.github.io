@@ -29,12 +29,12 @@ The back-reaction of dust on the gas—particularly important when dust-to-gas r
 
 **Learn more:**
 - [Streaming Instability](#streaming)
-- [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — Baronett et al. (2024)
-- [Bridging Unstratified and Stratified Simulations of the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...993...12L/abstract){:target="_blank"} — Lim et al. (2025)
-- [Chao-Chin Yang](/team/yang-chao-chin/) — specialist in MHD and dust-gas dynamics
+- [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley) et al. (2024)
+- [Bridging Unstratified and Stratified Simulations of the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...993...12L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2025)
+- [Chao-Chin Yang](/team/yang-chao-chin/) — specialist in [MHD](/research/fluid-dynamics/#magnetohydrodynamics) and dust–gas dynamics
 
 
-## Magnetohydrodynamics
+## Magnetohydrodynamics (MHD)
 Magnetic fields profoundly influence the dynamics of protoplanetary disks.
 The [magnetorotational instability](#magnetorotational) (MRI) can sustain turbulence and angular momentum transport in sufficiently ionized regions, while Ohmic resistivity, ambipolar diffusion, and the Hall effect suppress MRI activity near the midplane, shaping the internal structure and accretion behavior of the disk.
 
@@ -46,23 +46,23 @@ The [magnetorotational instability](#magnetorotational) (MRI) can sustain turbul
 **Learn more:**
 - [Magnetorotational Instability](#magnetorotational)
 - [Accretion](/research/protoplanetary-disks/#accretion)
-- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — Rea et al. (2024)
+- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [Jacob B. Simon](/team/simon-jacob/) — expert in magnetically driven accretion and MHD turbulence
 
 
-## Radiation Hydrodynamics
+## Radiation Hydrodynamics (RHD)
 The thermodynamic structure of [protoplanetary disks](/research/protoplanetary-disks/) is shaped by the transfer of radiation from the central star through disk gas and dust.
 Accurately modeling this coupling—including the effects of dust opacity, disk flaring, and non-equilibrium radiative cooling—is essential for understanding thermally driven disk instabilities and for making realistic comparisons with observations.
 
-- Stellar irradiation heats the disk surface; re-radiation and viscous heating warm the midplane
-- Optically thick regions trap radiation and raise midplane temperatures, while optically thin regions cool efficiently
-- Cooling timescales determine whether thermal perturbations grow (as in the VSI) or damp
+- Stellar irradiation heats the disk surface; re-radiation and turbulent heating warm the midplane
+- Optically thick regions can trap radiation but also attenuate stellar irradiation, keeping midplane temperatures cool; while optically thin regions cool efficiently but are also more directly heated by the star, keeping disk surface layers warm
+- Cooling timescales influence the growth of thermal instabilities such as the [vertical shear instability](#vertical-shear)
 - Radiative transfer models are needed to interpret continuum and line observations of disk structure
 
 **Learn more:**
 - [Thermodynamic Structure](/research/protoplanetary-disks/#thermodynamic-structure)
 - [Vertical Shear Instability](#vertical-shear)
-- [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — Godines et al. (2026)
+- [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — [Godines](/team/godines-daniel/) et al. (2026)
 
 
 ## Instabilities
@@ -81,7 +81,7 @@ It is one of the most studied and consequential mechanisms for driving turbulenc
 
 **Learn more:**
 - [Magnetohydrodynamics](#magnetohydrodynamics)
-- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — Rea et al. (2024)
+- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [Jacob B. Simon](/team/simon-jacob/) — specialist in MRI simulations
 
 
@@ -96,18 +96,18 @@ These vortices efficiently trap dust particles, building up local solid-to-gas r
 
 **Learn more:**
 - [Vortices](/research/protoplanetary-disks/#vortices)
-- [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — Chang et al. (2023)
-- ["Halfway to Rayleigh" and Other Insights into the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..100C/abstract){:target="_blank"} — Chang & Youdin (2024)
-- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — Lyra et al. (2024)
+- [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — [Chang](/team/chang-eonho/) et al. (2023)
+- ["Halfway to Rayleigh" and Other Insights into the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..100C/abstract){:target="_blank"} — [Chang](/team/chang-eonho/) & [Youdin](/team/youdin-andrew/) (2024)
+- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
 
 
 ### Streaming
-The streaming instability (SI) arises from the mutual aerodynamic drag between inward-drifting solid particles and the sub-Keplerian gas in which they are embedded.
+The streaming instability (SI) arises from the mutual aerodynamic drag between solid particles and the gas in which they are embedded.
 When dust-to-gas ratios exceed a threshold that depends on particle size and disk pressure gradient, the instability grows exponentially, driving solids into dense filaments and clumps that can collapse gravitationally into [planetesimals](/research/planet-formation/#planetesimal-formation).
 The SI was first identified by [Youdin](/team/youdin-andrew/) & Goodman ([2005](https://ui.adsabs.harvard.edu/abs/2005ApJ...620..459Y/abstract){:target="_blank"}) and remains a cornerstone of modern planet formation theory.
 
 - Operates on orbital timescales in the disk midplane where solids concentrate
-- Clumping conditions depend on particle Stokes number and local metallicity (dust-to-gas ratio)
+- Clumping conditions depend on particle Stokes number (aerodynamic stopping time or size) and local metallicity (dust-to-gas ratio)
 - Multi-species and stratified extensions broaden and modify SI behavior
 - The subject of an ongoing [multi-code comparison project](/research/code-comparisons/)
 
@@ -115,12 +115,12 @@ The SI was first identified by [Youdin](/team/youdin-andrew/) & Goodman ([2005](
 - [Dust–Gas Dynamics](#dustgas-dynamics)
 - [Planetesimal Formation](/research/planet-formation/#planetesimal-formation)
 - [Code Comparisons: Streaming Instability](/research/code-comparisons/)
-- [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — Baronett et al. (2024)
-- [Streaming Instability and Turbulence: Conditions for Planetesimal Formation](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract){:target="_blank"} — Lim et al. (2024)
-- [A Comparative Study of the Streaming Instability: Unstratified Models](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — Baronett et al. (2026)
+- [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2024)
+- [Streaming Instability and Turbulence: Conditions for Planetesimal Formation](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2024)
+- [A Comparative Study of the Streaming Instability: Unstratified Models](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2026)
 
 
-### Vertical Shear
+### Vertical Shear Instability
 The vertical shear instability (VSI) is excited in the outer, well-irradiated regions of protoplanetary disks where rapid radiative cooling allows the disk's vertical thermal gradient to drive a growing oscillation.
 VSI-driven turbulence is relatively weak but pervasive, stirring the gas and lofting small dust grains; its effects on dust settling, particle concentration, and small-scale disk structure are active areas of investigation.
 
@@ -132,5 +132,5 @@ VSI-driven turbulence is relatively weak but pervasive, stirring the gas and lof
 **Learn more:**
 - [Thermodynamic Structure](/research/protoplanetary-disks/#thermodynamic-structure)
 - [Radiation Hydrodynamics](#radiation-hydrodynamics)
-- [A High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & Umurhan (2024)
-- [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — Sengupta et al. (2024)
+- [A High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & [Umurhan](/team/umurhan-orkan/) (2024)
+- [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) et al. (2024)

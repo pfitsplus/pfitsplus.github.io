@@ -3,7 +3,7 @@ title: "Protoplanetary Disks"
 permalink: /research/protoplanetary-disks/
 ---
 ## Introduction
-Protoplanetary disks are flattened structures of gas and dust that orbit newly formed stars, providing the raw material from which planets assemble.
+Protoplanetary disks are structures of gas and dust that orbit newly formed stars, providing the raw material from which planets assemble.
 Spanning up to hundreds of astronomical units, these disks evolve over millions of years through accretion, dispersal, and the growth of solid bodies.
 Understanding their structure and evolution is central to explaining the origins of the Solar System and the thousands of exoplanetary systems discovered around other stars.
 
@@ -16,7 +16,7 @@ Understanding their structure and evolution is central to explaining the origins
 - [PFITS+ Research Overview](/research/)
 - [Planet Formation](/research/planet-formation/)
 - [Fluid Dynamics](/research/fluid-dynamics/)
-- [Disk observations with ALMA](https://almascience.eso.org/){:target="_blank"}
+- [Disk observations with ALMA](https://almascience.nrao.edu/){:target="_blank"}
 
 
 ## Evolution
@@ -24,15 +24,15 @@ Over multi-million-year lifetimes, protoplanetary disks lose mass through accret
 The interplay of these processes sets the stage for each subsequent phase of planet formation and ultimately determines the mass and composition budget available to nascent planets.
 
 - Disk masses and lifetimes are constrained by infrared and millimeter surveys of star-forming regions
-- Viscous spreading and wind-driven mass loss redistribute angular momentum over time
+- Turbulent spreading and wind-driven mass loss redistribute angular momentum over time
 - Stellar irradiation creates temperature gradients that drive thermally driven disk winds
 - Disk dissipation timescales vary with stellar mass, multiplicity, and environment
 
 **Learn more:**
 - [Accretion](#accretion)
 - [Thermodynamic Structure](#thermodynamic-structure)
-- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — Rea et al. (2024)
-- [High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & Umurhan (2024)
+- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
+- [High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & [Umurhan](/team/umurhan-orkan/) (2024)
 
 
 ## Accretion
@@ -48,12 +48,12 @@ Our group investigates these mechanisms using high-fidelity [magnetohydrodynamic
 **Learn more:**
 - [Magnetohydrodynamics](/research/fluid-dynamics/#magnetohydrodynamics)
 - [Magnetorotational Instability](/research/fluid-dynamics/#magnetorotational)
-- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — Rea et al. (2024)
+- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [Jacob B. Simon](/team/simon-jacob/) — expert in magnetically driven accretion processes
 
 
 ## Thermodynamic Structure
-The temperature and density structure of a protoplanetary disk is set by the balance between stellar irradiation, viscous or turbulent heating, and radiative cooling.
+The temperature and density structure of a protoplanetary disk is set by the balance between stellar irradiation, turbulent heating, and radiative cooling.
 Radial and vertical gradients in these quantities influence gas and dust dynamics, the location of condensation fronts ("snowlines"), and the character of disk instabilities.
 Accurately modeling this structure is essential for making realistic comparisons with infrared and millimeter-wave observations.
 
@@ -65,8 +65,8 @@ Accurately modeling this structure is essential for making realistic comparisons
 **Learn more:**
 - [Radiation Hydrodynamics](/research/fluid-dynamics/#radiation-hydrodynamics)
 - [Vertical Shear Instability](/research/fluid-dynamics/#vertical-shear)
-- [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — Sengupta et al. (2024)
-- [Turbulence in Particle-laden Midplane Layers of Planet-forming Disks](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...74S/abstract){:target="_blank"} — Sengupta & Umurhan (2023)
+- [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) et al. (2024)
+- [Turbulence in Particle-laden Midplane Layers of Planet-forming Disks](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...74S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) & [Umurhan](/team/umurhan-orkan/) (2023)
 
 
 ## Vortices
@@ -76,10 +76,10 @@ These structures efficiently concentrate dust particles, potentially triggering 
 - Vortices form at pressure bumps such as the edges of dead zones or gaps opened by planets
 - Dust-to-gas ratios inside vortices can greatly exceed disk-average values, aiding gravitational collapse
 - 3D simulations with self-gravity show that vortices can produce protoplanets on surprisingly short timescales
-- Vortex formation has been proposed as an early-universe pathway to rapid planet formation
+- Vortex formation has been proposed as a pathway to rapid planet formation
 
 **Learn more:**
 - [Rossby Wave Instability](/research/fluid-dynamics/#rossby-wave)
-- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — Lyra et al. (2024)
-- [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — Chang et al. (2023)
+- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
+- [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — [Chang](/team/chang-eonho) et al. (2023)
 - [Planets and planetesimals at cosmic dawn: vortices as planetary nurseries](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract){:target="_blank"} — Eriksson et al. (2025)

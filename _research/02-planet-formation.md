@@ -4,11 +4,11 @@ permalink: /research/planet-formation/
 ---
 ## Introduction
 Planet formation spans more than forty orders of magnitude in mass—from sub-micron interstellar dust grains to gas giants rivaling Jupiter.
-Our group investigates the physical processes that bridge these scales, focusing on the aerodynamic and gravitational mechanisms that convert diffuse [protoplanetary disk](/research/protoplanetary-disks/) material into the diverse planetary systems observed around other stars.
+[Our group](/team/) investigates the physical processes that bridge these scales, focusing on the aerodynamic and gravitational mechanisms that convert diffuse [protoplanetary disk](/research/protoplanetary-disks/) material into the diverse planetary systems observed around other stars.
 A central theme of our work is the streaming instability: a resonant aerodynamic mechanism that concentrates drifting pebbles into dense clumps capable of gravitational collapse into [planetesimals](#planetesimal-formation).
 
 - Planet formation involves physics from aerodynamics to self-gravity and orbital mechanics
-- Key bottlenecks—the "growth barrier" and the "meter-size barrier"—motivate instability-based formation pathways
+- Key barriers—due to radial drift, bouncing, and fragmentation—motivate instability-based formation pathways
 - Our group leads multi-code comparison projects to rigorously test theoretical predictions
 - Complementary observations from ALMA and space missions continue to reshape our understanding
 
@@ -31,13 +31,13 @@ As particles grow from micrometers to millimeters and centimeters ("pebbles"), a
 **Learn more:**
 - [Streaming Instability](#planetesimal-formation)
 - [Planetesimal Formation](#planetesimal-formation)
-- [Positive feedback: How a synergy between the streaming instability and dust coagulation forms planetesimals](https://ui.adsabs.harvard.edu/abs/2025A&A...696L..23C/abstract){:target="_blank"} — Carrera et al. (2025)
-- [Positive feedback: II. How dust coagulation inside vortices can form planetesimals at low metallicity](https://ui.adsabs.harvard.edu/abs/2025A&A...701L...1C/abstract){:target="_blank"} — Carrera et al. (2025)
-- [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — Godines et al. (2026)
+- [Positive feedback: How a synergy between the streaming instability and dust coagulation forms planetesimals](https://ui.adsabs.harvard.edu/abs/2025A&A...696L..23C/abstract){:target="_blank"} — [Carrera](/team/carrera-daniel/) et al. (2025)
+- [Positive feedback: II. How dust coagulation inside vortices can form planetesimals at low metallicity](https://ui.adsabs.harvard.edu/abs/2025A&A...701L...1C/abstract){:target="_blank"} — [Carrera](/team/carrera-daniel/) et al. (2025)
+- [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — [Godines](/team/godines-daniel/) et al. (2026)
 
 
 ## Planetesimal Formation
-Planetesimals—solid bodies from roughly 1 to 1000 km in size—represent the first generation of gravitationally bound objects in the planet-forming disk and the precursors of asteroids, comets, Kuiper Belt objects, and planetary cores.
+Planetesimals—solid bodies, roughly tens of km in size—represent the first generation of gravitationally bound objects in the planet-forming disk and the precursors of asteroids, comets, Kuiper Belt objects, and planetary cores.
 The [streaming instability](/research/fluid-dynamics/#streaming) is a leading mechanism for their formation: the mutual aerodynamic drag between inward-drifting pebbles and sub-Keplerian gas creates a positive feedback that concentrates solids into dense filaments and clumps that then collapse under self-gravity.
 
 - Streaming instability was first identified by [Youdin](/team/youdin-andrew/) & Goodman ([2005](https://ui.adsabs.harvard.edu/abs/2005ApJ...620..459Y/abstract){:target="_blank"})
@@ -48,23 +48,23 @@ The [streaming instability](/research/fluid-dynamics/#streaming) is a leading me
 **Learn more:**
 - [Streaming Instability](/research/fluid-dynamics/#streaming)
 - [Code Comparisons: Streaming Instability](/research/code-comparisons/)
-- [Streaming Instability and Turbulence: Conditions for Planetesimal Formation](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract){:target="_blank"} — Lim et al. (2024)
-- [Probing Conditions for Strong Clumping by the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...981..160L/abstract){:target="_blank"} — Lim et al. (2025)
-- [The Streaming Instability in 3D: Conditions for Strong Clumping](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — Lim et al. (2026)
-- [A Solution for the Density Dichotomy Problem of Kuiper Belt Objects](https://ui.adsabs.harvard.edu/abs/2024PSJ.....5...55C/abstract){:target="_blank"} — Carrera et al. (2024)
+- [Streaming Instability and Turbulence: Conditions for Planetesimal Formation](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2024)
+- [Probing Conditions for Strong Clumping by the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...981..160L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2025)
+- [The Streaming Instability in 3D: Conditions for Strong Clumping](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2026)
+- [A Solution for the Density Dichotomy Problem of Kuiper Belt Objects](https://ui.adsabs.harvard.edu/abs/2024PSJ.....5...55C/abstract){:target="_blank"} — [Carrera](/team/carrera-daniel/) et al. (2024)
 
 
 ## Pebble Accretion
 Once a planetesimal or protoplanetary embryo has formed, it can grow rapidly by gravitationally capturing inward-drifting centimeter-sized pebbles whose trajectories are deflected by gas drag.
 Pebble accretion rates can far exceed those of classical planetesimal–planetesimal collisions, offering a compelling pathway to assembling the cores of giant planets and super-Earths within disk lifetimes.
 
-- Pebble accretion efficiency depends on particle size (Stokes number), orbital location, and embryo mass
+- Pebble accretion efficiency depends on particle size, orbital location, and embryo mass
 - Polydisperse pebble size distributions alter growth rates compared to single-size models
 - The "pebble isolation mass" sets an upper limit beyond which an embryo cuts off its own pebble supply
 - Pebble accretion has implications for giant planet formation, Kuiper Belt objects, and exoplanet demographics
 
 **Learn more:**
 - [Dust Coagulation](#dust-coagulation)
-- [An Analytical Theory for the Growth from Planetesimals to Planets by Polydisperse Pebble Accretion](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...60L/abstract){:target="_blank"} — Lyra et al. (2023)
-- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — Lyra et al. (2024)
+- [An Analytical Theory for the Growth from Planetesimals to Planets by Polydisperse Pebble Accretion](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...60L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2023)
+- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
 - [Andrew N. Youdin](/team/youdin-andrew/) — pioneer of the streaming instability and pebble accretion theory
