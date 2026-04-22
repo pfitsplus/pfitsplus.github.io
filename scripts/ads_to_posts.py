@@ -21,6 +21,7 @@ import argparse
 import os
 import re
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -108,6 +109,52 @@ TEAM_MEMBERS = {
 
 # ── ADS API helpers ────────────────────────────────────────────────────────────
 
+# Retry configuration for handling ADS API rate limiting (HTTP 429)
+ADS_MAX_RETRIES = 5
+ADS_BACKOFF_BASE = 2  # seconds; delay for attempt n = ADS_BACKOFF_BASE ** n
+
+
+def _ads_request(
+    session: requests.Session, method: str, url: str, **kwargs
+) -> requests.Response:
+    """Make an HTTP request to the ADS API, retrying on 429 with exponential backoff.
+
+    On a 429 response the ``Retry-After`` header is honoured when present;
+    otherwise the delay doubles with each attempt (2s, 4s, 8s, …).
+    Raises :class:`requests.HTTPError` if retries are exhausted.
+    """
+    for attempt in range(ADS_MAX_RETRIES + 1):
+        resp = session.request(method, url, **kwargs)
+        if resp.status_code != 429:
+            resp.raise_for_status()
+            return resp
+
+        if attempt == ADS_MAX_RETRIES:
+            print(
+                f"ERROR: ADS rate limit (429) not resolved after "
+                f"{ADS_MAX_RETRIES} retries – giving up.",
+                file=sys.stderr,
+            )
+            resp.raise_for_status()
+
+        # Determine how long to wait before the next attempt
+        retry_after = resp.headers.get("Retry-After")
+        if retry_after is not None:
+            try:
+                delay = float(retry_after)
+            except ValueError:
+                delay = ADS_BACKOFF_BASE ** (attempt + 1)
+        else:
+            delay = ADS_BACKOFF_BASE ** (attempt + 1)
+
+        print(
+            f"  ADS rate limit hit (429). Retrying in {delay:.0f}s "
+            f"(attempt {attempt + 1}/{ADS_MAX_RETRIES}) …",
+            file=sys.stderr,
+        )
+        time.sleep(delay)
+
+
 def ads_session(token: str) -> requests.Session:
     """Return a requests Session pre-configured with the ADS Bearer token."""
     s = requests.Session()
@@ -121,11 +168,11 @@ def fetch_library_bibcodes(session: requests.Session) -> list:
     rows = 100
     start = 0
     while True:
-        resp = session.get(
+        resp = _ads_request(
+            session, "GET",
             f"{ADS_API_BASE}/biblib/libraries/{ADS_LIBRARY_ID}",
             params={"rows": rows, "start": start},
         )
-        resp.raise_for_status()
         data = resp.json()
         docs = data.get("documents", [])
         bibcodes.extend(docs)
@@ -144,13 +191,13 @@ def fetch_paper_metadata(session: requests.Session, bibcodes: list) -> list:
     for i in range(0, len(bibcodes), chunk_size):
         chunk = bibcodes[i : i + chunk_size]
         body = "bibcode\n" + "\n".join(chunk)
-        resp = session.post(
+        resp = _ads_request(
+            session, "POST",
             f"{ADS_API_BASE}/search/bigquery",
             params={"q": "*:*", "fl": ADS_FIELDS, "rows": chunk_size},
             data=body.encode(),
             headers={"Content-Type": "big-query/csv"},
         )
-        resp.raise_for_status()
         papers.extend(resp.json().get("response", {}).get("docs", []))
     return papers
 

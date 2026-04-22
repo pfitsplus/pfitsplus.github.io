@@ -7,6 +7,12 @@ on:
   # Allow manual runs from the GitHub Actions tab
   workflow_dispatch:
 
+# Prevent simultaneous runs to avoid compounding ADS rate-limit pressure.
+# A newly triggered run will wait for any already-running instance to finish.
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pull-requests: write
