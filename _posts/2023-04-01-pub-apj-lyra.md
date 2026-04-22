@@ -6,7 +6,6 @@ categories:
 tags:
   - "planet formation"
   - "planetary system formation"
-  - "astrophysics - earth and planetary astrophysics"
   - "Lyra, Wladimir"
   - "Yang, Chao-Chin"
 link: https://ui.adsabs.harvard.edu/abs/2023ApJ...946...60L/abstract

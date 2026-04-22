@@ -8,9 +8,6 @@ tags:
   - "astrophysical fluid dynamics"
   - "planet formation"
   - "protoplanetary disks"
-  - "astrophysics - earth and planetary astrophysics"
-  - "astrophysics - solar and stellar astrophysics"
-  - "physics - fluid dynamics"
   - "Chang, Eonho"
   - "Youdin, Andrew N."
 link: https://ui.adsabs.harvard.edu/abs/2024ApJ...976..100C/abstract

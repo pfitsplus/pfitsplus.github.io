@@ -6,7 +6,6 @@ categories:
 tags:
   - "protoplanetary disks"
   - "solar system"
-  - "astrophysics - earth and planetary astrophysics"
   - "Sengupta, Debanjan"
   - "Umurhan, Orkan M."
   - "Lyra, Wladimir"

@@ -10,7 +10,6 @@ tags:
   - "protoplanetary disks"
   - "submillimeter astronomy"
   - "hydrodynamics"
-  - "astrophysics - earth and planetary astrophysics"
   - "Chang, Eonho"
   - "Youdin, Andrew N."
   - "Krapp, Leonardo"

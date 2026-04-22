@@ -8,9 +8,6 @@ tags:
   - "hydrodynamical simulations"
   - "hydrodynamics"
   - "accretion"
-  - "astrophysics - solar and stellar astrophysics"
-  - "astrophysics - earth and planetary astrophysics"
-  - "physics - fluid dynamics"
   - "Umurhan, Orkan M."
 link: https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract
 ---

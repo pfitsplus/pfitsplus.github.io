@@ -7,8 +7,6 @@ tags:
   - "planets and satellites: formation"
   - "planets and satellites: general"
   - "protoplanetary discs"
-  - "earth and planetary astrophysics"
-  - "astrophysics of galaxies"
   - "Carrera, Daniel"
   - "Lyra, Wladimir"
 link: https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract

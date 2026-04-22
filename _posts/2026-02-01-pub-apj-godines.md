@@ -8,7 +8,6 @@ tags:
   - "radiative transfer"
   - "dust continuum emission"
   - "planetesimals"
-  - "earth and planetary astrophysics"
   - "Godines, Daniel"
   - "Lyra, Wladimir"
   - "Yang, Chao-Chin"

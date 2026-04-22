@@ -8,7 +8,6 @@ tags:
   - "asteroids: general"
   - "planets and satellites: formation"
   - "protoplanetary disks"
-  - "earth and planetary astrophysics"
   - "Carrera, Daniel"
   - "Lim, Jeonghoon"
   - "Lyra, Wladimir"

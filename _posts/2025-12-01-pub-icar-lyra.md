@@ -10,7 +10,6 @@ tags:
   - "origin"
   - "solar system"
   - "planetary formation"
-  - "earth and planetary astrophysics"
   - "Lyra, Wladimir"
 link: https://ui.adsabs.harvard.edu/abs/2025Icar..44216737L/abstract
 ---

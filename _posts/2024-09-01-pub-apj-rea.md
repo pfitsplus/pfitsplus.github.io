@@ -9,7 +9,6 @@ tags:
   - "accretion"
   - "protoplanetary disks"
   - "magnetohydrodynamical simulations"
-  - "astrophysics - earth and planetary astrophysics"
   - "Rea, David G."
   - "Simon, Jacob B."
   - "Carrera, Daniel"

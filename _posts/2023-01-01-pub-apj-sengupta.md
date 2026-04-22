@@ -7,8 +7,6 @@ tags:
   - "astrophysical fluid dynamics"
   - "planetesimals"
   - "protoplanetary disks"
-  - "hydrodynamical simulations"
-  - "astrophysics - earth and planetary astrophysics"
   - "Sengupta, Debanjan"
   - "Umurhan, Orkan M."
 link: https://ui.adsabs.harvard.edu/abs/2023ApJ...942...74S/abstract

@@ -5,7 +5,6 @@ categories:
   - Publications
 tags:
   - "planets and satellites: formation"
-  - "earth and planetary astrophysics"
   - "Carrera, Daniel"
   - "Lim, Jeonghoon"
   - "Lyra, Wladimir"

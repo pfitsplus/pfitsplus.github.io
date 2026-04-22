@@ -9,7 +9,6 @@ tags:
   - "hydrodynamics"
   - "hydrodynamical simulations"
   - "planetesimals"
-  - "astrophysics - earth and planetary astrophysics"
   - "Lim, Jeonghoon"
   - "Simon, Jacob B."
   - "Li, Rixin"

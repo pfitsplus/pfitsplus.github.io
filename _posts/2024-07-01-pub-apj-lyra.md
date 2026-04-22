@@ -5,7 +5,6 @@ categories:
   - Publications
 tags:
   - "planet formation"
-  - "astrophysics - earth and planetary astrophysics"
   - "Lyra, Wladimir"
   - "Yang, Chao-Chin"
   - "Simon, Jacob B."

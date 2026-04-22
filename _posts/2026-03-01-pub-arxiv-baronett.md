@@ -4,8 +4,6 @@ date: 2026-03-01T08:00:00
 categories:
   - Publications
 tags:
-  - "earth and planetary astrophysics"
-  - "solar and stellar astrophysics"
   - "computational physics"
   - "Baronett, Stanley A."
   - "Lyra, Wladimir"

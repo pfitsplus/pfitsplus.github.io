@@ -9,7 +9,6 @@ tags:
   - "pluto"
   - "hydrodynamics"
   - "planet formation"
-  - "astrophysics - earth and planetary astrophysics"
   - "Lyra, Wladimir"
   - "Carrera, Daniel"
   - "Krapp, Leonardo"

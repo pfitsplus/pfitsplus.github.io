@@ -9,7 +9,6 @@ tags:
   - "planetesimals"
   - "gas-to-dust ratio"
   - "hydrodynamics"
-  - "earth and planetary astrophysics"
   - "Lim, Jeonghoon"
   - "Simon, Jacob B."
   - "Li, Rixin"
