@@ -120,7 +120,7 @@ The SI was first identified by [Youdin](/team/youdin-andrew/) & Goodman ([2005](
 - [A Comparative Study of the Streaming Instability: Unstratified Models](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2026)
 
 
-### Vertical Shear Instability
+### Vertical Shear
 The vertical shear instability (VSI) is excited in the outer, well-irradiated regions of protoplanetary disks where rapid radiative cooling allows the disk's vertical thermal gradient to drive a growing oscillation.
 VSI-driven turbulence is relatively weak but pervasive, stirring the gas and lofting small dust grains; its effects on dust settling, particle concentration, and small-scale disk structure are active areas of investigation.
 
