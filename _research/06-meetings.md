@@ -83,6 +83,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Chiara Eleonora Scardoni | University of Milan                       | <i class="fa-solid fa-laptop"></i>       remote    |
 | Debanjan Sengupta        | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Eleanor Serviss          | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| Karim Shariff            | NASA Ames                                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Jake Simon               | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Nadine Soliman           | Institute for Advanced Study              | <i class="fa-solid fa-location-dot"></i> in person |
 | Prakruti Sudarshan       | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
