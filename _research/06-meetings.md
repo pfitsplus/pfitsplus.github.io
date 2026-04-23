@@ -90,7 +90,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Ryosuke Tominaga         | Institute of Science Tokyo                | <i class="fa-solid fa-laptop"></i>       remote    |
 | Orkan Umurhan            | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Peggy Varniere           | APC CNRS Universite Paris Cite France     | <i class="fa-solid fa-laptop"></i>       remote    |
-| Chen Wang                | Beijing Normal University                 | <i class="fa-solid fa-location-dot"></i> in person |
+| Chen Wang                | Beijing Normal University                 | <i class="fa-solid fa-laptop"></i>       remote    |
 | Shiang-Chih Wang         | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |
 | Chao-Chin Yang           | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Andrew Youdin            | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
