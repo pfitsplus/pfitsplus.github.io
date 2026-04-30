@@ -3,42 +3,82 @@ title: "Fluid Dynamics"
 permalink: /research/fluid-dynamics/
 ---
 ## Introduction
-Astrophysical fluid dynamics governs the motion of gas and dust in protoplanetary disks under the combined influence of gravity, pressure gradients, magnetic fields, and radiation. Understanding these dynamics is essential for modeling disk evolution, identifying the sites and mechanisms of planet formation, and interpreting disk observations. PFITS+ researchers develop and apply fluid-dynamical models—from analytic linear theory to large-scale numerical simulations—to probe the complex multiphysics environments of planet-forming disks.
+The evolution of [protoplanetary disks](/research/protoplanetary-disks/) and the emergence of [planets](/research/planet-formation/) are governed by complex fluid dynamics spanning magnetized turbulence, multi-fluid dust–gas interactions, and radiation transport.
+Our group develops and applies large-scale numerical simulations—using codes such as [Athena++](https://www.athena-astro.app/){:target="_blank"} and the [Pencil Code](http://pencil-code.nordita.org/){:target="_blank"}—to understand the instabilities, turbulent transport, and structural features that ultimately set the conditions for planet formation.
+
+- Disk fluid dynamics couples gas, magnetic fields, radiation, and solid particles across wide ranges of scales
+- Instabilities drive turbulence and generate large-scale structures (vortices, rings, spirals)
+- Turbulent diffusion and dust settling regulate solid-particle concentrations in the planet-forming midplane
+- Numerical experiments allow direct comparison with ALMA and other high-resolution observations
 
 **Learn more:**
+- [Research Overview](/research/)
+- [Protoplanetary Disks](/research/protoplanetary-disks/)
+- [Planet Formation](/research/planet-formation/)
+- [Software Development](/research/#software-development)
 - [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
 - [News: Hydrodynamics](/tags/hydrodynamics/)
 
 
 ## Dust–Gas Dynamics
-In protoplanetary disks, solid particles are coupled to the surrounding gas through aerodynamic drag, creating a complex two-component fluid whose behavior depends sensitively on particle size and local disk properties. The relative drift between dust and gas drives collective instabilities, redistributes solid material radially and vertically, and ultimately sets the stage for planetesimal formation. We study dust–gas dynamics across a wide range of disk conditions to understand how particle concentrations develop, evolve, and trigger the onset of planet formation.
+In [protoplanetary disks](/research/protoplanetary-disks/), solid particles are aerodynamically coupled to the surrounding gas through drag forces that depend on particle size and local gas density.
+The back-reaction of dust on the gas—particularly important when dust-to-gas ratios approach or exceed unity—drives phenomena such as the [streaming instability](#streaming), which plays a central role in concentrating solids and triggering [planetesimal formation](/research/planet-formation/#planetesimal-formation).
+
+- Particle stopping times (Stokes numbers) govern the coupling strength between dust and gas
+- Radial drift of pebbles toward pressure maxima can locally enhance dust-to-gas ratios
+- Collective drag effects produce runaway clumping at moderate dust-to-gas ratios
+- Feedback between multiple particle species (multispecies streaming) broadens the conditions for instability
 
 **Learn more:**
+- [Streaming Instability](#streaming)
+- [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley) et al. (2024)
+- [Bridging Unstratified and Stratified Simulations of the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...993...12L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2025)
+- [Chao-Chin Yang](/team/yang-chao-chin/) — specialist in [MHD](/research/fluid-dynamics/#magnetohydrodynamics) and dust–gas dynamics
 - [News: Dust–Gas Dynamics](/tags/dust-gas-dynamics/)
 - [News: Streaming Instability](/tags/streaming-instability/)
 - [News: Planet Formation](/tags/planet-formation/)
 
 
-## Magnetohydrodynamics
-Ionized regions of protoplanetary disks are subject to magnetohydrodynamic (MHD) effects that drive turbulence and transport angular momentum outward, enabling gas to accrete onto the central star. The magnetorotational instability (MRI) is the primary mechanism for generating this turbulence in weakly magnetized, differentially rotating disks, though the level of ionization—and therefore MHD activity—varies significantly with disk radius and height. PFITS+ researchers model MHD turbulence and its implications for disk structure, accretion rates, and conditions for planet formation.
+## Magnetohydrodynamics (MHD)
+Magnetic fields profoundly influence the dynamics of protoplanetary disks.
+The [magnetorotational instability](#magnetorotational) (MRI) can sustain turbulence and angular momentum transport in sufficiently ionized regions, while Ohmic resistivity, ambipolar diffusion, and the Hall effect suppress MRI activity near the midplane, shaping the internal structure and accretion behavior of the disk.
+
+- MRI-driven turbulence transports angular momentum outward, allowing disk material to accrete inward
+- Non-ideal MHD effects create layered accretion structures with magnetically "dead zones"
+- Magnetic field geometry affects the efficiency of magnetically driven disk winds
+- Hall effect can introduce large-scale ordered magnetic fields aligned with or against disk rotation
 
 **Learn more:**
+- [Magnetorotational Instability](#magnetorotational)
+- [Accretion](/research/protoplanetary-disks/#accretion)
+- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
+- [Jacob B. Simon](/team/simon-jacob/) — expert in magnetically driven accretion and MHD turbulence
 - [News: Magnetohydrodynamics](/tags/magnetohydrodynamics/)
 - [News: Accretion](/tags/accretion/)
 - [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
 
 
-## Radiation Hydrodynamics
-The thermal and luminosity structure of a protoplanetary disk is determined by the interplay between gas dynamics and radiation transport. Heating by stellar irradiation and viscous dissipation, combined with radiative cooling through dust emission, shapes the temperature profile and controls the location of key chemical boundaries such as the water ice line. We investigate how radiation hydrodynamics governs disk stability, drives thermally excited instabilities, and influences the conditions available for planet formation.
+## Radiation Hydrodynamics (RHD)
+The thermodynamic structure of [protoplanetary disks](/research/protoplanetary-disks/) is shaped by the transfer of radiation from the central star through disk gas and dust.
+Accurately modeling this coupling—including the effects of dust opacity, disk flaring, and non-equilibrium radiative cooling—is essential for understanding thermally driven disk instabilities and for making realistic comparisons with observations.
+
+- Stellar irradiation heats the disk surface; re-radiation and turbulent heating warm the midplane
+- Optically thick regions can trap radiation but also attenuate stellar irradiation, keeping midplane temperatures cool; while optically thin regions cool efficiently but are also more directly heated by the star, keeping disk surface layers warm
+- Cooling timescales influence the growth of thermal instabilities such as the [vertical shear instability](#vertical-shear)
+- Radiative transfer models are needed to interpret continuum and line observations of disk structure
 
 **Learn more:**
+- [Thermodynamic Structure](/research/protoplanetary-disks/#thermodynamic-structure)
+- [Vertical Shear Instability](#vertical-shear)
+- [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — [Godines](/team/godines-daniel/) et al. (2026)
 - [News: Hydrodynamics](/tags/hydrodynamics/)
 - [News: Radiative Transfer](/tags/radiative-transfer/)
 - [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
 
 
 ## Instabilities
-Protoplanetary disks are prone to a variety of hydrodynamic and magnetohydrodynamic instabilities that drive turbulence, shape disk structure, and promote the concentration of dust into planet-forming environments. PFITS+ researchers investigate several key instabilities—including the magnetorotational, Rossby wave, streaming, and vertical shear instabilities—studying their onset conditions, nonlinear saturation, and observational consequences.
+Protoplanetary disks are subject to a rich variety of hydrodynamic and magnetohydrodynamic instabilities that generate turbulence, drive structure formation, and influence the concentration and growth of solids.
+The subsections below describe the main instabilities studied by our group.
 
 **Learn more:**
 - [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
@@ -47,27 +87,59 @@ Protoplanetary disks are prone to a variety of hydrodynamic and magnetohydrodyna
 
 
 ### Magnetorotational
-The magnetorotational instability (MRI) operates in weakly magnetized, differentially rotating disks and is the leading candidate for driving turbulent angular momentum transport and accretion in the ionized inner disk and surface layers. Its saturation produces sustained turbulence whose properties depend on the magnetic field geometry and strength, with implications for disk structure and the stirring of dust particles. We study MRI onset, nonlinear saturation, and quenching in the context of realistic disk ionization models.
+The magnetorotational instability (MRI) is triggered when a weak magnetic field threads a differentially rotating, conducting fluid.
+It is one of the most studied and consequential mechanisms for driving turbulence and angular momentum transport in accretion disks, and our group investigates its behavior across the ionization conditions and non-ideal MHD regimes relevant to planet-forming disks.
+
+- Requires a weak poloidal or toroidal magnetic field and a negative angular velocity gradient
+- Grows on dynamical timescales (~orbital period) and saturates into MHD turbulence
+- Non-ideal effects (Ohmic, ambipolar, Hall) strongly modify or suppress MRI in disk midplanes
+- MRI-dead zones may foster large-scale pressure bumps and enhance dust trapping
 
 **Learn more:**
+- [Magnetohydrodynamics](#magnetohydrodynamics)
+- [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
+- [Jacob B. Simon](/team/simon-jacob/) — specialist in MRI simulations
 - [News: Magnetohydrodynamics](/tags/magnetohydrodynamics/)
 - [News: Accretion](/tags/accretion/)
 - [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
 
 
 ### Rossby Wave
-The Rossby wave instability (RWI) develops at sharp radial extrema in the disk pressure profile—such as the edges of gaps carved by planets or dead zones—and generates large, long-lived anticyclonic vortices. These vortices efficiently trap dust particles, creating local solid overdensities that may seed planetesimal formation and that produce observable asymmetric features in millimeter continuum images. Our work examines the conditions that trigger the RWI, the structure and persistence of the resulting vortices, and their role in concentrating solids.
+The Rossby wave instability (RWI) develops at sharp radial extrema in the disk's potential vorticity—such as the edges of MRI dead zones or planet-opened gaps—rolling up into large, long-lived anticyclonic vortices.
+These vortices efficiently trap dust particles, building up local solid-to-gas ratios that can trigger rapid [planetesimal formation](/research/planet-formation/#planetesimal-formation), and may produce the asymmetric dust features observed by ALMA.
+
+- Triggered by a local extremum in a generalized potential vorticity profile
+- Resulting vortices can survive for hundreds to thousands of orbital periods
+- Observed as crescents or asymmetric emission in millimeter-wave disk images
+- Vortices with self-gravity can form protoplanets on timescales shorter than classical models predict
 
 **Learn more:**
+- [Vortices](/research/protoplanetary-disks/#vortices)
+- [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — [Chang](/team/chang-eonho/) et al. (2023)
+- ["Halfway to Rayleigh" and Other Insights into the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..100C/abstract){:target="_blank"} — [Chang](/team/chang-eonho/) & [Youdin](/team/youdin-andrew/) (2024)
+- [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
 - [News: Vortices](/tags/vortices/)
 - [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
 - [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
 
 
 ### Streaming
-The streaming instability is a resonant drag instability arising from the aerodynamic interaction between inward-drifting pebbles and the slightly sub-Keplerian disk gas. Even modest enhancements in the local dust-to-gas ratio can trigger exponential clumping, driving dense filaments to gravitational collapse and forming planetesimals directly. PFITS+ is home to several leading experts on the streaming instability, with research spanning linear theory, nonlinear particle-gas simulations, and the connection to Solar System and extrasolar planet populations.
+The streaming instability (SI) arises from the mutual aerodynamic drag between solid particles and the gas in which they are embedded.
+When dust-to-gas ratios exceed a threshold that depends on particle size and disk pressure gradient, the instability grows exponentially, driving solids into dense filaments and clumps that can collapse gravitationally into [planetesimals](/research/planet-formation/#planetesimal-formation).
+The SI was first identified by [Youdin](/team/youdin-andrew/) & Goodman ([2005](https://ui.adsabs.harvard.edu/abs/2005ApJ...620..459Y/abstract){:target="_blank"}) and remains a cornerstone of modern planet formation theory.
+
+- Operates on orbital timescales in the disk midplane where solids concentrate
+- Clumping conditions depend on particle Stokes number (aerodynamic stopping time or size) and local metallicity (dust-to-gas ratio)
+- Multi-species and stratified extensions broaden and modify SI behavior
+- The subject of an ongoing [multi-code comparison project](/research/code-comparisons/)
 
 **Learn more:**
+- [Dust–Gas Dynamics](#dustgas-dynamics)
+- [Planetesimal Formation](/research/planet-formation/#planetesimal-formation)
+- [Code Comparisons: Streaming Instability](/research/code-comparisons/)
+- [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2024)
+- [Streaming Instability and Turbulence: Conditions for Planetesimal Formation](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2024)
+- [A Comparative Study of the Streaming Instability: Unstratified Models](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2026)
 - [News: Streaming Instability](/tags/streaming-instability/)
 - [News: Dust–Gas Dynamics](/tags/dust-gas-dynamics/)
 - [News: Planetesimal Formation](/tags/planetesimal-formation/)
@@ -75,9 +147,19 @@ The streaming instability is a resonant drag instability arising from the aerody
 
 
 ### Vertical Shear
-The vertical shear instability (VSI) operates in the cold, weakly ionized outer regions of protoplanetary disks, where rapid radiative cooling allows vertical temperature gradients to drive oscillatory instabilities in the vertical velocity field. The resulting turbulence produces vertical mixing and moderate levels of angular momentum transport without requiring magnetic fields. We investigate how the VSI interacts with other instabilities, how it stirs and diffuses dust particles, and what role it may play in setting the conditions for planetesimal formation in the outer disk.
+The vertical shear instability (VSI) is excited in the outer, well-irradiated regions of protoplanetary disks where rapid radiative cooling allows the disk's vertical thermal gradient to drive a growing oscillation.
+VSI-driven turbulence is relatively weak but pervasive, stirring the gas and lofting small dust grains; its effects on dust settling, particle concentration, and small-scale disk structure are active areas of investigation.
+
+- Requires thermal relaxation timescales shorter than the orbital period
+- Grows in the form of corrugation and breathing modes that break into turbulence
+- Produces vertical diffusion of dust with implications for disk opacity and chemistry
+- Interaction with the streaming instability and other instabilities is an open research question
 
 **Learn more:**
+- [Thermodynamic Structure](/research/protoplanetary-disks/#thermodynamic-structure)
+- [Radiation Hydrodynamics](#radiation-hydrodynamics)
+- [A High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & [Umurhan](/team/umurhan-orkan/) (2024)
+- [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) et al. (2024)
 - [News: Hydrodynamics](/tags/hydrodynamics/)
 - [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
 - [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
