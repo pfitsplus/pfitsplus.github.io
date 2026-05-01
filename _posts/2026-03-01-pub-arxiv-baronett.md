@@ -10,6 +10,7 @@ tags:
   - "Brouillette, Olivia"
   - "Carrera, Daniel"
   - "De Cun, Victoria I."
+  - "Eriksson, Linn"
   - "Krapp, Leonardo"
   - "Li, Rixin"
   - "Li, Shengtai"
