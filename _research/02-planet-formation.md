@@ -17,8 +17,8 @@ A central theme of our work is the streaming instability: a resonant aerodynamic
 - [Fluid Dynamics](/research/fluid-dynamics/)
 - [Code Comparisons](/research/code-comparisons/)
 - [PFITS+ Publications](https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA){:target="_blank"}
-- [News: Planet Formation](/tags/planet-formation/)
-- [News: Planetesimals](/tags/planetesimals/)
+- [News: Planet Formation](/tags/#planet-formation)
+- [News: Planetesimals](/tags/#planetesimals)
 
 
 ## Dust Coagulation
@@ -36,9 +36,9 @@ As particles grow from micrometers to millimeters and centimeters ("pebbles"), a
 - [Positive feedback: How a synergy between the streaming instability and dust coagulation forms planetesimals](https://ui.adsabs.harvard.edu/abs/2025A&A...696L..23C/abstract){:target="_blank"} — [Carrera](/team/carrera-daniel/) et al. (2025)
 - [Positive feedback: II. How dust coagulation inside vortices can form planetesimals at low metallicity](https://ui.adsabs.harvard.edu/abs/2025A&A...701L...1C/abstract){:target="_blank"} — [Carrera](/team/carrera-daniel/) et al. (2025)
 - [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — [Godines](/team/godines-daniel/) et al. (2026)
-- [News: Dust–Gas Dynamics](/tags/dust-gas-dynamics/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
-- [News: Planet Formation](/tags/planet-formation/)
+- [News: Dust–Gas Dynamics](/tags/#dust-gas-dynamics)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
+- [News: Planet Formation](/tags/#planet-formation)
 
 
 ## Planetesimal Formation
@@ -57,10 +57,10 @@ The [streaming instability](/research/fluid-dynamics/#streaming) is a leading me
 - [Probing Conditions for Strong Clumping by the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...981..160L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2025)
 - [The Streaming Instability in 3D: Conditions for Strong Clumping](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2026)
 - [A Solution for the Density Dichotomy Problem of Kuiper Belt Objects](https://ui.adsabs.harvard.edu/abs/2024PSJ.....5...55C/abstract){:target="_blank"} — [Carrera](/team/carrera-daniel/) et al. (2024)
-- [News: Planetesimal Formation](/tags/planetesimal-formation/)
-- [News: Streaming Instability](/tags/streaming-instability/)
-- [News: Planetesimals](/tags/planetesimals/)
-- [News: Planet Formation](/tags/planet-formation/)
+- [News: Planetesimal Formation](/tags/#planetesimal-formation)
+- [News: Streaming Instability](/tags/#streaming-instability)
+- [News: Planetesimals](/tags/#planetesimals)
+- [News: Planet Formation](/tags/#planet-formation)
 
 
 ## Pebble Accretion
@@ -77,6 +77,6 @@ Pebble accretion rates can far exceed those of classical planetesimal–planetes
 - [An Analytical Theory for the Growth from Planetesimals to Planets by Polydisperse Pebble Accretion](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...60L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2023)
 - [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
 - [Andrew N. Youdin](/team/youdin-andrew/) — pioneer of the streaming instability and pebble accretion theory
-- [News: Planet Formation](/tags/planet-formation/)
-- [News: Planetesimals](/tags/planetesimals/)
-- [News: Dust–Gas Dynamics](/tags/dust-gas-dynamics/)
+- [News: Planet Formation](/tags/#planet-formation)
+- [News: Planetesimals](/tags/#planetesimals)
+- [News: Dust–Gas Dynamics](/tags/#dust-gas-dynamics)

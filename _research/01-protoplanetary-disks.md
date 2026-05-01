@@ -17,8 +17,8 @@ Understanding their structure and evolution is central to explaining the origins
 - [Planet Formation](/research/planet-formation/)
 - [Fluid Dynamics](/research/fluid-dynamics/)
 - [Disk observations with ALMA](https://almascience.nrao.edu/){:target="_blank"}
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
-- [News: Planet Formation](/tags/planet-formation/)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
+- [News: Planet Formation](/tags/#planet-formation)
 
 
 ## Evolution
@@ -35,8 +35,8 @@ The interplay of these processes sets the stage for each subsequent phase of pla
 - [Thermodynamic Structure](#thermodynamic-structure)
 - [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & [Umurhan](/team/umurhan-orkan/) (2024)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
 
 
 ## Accretion
@@ -54,9 +54,9 @@ Our group investigates these mechanisms using high-fidelity [magnetohydrodynamic
 - [Magnetorotational Instability](/research/fluid-dynamics/#magnetorotational)
 - [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [Jacob B. Simon](/team/simon-jacob/) — expert in magnetically driven accretion processes
-- [News: Accretion](/tags/accretion/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
+- [News: Accretion](/tags/#accretion)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
 
 
 ## Thermodynamic Structure
@@ -74,9 +74,9 @@ Accurately modeling this structure is essential for making realistic comparisons
 - [Vertical Shear Instability](/research/fluid-dynamics/#vertical-shear)
 - [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) et al. (2024)
 - [Turbulence in Particle-laden Midplane Layers of Planet-forming Disks](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...74S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) & [Umurhan](/team/umurhan-orkan/) (2023)
-- [News: Radiative Transfer](/tags/radiative-transfer/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
+- [News: Radiative Transfer](/tags/#radiative-transfer)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
 
 
 ## Vortices
@@ -93,5 +93,5 @@ These structures efficiently concentrate dust particles, potentially triggering 
 - [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
 - [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — [Chang](/team/chang-eonho) et al. (2023)
 - [Planets and planetesimals at cosmic dawn: vortices as planetary nurseries](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract){:target="_blank"} — Eriksson et al. (2025)
-- [News: Vortices](/tags/vortices/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
+- [News: Vortices](/tags/#vortices)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)

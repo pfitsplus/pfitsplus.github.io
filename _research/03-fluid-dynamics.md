@@ -16,8 +16,8 @@ Our group develops and applies large-scale numerical simulations—using codes s
 - [Protoplanetary Disks](/research/protoplanetary-disks/)
 - [Planet Formation](/research/planet-formation/)
 - [Software Development](/research/#software-development)
-- [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
+- [News: Astrophysical Fluid Dynamics](/tags/#astrophysical-fluid-dynamics)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
 
 
 ## Dust–Gas Dynamics
@@ -34,9 +34,9 @@ The back-reaction of dust on the gas—particularly important when dust-to-gas r
 - [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley) et al. (2024)
 - [Bridging Unstratified and Stratified Simulations of the Streaming Instability](https://ui.adsabs.harvard.edu/abs/2025ApJ...993...12L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2025)
 - [Chao-Chin Yang](/team/yang-chao-chin/) — specialist in [MHD](/research/fluid-dynamics/#magnetohydrodynamics) and dust–gas dynamics
-- [News: Dust–Gas Dynamics](/tags/dust-gas-dynamics/)
-- [News: Streaming Instability](/tags/streaming-instability/)
-- [News: Planet Formation](/tags/planet-formation/)
+- [News: Dust–Gas Dynamics](/tags/#dust-gas-dynamics)
+- [News: Streaming Instability](/tags/#streaming-instability)
+- [News: Planet Formation](/tags/#planet-formation)
 
 
 ## Magnetohydrodynamics (MHD)
@@ -53,9 +53,9 @@ The [magnetorotational instability](#magnetorotational) (MRI) can sustain turbul
 - [Accretion](/research/protoplanetary-disks/#accretion)
 - [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [Jacob B. Simon](/team/simon-jacob/) — expert in magnetically driven accretion and MHD turbulence
-- [News: Magnetohydrodynamics](/tags/magnetohydrodynamics/)
-- [News: Accretion](/tags/accretion/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
+- [News: Magnetohydrodynamics](/tags/#magnetohydrodynamics)
+- [News: Accretion](/tags/#accretion)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
 
 
 ## Radiation Hydrodynamics (RHD)
@@ -71,9 +71,9 @@ Accurately modeling this coupling—including the effects of dust opacity, disk 
 - [Thermodynamic Structure](/research/protoplanetary-disks/#thermodynamic-structure)
 - [Vertical Shear Instability](#vertical-shear)
 - [On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..192G/abstract){:target="_blank"} — [Godines](/team/godines-daniel/) et al. (2026)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
-- [News: Radiative Transfer](/tags/radiative-transfer/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
+- [News: Radiative Transfer](/tags/#radiative-transfer)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
 
 
 ## Instabilities
@@ -81,9 +81,9 @@ Protoplanetary disks are subject to a rich variety of hydrodynamic and magnetohy
 The subsections below describe the main instabilities studied by our group.
 
 **Learn more:**
-- [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
-- [News: Streaming Instability](/tags/streaming-instability/)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
+- [News: Astrophysical Fluid Dynamics](/tags/#astrophysical-fluid-dynamics)
+- [News: Streaming Instability](/tags/#streaming-instability)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
 
 
 ### Magnetorotational
@@ -99,9 +99,9 @@ It is one of the most studied and consequential mechanisms for driving turbulenc
 - [Magnetohydrodynamics](#magnetohydrodynamics)
 - [Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..128R/abstract){:target="_blank"} — [Rea](/team/rea-david/) et al. (2024)
 - [Jacob B. Simon](/team/simon-jacob/) — specialist in MRI simulations
-- [News: Magnetohydrodynamics](/tags/magnetohydrodynamics/)
-- [News: Accretion](/tags/accretion/)
-- [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
+- [News: Magnetohydrodynamics](/tags/#magnetohydrodynamics)
+- [News: Accretion](/tags/#accretion)
+- [News: Astrophysical Fluid Dynamics](/tags/#astrophysical-fluid-dynamics)
 
 
 ### Rossby Wave
@@ -118,9 +118,9 @@ These vortices efficiently trap dust particles, building up local solid-to-gas r
 - [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — [Chang](/team/chang-eonho/) et al. (2023)
 - ["Halfway to Rayleigh" and Other Insights into the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...976..100C/abstract){:target="_blank"} — [Chang](/team/chang-eonho/) & [Youdin](/team/youdin-andrew/) (2024)
 - [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
-- [News: Vortices](/tags/vortices/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
-- [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
+- [News: Vortices](/tags/#vortices)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
+- [News: Astrophysical Fluid Dynamics](/tags/#astrophysical-fluid-dynamics)
 
 
 ### Streaming
@@ -140,10 +140,10 @@ The SI was first identified by [Youdin](/team/youdin-andrew/) & Goodman ([2005](
 - [Dust-gas dynamics driven by the streaming instability with various pressure gradients](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529..275B/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2024)
 - [Streaming Instability and Turbulence: Conditions for Planetesimal Formation](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract){:target="_blank"} — [Lim](/team/lim-jeonghoon/) et al. (2024)
 - [A Comparative Study of the Streaming Instability: Unstratified Models](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract){:target="_blank"} — [Baronett](/team/baronett-stanley/) et al. (2026)
-- [News: Streaming Instability](/tags/streaming-instability/)
-- [News: Dust–Gas Dynamics](/tags/dust-gas-dynamics/)
-- [News: Planetesimal Formation](/tags/planetesimal-formation/)
-- [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
+- [News: Streaming Instability](/tags/#streaming-instability)
+- [News: Dust–Gas Dynamics](/tags/#dust-gas-dynamics)
+- [News: Planetesimal Formation](/tags/#planetesimal-formation)
+- [News: Astrophysical Fluid Dynamics](/tags/#astrophysical-fluid-dynamics)
 
 
 ### Vertical Shear
@@ -160,6 +160,6 @@ VSI-driven turbulence is relatively weak but pervasive, stirring the gas and lof
 - [Radiation Hydrodynamics](#radiation-hydrodynamics)
 - [A High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..272S/abstract){:target="_blank"} — Shariff & [Umurhan](/team/umurhan-orkan/) (2024)
 - [Length and Velocity Scales in Protoplanetary Disk Turbulence](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...90S/abstract){:target="_blank"} — [Sengupta](/team/sengupta-debanjan/) et al. (2024)
-- [News: Hydrodynamics](/tags/hydrodynamics/)
-- [News: Astrophysical Fluid Dynamics](/tags/astrophysical-fluid-dynamics/)
-- [News: Protoplanetary Disks](/tags/protoplanetary-disks/)
+- [News: Hydrodynamics](/tags/#hydrodynamics)
+- [News: Astrophysical Fluid Dynamics](/tags/#astrophysical-fluid-dynamics)
+- [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
