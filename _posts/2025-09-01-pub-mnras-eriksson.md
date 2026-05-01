@@ -8,6 +8,7 @@ tags:
   - "planets and satellites: general"
   - "protoplanetary discs"
   - "Carrera, Daniel"
+  - "Eriksson, Linn"
   - "Lyra, Wladimir"
 link: https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract
 ---
