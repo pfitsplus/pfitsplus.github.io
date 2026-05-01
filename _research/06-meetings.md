@@ -41,7 +41,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Anna Childs              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Jeff Cuzzi               | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Sergei Dyda              | The University of Alabama                 | <i class="fa-solid fa-location-dot"></i> in person |
-| Linn Eriksson            | AMNH                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| [Linn Eriksson](/team/eriksson-linn/) | AMNH                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Paul Estrada             | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Mario Flock              | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
 | Lizxandra Flores-Rivera  | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |

@@ -14,4 +14,4 @@ link: https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract
 
 Published in *Monthly Notices of the Royal Astronomical Society*, 542, 641.
 
-Authors: Eriksson, Linn E. J., Menon, Shyam, [Daniel Carrera](/team/carrera-daniel/), [Wladimir Lyra](/team/lyra-wladimir/), Burkhart, Blakesley
+Authors: [Linn Eriksson](/team/eriksson-linn/), Menon, Shyam, [Daniel Carrera](/team/carrera-daniel/), [Wladimir Lyra](/team/lyra-wladimir/), Burkhart, Blakesley

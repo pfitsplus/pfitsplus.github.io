@@ -17,4 +17,4 @@ link: https://ui.adsabs.harvard.edu/abs/2025A&A...701L...1C/abstract
 
 Published in *Astronomy & Astrophysics*, 701, L1.
 
-Authors: [Daniel Carrera](/team/carrera-daniel/), Eriksson, Linn E. J., [Jeonghoon Lim](/team/lim-jeonghoon/), [Wladimir Lyra](/team/lyra-wladimir/), [Jacob B. Simon](/team/simon-jacob/)
+Authors: [Daniel Carrera](/team/carrera-daniel/), [Linn Eriksson](/team/eriksson-linn/), [Jeonghoon Lim](/team/lim-jeonghoon/), [Wladimir Lyra](/team/lyra-wladimir/), [Jacob B. Simon](/team/simon-jacob/)
