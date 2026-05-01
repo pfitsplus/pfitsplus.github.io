@@ -10,6 +10,7 @@ sidebar:
     image: /assets/images/team/eriksson-linn.jpg
     text: "Research Scientist<br>
     <a href='https://astrolinn.github.io/files/CV_webpage.pdf' target='_blank'><i class='fa-solid fa-file-pdf'></i>CV</a><br>
+    <a href='/tags/#eriksson-linn'><i class='fas fa-fw fa-newspaper'></i>News</a><br>
     <a href='https://astrolinn.github.io' target='_blank'><i class='fas fa-id-card'></i>Webpage</a>"
   - title: "Research Interests"
     text: "<ul>

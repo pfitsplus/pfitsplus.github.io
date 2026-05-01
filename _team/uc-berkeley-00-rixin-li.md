@@ -11,7 +11,8 @@ sidebar:
     text: "51 Pegasi b Postdoctoral Fellow<br>
     <a href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9222-4367&sort=date%20desc%2C%20bibcode%20desc&p_=0' target='_blank'><i class='fas fa-fw fa-search'></i>ADS</a><br>
     <a href='https://scholar.google.com/citations?user=cEJjBwIAAAAJ&hl=en' target='_blank'><i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
-    <a href='mailto:rixin@berkeley.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>"
+    <a href='mailto:rixin@berkeley.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>
+    <a href='/tags/#rixin-li'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet Formation

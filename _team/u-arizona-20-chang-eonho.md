@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/chang-eonho.jpg
-    text: "Graduate Student"
+    text: "Graduate Student<br>
+    <a href='/tags/#chang-eonho'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"
