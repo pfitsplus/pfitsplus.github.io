@@ -8,7 +8,7 @@ sidebar:
   - title: "Position"
     image: /assets/images/team/decun-victoria.jpg
     text: "Alum<br>
-    <a href='/tags/#decun-victoria'><i class='fas fa-fw fa-newspaper'></i>News</a>"
+    <a href='/tags/#de-cun-victoria-i'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"

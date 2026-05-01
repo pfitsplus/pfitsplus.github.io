@@ -9,7 +9,7 @@ sidebar:
   - title: "Position"
     image: /assets/images/team/simon-jacob.jpg
     text: "Associate Professor<br>
-    <a href='/tags/#simon-jacob'><i class='fas fa-fw fa-newspaper'></i>News</a>"
+    <a href='/tags/#simon-jacob-b'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation"
