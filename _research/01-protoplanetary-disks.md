@@ -92,6 +92,6 @@ These structures efficiently concentrate dust particles, potentially triggering 
 - [Rossby Wave Instability](/research/fluid-dynamics/#rossby-wave)
 - [Rapid Protoplanet Formation in Vortices: Three-dimensional Local Simulations with Self-gravity](https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..19L/abstract){:target="_blank"} — [Lyra](/team/lyra-wladimir/) et al. (2024)
 - [On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...1C/abstract){:target="_blank"} — [Chang](/team/chang-eonho) et al. (2023)
-- [Planets and planetesimals at cosmic dawn: vortices as planetary nurseries](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract){:target="_blank"} — Eriksson et al. (2025)
+- [Planets and planetesimals at cosmic dawn: vortices as planetary nurseries](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..641E/abstract){:target="_blank"} — [Eriksson](/team/eriksson-linn/) et al. (2025)
 - [News: Vortices](/tags/#vortices)
 - [News: Protoplanetary Disks](/tags/#protoplanetary-disks)
