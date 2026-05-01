@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/lehmann-marius.png
-    text: "Postdoc Research Associate"
+    text: "Postdoc Research Associate<br>
+    <a href='/tags/#lehmann-marius'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/protoplanetary-disks/'>Protoplanetary Disks</a>

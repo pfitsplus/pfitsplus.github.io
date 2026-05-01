@@ -7,7 +7,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/balaji-sricharan.jpg
-    text: "Alum"
+    text: "Alum<br>
+    <a href='/tags/#balaji-sricharan'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"

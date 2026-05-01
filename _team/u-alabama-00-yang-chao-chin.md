@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/yang-chao-chin.jpg
-    text: "Assistant Professor"
+    text: "Assistant Professor<br>
+    <a href='/tags/#yang-chao-chin'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation
