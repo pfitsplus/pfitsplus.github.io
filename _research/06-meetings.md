@@ -28,7 +28,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 <!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
 
-### <i class="fa-solid fa-user-group"></i> Program
+### <i class="fa-solid fa-table-list"></i> Program
 
 #### Monday, June 8
 
