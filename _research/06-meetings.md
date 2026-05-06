@@ -27,6 +27,140 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 <!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
+
+### <i class="fa-solid fa-user-group"></i> Program
+
+#### Monday, June 8
+
+| Time        | Who / What                              | Talk Title                                                                       |
+|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
+| 09:00–09:40 | *Registration & Arrival*                |                                                                                  |
+| **Morning session 1**  |*Chair: Thomas Pfeil*         |                                                                                  |
+| 09:40–10:00 | Luca Ricci                              | TBD                                                                              |
+| 10:00–10:20 | Farzana Meru                            | Gravitationally unstable disks delay the radial drift of dust                    |
+| 10:20–10:40 | Kaitlin Kratter                         | Gravitational Instability in weakly self-gravitating disks                       |
+| 10:40–11:20 | *Coffee Break*                          |                                                                                  |
+| **Morning session 2**  |*Chair: David Rea*            |                                                                                  |
+| 11:20–11:40 | Cassandra Hall                          | Kinematics of gravitational instability                                          |
+| 11:40–12:00 | Hans Baehr                              | Dust dynamics in gravitational instabilities                                     |
+| 12:00–12:20 | Shangjia Zhang                          | Shadows: A Laboratory to probe disk thermodynamics and hydrodynamics             |
+| 12:20–14:00 | *Lunch*                                 |                                                                                  |
+| **Afternoon session 1**|*Chair: Daniel Carrera*       |                                                                                  |
+| 14:00–14:20 | Jeffrey Fung                            | Radiation Pressure Instability — Clumps and cavities carved by light             |
+| 14:20–14:40 | Weston Hall                             | Size distribution of KBOs compared to theory                                     |
+| 14:40–15:00 | Rixin Li                                | Cold Classical Kuiper belt objects as primordial planetesimals                   |
+| 15:00–15:40 | *Coffee Break*                          |                                                                                  |
+| **Afternoon session 2**|*Chair: Anna Childs*          |                                                                                  |
+| 15:40–16:00 | Linn Eriksson                           | Streaming instability and MRI turbulence                                         |
+| 16:00–16:20 | Tabassum Tanvir                         | Planetesimal formation from millimeter grains in pressure bumps                  |
+| 16:20–17:00 | **Discussion (K. Kratter & C. Hall)**   |                                                                                  |
+
+---
+
+#### Tuesday, June 9
+
+| Time        | Who / What                              | Talk Title                                                                       |
+|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
+| **Morning session 1**  |*Chair: Nadine Soliman*       |                                                                                  |
+| 09:00–09:20 | Shiang-Chih Wang                        | How azimuthal accretion flows affect dust growth via streaming instabilities     |
+| 09:20–09:40 | Hossam Aly                              | Dusty warps in the local frame: instability and fast clumping                    | 
+| 09:40–10:00 | Mario Flock                             | The inner dusty rim of the protoplanetary disk                                   |
+| 10:00–10:20 | Michael Cecil                           | Episodic instability of the inner disk rim                                       |
+| 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
+| **Morning session 2**  |*Chair: Sergei Dyda*          |                                                                                  |
+| 11:00–11:20 | Chiara Scardoni                         | From dust filaments to observables: tracing streaming instability                |
+| 11:20–11:40 | Daniel Godines                          | On the mass budget problem: Streaming instability and optically thick emission   |
+| 11:40–12:00 | Takayuki Muto                           | Disk heating due to planet-induced spiral shocks and implications to a snowline  |
+| 12:00–12:20 | Lizxandra Flores-Rivera                 | Vertical mixing and radial transport of pebbles in protoplanetary disks          |
+| 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
+| **Afternoon session 1**|*Chair: Linn Eriksson*        |                                                                                  |
+| 14:00–14:20 | Thomas Pfeil                            | Can the Vertical Shear Instability survive dust coagulation and settling?        |
+| 14:20–14:40 | Jip Matthijsse                          | Dust-driven Vertical Shear Instability                                           |
+| 14:40–15:00 | Nadine Soliman                          | Dust regulates the Vertical Shear Instability                                    |
+| 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  |
+| **Afternoon session 2**|*Chair: Tom Konijn*           |                                                                                  |
+| 15:40–16:00 | Yuka Fukuhara                           | Impact of vertical shear instability on dust evolution                           |
+| 16:00–16:20 | Karim Shariff                           | Pade code and the Vertical Shear Instability                                     | 
+| 16:20–17:00 | <b>Discussion (A. Youdin  & T. Muto)</b>|                                                                                  |
+
+---
+
+#### Wednesday, June 10
+
+| Time        | Who / What                              | Talk Title                                                                       |
+|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
+| **Morning session 1**  |*Chair: Marius Leehman*       |                                                                                  |
+| 09:00–09:20 | Chen Wang                               | Baroclinic critical layers and zombie vortices                                   |
+| 09:20–09:40 | Min-Kai Lin                             | Locally global simulations of the Convective Overstability                       |
+| 09:40–10:00 | Heloise Meheut                          | Keplerian turbulence and planetesimal formation                                  |
+| 10:00–10:20 | Fabiola Gerosa                          | Dust clustering and drifting in turbulence                                       | 
+| 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
+| **Morning session 2**  |*Chair: Rixin Li*       |                                                                                  |
+| 11:00–11:20 | Orkan Umurhan                           | Analytics Expressions for streaming instability growth rate                      |
+| 11:20–11:40 | Debanjan Sengupta                       | TBD                                                                              |
+| 11:40–12:00 | Jay Lim                                 | Bridging unstratified and stratified simulations of the Streaming Instability    | 
+| 12:00–12:20 | Daniel Carrera                          | Positive feedback loops as a pathway to planetesimal formation                   |
+| 12:20–      | <i>Conference Photo</i>                 |                                                                                  |
+|             | <i>Free afternoon</i>                   |                                                                                  |
+
+---
+
+#### Thursday, June 11
+
+| Time        | Who / What                              | Talk Title                                                                       |
+|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
+| **Morning session 1**  |*Chair: Jay Lim*       |                                                                                  |
+| 09:00–09:20 | Ryosuke Tominaga                        | Dust growth assisted by Streaming Instability                                    | 
+| 09:20–09:40 | Elephteria Sarafidou                    | Disk dynamics under non ideal MHD effects                                        |
+| 09:40–10:00 | David Melon-Fuksman                     | Radiation-hydrodynamic phenomena: self-shadowing and VSI                         |
+| 10:00–10:20 | Peggy Varniere                          | Rossby Wave Instability at the edge of circumbinary disks                        | 
+| 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
+| **Morning session 2**  |*Chair: Stanley Baronett*       |                                                                                  |
+| 11:00–11:20 | Shengtai Li                             | Dust Coagulation Impact on the Rossby Wave Instability                           |
+| 11:20–11:40 | Andrew Youdin                           | From Pressure Bumps to Rossby Wave Instability                                   |
+| 11:40–12:00 | Aleksandra Kuznetsova                   | Multi-fluid evolution of infall-induced Rossby Wave Instability                  |
+| 12:00–12:20 | Eonho Chang                             | Rossby wave instability with a migrating planet                                  | 
+| 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
+| **Afternoon session 1**  |*Chair: Debanjan Sengupta*       |                                                                                  |
+| 14:00–14:20 | Alex Ziampras                           | Outburst, rings, and vortices at the dead zone inner edge                        |
+| 14:20–14:40 | Hui Li                                  | Multi-dimensional modeling of gas-dust dynamics                                  |
+| 14:40–15:00 | Marius Leehman                          | TBD                                                                              |
+| 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  | 
+| **Afternoon session 2**  |*Chair: Yuka Fukuhara*       |                                                                                  |
+| 15:40–16:00 | David Rea                               | Turbulence driven by weak-ionization instabilities                               |
+| 16:00–16:20 | Uma Gorti                               | TBD                                                                              |
+| 16:20–17:00 | <b>Discussion (C.-C. Yang  & H. Li)</b> |                                                                                  |
+
+---
+
+#### Friday, June 12
+
+| Time        | Who / What                              | Talk Title                                                                       |
+|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
+| **Morning session 1**  |*Chair: Alex Ziampras*       |                                                                                  |
+| 09:00–09:20 | Pinghui Huang                           | Planetesimal Formation under Realistic Gas Dynamics                              |  
+| 09:20–09:40 | Nathan Magnan                           | The reflex instability, or how not to deal with the indirect term                |
+| 09:40–10:00 | Michael Hammer                          | Can radial convection happen in protoplanetary discs even with magnetic fields?  |
+| 10:00–10:20 | Dominik Ostertag                        | A comparison between particle and fluid approaches for streaming instability in global patch simulations |
+| 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
+| **Morning session 2**  |*Chair: Hans Baehr*       |                                                                                  |
+| 11:00–11:20 | Stanley Baronett                        | A comparative study of the streaming instability                                 | 
+| 11:20–11:40 | Prakruti Sudarshan                      | Comparing different radiation methods used in astrophysical codes                |
+| 11:40–12:00 | Sergei Dyda                             | Resolution Effects and the Streaming Instability                                 |
+| 12:00–12:20 | Leonardo Krapp                          | Not just gas: How solids-driven torques shaped the migration of the Galilean moons|
+| 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
+| **Afternoon session 1**  |*Chair: Aleksandra Kuznetsova*       |                                                                                  |
+| 14:00–14:20 | Anna Childs                             | TBD                                                                              |
+| 14:20–14:40 | Susmita Garai                           | Pebble accretion for Earth’s composition and water delivery                      |
+| 14:40–15:00 | Tom Konijn                              | A multifluid approach to pebble accretion                                        |
+| 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  |
+| **Afternoon session 2**  |*Chair: Tabassum Tanvir*       |                                                                                  |
+| 15:40–16:00 | Hubert Klahr                            | TBD                                                                              | 
+| 16:00–16:20 | Paul Estrada                            | TBD                                                                              |
+| 16:20–17:00 | <b>Discussion (J. Simon & O. Umurhan)</b> |                                                                                |
+
+---
+
 ### <i class="fa-solid fa-user-group"></i> Confirmed Participants
 
 | Name                     | Affiliation                               | Attendance                                         |
@@ -55,13 +189,14 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Cassandra Hall           | University of Georgia                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Weston Hall              | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Michael Hammer           | MPS                                       | <i class="fa-solid fa-laptop"></i>       remote    |
+| Loren Held               | University of Cambridge                   | <i class="fa-solid fa-laptop"></i>       remote    |
 | Pinghui Huang            | Purple Mountain Observatory               | <i class="fa-solid fa-laptop"></i>       remote    |
 | Leopold Hutnik           | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
 | Hubert Klahr             | MPIA                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Tom Konijn               | TU Delft                                  | <i class="fa-solid fa-location-dot"></i> in person |
 | Leonardo Krapp           | Universidad de Concepción                 | <i class="fa-solid fa-laptop"></i>       remote    |
 | Kaitlin Kratter          | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
-| Aleksandra Kunetsova     | University of Connecticut                 | <i class="fa-solid fa-location-dot"></i> in person |
+| Aleksandra Kuznetsova   | University of Connecticut                 | <i class="fa-solid fa-location-dot"></i> in person |
 | Marius Lehmann           | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Hui Li                   | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
 | Rixin Li                 | UC Berkeley                               | <i class="fa-solid fa-location-dot"></i> in person |
