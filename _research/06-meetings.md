@@ -79,7 +79,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 14:40–15:00 | Nadine Soliman                          | Dust regulates the Vertical Shear Instability                                    |
 | 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  |
 | **Afternoon session 2**|*Chair: Tom Konijn*           |                                                                                  |
-| 15:40–16:00 | Yuka Fukuhara                           | Impact of vertical shear instability on dust evolution                           |
+| 15:40–16:00 | Yuya Fukuhara                           | Impact of vertical shear instability on dust evolution                           |
 | 16:00–16:20 | Karim Shariff                           | Pade code and the Vertical Shear Instability                                     | 
 | 16:20–17:00 | <b>Discussion (A. Youdin  & T. Muto)</b>|                                                                                  |
 
@@ -126,7 +126,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 14:20–14:40 | Hui Li                                  | Multi-dimensional modeling of gas-dust dynamics                                  |
 | 14:40–15:00 | Marius Leehman                          | TBD                                                                              |
 | 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  | 
-| **Afternoon session 2**  |*Chair: Yuka Fukuhara*       |                                                                                  |
+| **Afternoon session 2**  |*Chair: Yuya Fukuhara*       |                                                                                  |
 | 15:40–16:00 | David Rea                               | Turbulence driven by weak-ionization instabilities                               |
 | 16:00–16:20 | Uma Gorti                               | TBD                                                                              |
 | 16:20–17:00 | <b>Discussion (C.-C. Yang  & H. Li)</b> |                                                                                  |
