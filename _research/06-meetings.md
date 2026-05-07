@@ -54,6 +54,8 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 15:40–16:00 | Linn Eriksson                           | Streaming instability and MRI turbulence                                         |
 | 16:00–16:20 | Tabassum Tanvir                         | Planetesimal formation from millimeter grains in pressure bumps                  |
 | 16:20–17:00 | **Discussion (K. Kratter & C. Hall)**   |                                                                                  |
+|             |                                         |                                                                                  |
+| 19:00-      | *Social night at Eureka*                |                                                                                  |
 
 ---
 
@@ -101,7 +103,10 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 11:40–12:00 | Jay Lim                                 | Bridging unstratified and stratified simulations of the Streaming Instability    | 
 | 12:00–12:20 | Daniel Carrera                          | Positive feedback loops as a pathway to planetesimal formation                   |
 | 12:20–      | <i>Conference Photo</i>                 |                                                                                  |
+|             |                                         |                                                                                  |
 |             | <i>Free afternoon</i>                   |                                                                                  |
+|             |                                         |                                                                                  |
+| 19:00-      | **Conference Dinner at Café Baklava**   |                                                                                  |
 
 ---
 
