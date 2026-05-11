@@ -125,7 +125,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 11:20–11:40 | Andrew Youdin                           | From Pressure Bumps to Rossby Wave Instability                                   |
 | 11:40–12:00 | Aleksandra Kuznetsova                   | Multi-fluid evolution of infall-induced Rossby Wave Instability                  |
 | 12:00–12:20 | Eonho Chang                             | Rossby wave instability with a migrating planet                                  | 
-| 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
+| 12:20–14:00 | *Lunch*                                 |                                                                                  |
 | **Afternoon session 1**  |*Chair: Hans Baehr*         |                                                                                  |
 | 14:00–14:20 | Alex Ziampras                           | Outburst, rings, and vortices at the dead zone inner edge                        |
 | 14:20–14:40 | Hui Li                                  | Multi-dimensional modeling of gas-dust dynamics                                  |
@@ -140,29 +140,29 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 #### Friday, June 12
 
-| Time        | Who / What                              | Talk Title                                                                       |
-|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
-| **Morning session 1**  |*Chair: Alex Ziampras*        |                                                                                  |
-| 09:00–09:20 | Pinghui Huang                           | Planetesimal Formation under Realistic Gas Dynamics                              |  
-| 09:20–09:40 | Nathan Magnan                           | The reflex instability, or how not to deal with the indirect term                |
-| 09:40–10:00 | Michael Hammer                          | Can radial convection happen in protoplanetary discs even with magnetic fields?  |
-| 10:00–10:20 | Dominik Ostertag                        | A comparison between particle and fluid approaches for streaming instability in global patch simulations |
-| 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
-| **Morning session 2**  |*Chair: Debanjan Sengupta*    |                                                                                  |
-| 11:00–11:20 | Stanley Baronett                        | A comparative study of the streaming instability                                 | 
-| 11:20–11:40 | Prakruti Sudarshan                      | Comparing different radiation methods used in astrophysical codes                |
-| 11:40–12:00 | Sergei Dyda                             | Resolution Effects and the Streaming Instability                                 |
-| 12:00–12:20 | Leonardo Krapp                          | Not just gas: How solids-driven torques shaped the migration of the Galilean moons|
-| 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
-| **Afternoon session 1**  |*Chair: Aleksandra Kuznetsova*       |                                                                                  |
-| 14:00–14:20 | Anna Childs                             | Composition Constraints of the TRAPPIST-1 Planets from Pebble Accretion          |
-| 14:20–14:40 | Susmita Garai                           | Pebble accretion for Earth’s composition and water delivery                      |
-| 14:40–15:00 | Tom Konijn                              | A multifluid approach to pebble accretion                                        |
-| 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  |
-| **Afternoon session 2**  |*Chair: Tabassum Tanvir*    |                                                                                  |
-| 15:40–16:00 | Hubert Klahr                            | TBD                                                                              | 
-| 16:00–16:20 | Paul Estrada                            | TBD                                                                              |
-| 16:20–17:00 | <b>Discussion (J. Simon & O. Umurhan)</b> |                                                                                |
+| Time        | Who / What                                 | Talk Title                                                                                                            |
+|-------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Morning session 1**  |*Chair: Alex Ziampras*           |                                                                                                                       |
+| 09:00–09:20 | Pinghui Huang                              | Planetesimal Formation under Realistic Gas Dynamics                                                                   |  
+| 09:20–09:40 | Nathan Magnan                              | The reflex instability, or how not to deal with the indirect term                                                     |
+| 09:40–10:00 | Michael Hammer                             | Can radial convection happen in protoplanetary discs even with magnetic fields?                                       |
+| 10:00–10:20 | Dominik Ostertag                           | A comparison between particle and fluid approaches for streaming instability in global patch simulations              |
+| 10:20–11:00 | *Coffee Break*                             |                                                                                                                       |
+| **Morning session 2**  |*Chair: Debanjan Sengupta*       |                                                                                                                       |
+| 11:00–11:20 | Stanley Baronett                           | A framework to model stellar irradiated disks with frequency-dependent absorption and scattering opacities in Athena++|
+| 11:20–11:40 | Prakruti Sudarshan                         | Comparing different radiation methods used in astrophysical codes                                                     |
+| 11:40–12:00 | Sergei Dyda                                | Resolution Effects and the Streaming Instability                                                                      |
+| 12:00–12:20 | Leonardo Krapp                             | Not just gas: How solids-driven torques shaped the migration of the Galilean moons                                    |
+| 12:20–14:00 | *Lunch*                                    |                                                                                                                       |
+| **Afternoon session 1**  |*Chair: Aleksandra Kuznetsova* |                                                                                                                       |
+| 14:00–14:20 | Anna Childs                                | Composition Constraints of the TRAPPIST-1 Planets from Pebble Accretion                                               |
+| 14:20–14:40 | Susmita Garai                              | Pebble accretion for Earth’s composition and water delivery                                                           |
+| 14:40–15:00 | Tom Konijn                                 | A multifluid approach to pebble accretion                                                                             |
+| 15:00–15:40 | *Coffee Break*                             |                                                                                                                       |
+| **Afternoon session 2**  |*Chair: Tabassum Tanvir*       |                                                                                                                       |
+| 15:40–16:00 | Hubert Klahr                               | TBD                                                                                                                   | 
+| 16:00–16:20 | Paul Estrada                               | TBD                                                                                                                   |
+| 16:20–17:00 | **Discussion (J. Simon & O. Umurhan)**     |                                                                                                                       |
 
 ---
 
