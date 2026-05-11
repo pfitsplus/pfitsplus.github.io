@@ -99,7 +99,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
 | **Morning session 2**  |*Chair: Rixin Li*             |                                                                                  |
 | 11:00–11:20 | Orkan Umurhan                           | Analytics Expressions for streaming instability growth rate                      |
-| 11:20–11:40 | Debanjan Sengupta                       | TBD                                                                              |
+| 11:20–11:40 | Debanjan Sengupta                       | Operation of streaming instability in the presence of external turbulence        |
 | 11:40–12:00 | Jay Lim                                 | Bridging unstratified and stratified simulations of the Streaming Instability    | 
 | 12:00–12:20 | Daniel Carrera                          | Positive feedback loops as a pathway to planetesimal formation                   |
 | 12:20–      | <i>Conference Photo</i>                 |                                                                                  |
@@ -126,7 +126,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 11:40–12:00 | Aleksandra Kuznetsova                   | Multi-fluid evolution of infall-induced Rossby Wave Instability                  |
 | 12:00–12:20 | Eonho Chang                             | Rossby wave instability with a migrating planet                                  | 
 | 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
-| **Afternoon session 1**  |*Chair: Debanjan Sengupta*  |                                                                                  |
+| **Afternoon session 1**  |*Chair: Hans Baehr*         |                                                                                  |
 | 14:00–14:20 | Alex Ziampras                           | Outburst, rings, and vortices at the dead zone inner edge                        |
 | 14:20–14:40 | Hui Li                                  | Multi-dimensional modeling of gas-dust dynamics                                  |
 | 14:40–15:00 | Marius Lehmann                          | Impact of Convective Overstability on planet formation and migration             |
@@ -148,14 +148,14 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 09:40–10:00 | Michael Hammer                          | Can radial convection happen in protoplanetary discs even with magnetic fields?  |
 | 10:00–10:20 | Dominik Ostertag                        | A comparison between particle and fluid approaches for streaming instability in global patch simulations |
 | 10:20–11:00 | <i>Coffee Break</i>                     |                                                                                  |
-| **Morning session 2**  |*Chair: Hans Baehr*           |                                                                                  |
+| **Morning session 2**  |*Chair: Debanjan Sengupta*    |                                                                                  |
 | 11:00–11:20 | Stanley Baronett                        | A comparative study of the streaming instability                                 | 
 | 11:20–11:40 | Prakruti Sudarshan                      | Comparing different radiation methods used in astrophysical codes                |
 | 11:40–12:00 | Sergei Dyda                             | Resolution Effects and the Streaming Instability                                 |
 | 12:00–12:20 | Leonardo Krapp                          | Not just gas: How solids-driven torques shaped the migration of the Galilean moons|
 | 12:20–14:00 | <i>Lunch</i>                            |                                                                                  |
 | **Afternoon session 1**  |*Chair: Aleksandra Kuznetsova*       |                                                                                  |
-| 14:00–14:20 | Anna Childs                             | TBD                                                                              |
+| 14:00–14:20 | Anna Childs                             | Composition Constraints of the TRAPPIST-1 Planets from Pebble Accretion          |
 | 14:20–14:40 | Susmita Garai                           | Pebble accretion for Earth’s composition and water delivery                      |
 | 14:40–15:00 | Tom Konijn                              | A multifluid approach to pebble accretion                                        |
 | 15:00–15:40 | <i>Coffee Break</i>                     |                                                                                  |
