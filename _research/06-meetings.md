@@ -112,29 +112,29 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 #### Thursday, June 11
 
-| Time        | Who / What                              | Talk Title                                                                       |
-|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
-| **Morning session 1**  |*Chair: Jay Lim*              |                                                                                  |
-| 09:00–09:20 | Ryosuke Tominaga                        | Dust growth assisted by Streaming Instability                                    |
-| 09:20–09:40 | Elephteria Sarafidou                    | Disk dynamics under non ideal MHD effects                                        |
-| 09:40–10:00 | David Melon-Fuksman                     | Radiation-hydrodynamic phenomena: self-shadowing and VSI                         |
-| 10:00–10:20 | Peggy Varniere                          | Rossby Wave Instability at the edge of circumbinary disks                        |
-| 10:20–11:00 | *Coffee Break*                          |                                                                                  |
-| **Morning session 2**  |*Chair: Stanley Baronett*     |                                                                                  |
-| 11:00–11:20 | Shengtai Li                             | Dust Coagulation Impact on the Rossby Wave Instability                           |
-| 11:20–11:40 | Andrew Youdin                           | From Pressure Bumps to Rossby Wave Instability                                   |
-| 11:40–12:00 | Aleksandra Kuznetsova                   | Multi-fluid evolution of infall-induced Rossby Wave Instability                  |
-| 12:00–12:20 | Eonho Chang                             | Rossby wave instability with a migrating planet                                  | 
-| 12:20–14:00 | *Lunch*                                 |                                                                                  |
-| **Afternoon session 1**  |*Chair: Hans Baehr*         |                                                                                  |
-| 14:00–14:20 | Alex Ziampras                           | Outburst, rings, and vortices at the dead zone inner edge                        |
-| 14:20–14:40 | Hui Li                                  | Multi-dimensional modeling of gas-dust dynamics                                  |
-| 14:40–15:00 | Marius Lehmann                          | Impact of Convective Overstability on planet formation and migration             |
-| 15:00–15:40 | *Coffee Break*                          |                                                                                  |
-| **Afternoon session 2**  |*Chair: Yuya Fukuhara*      |                                                                                  |
-| 15:40–16:00 | David Rea                               | Turbulence driven by weak-ionization instabilities                               |
-| 16:00–16:20 | Uma Gorti                               | TBD                                                                              |
-| 16:20–17:00 | **Discussion (C.-C. Yang  & H. Li)**    |                                                                                  |
+| Time        | Who / What                              | Talk Title                                                                                        |
+|-------------|-----------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Morning session 1**  |*Chair: Jay Lim*              |                                                                                                   |
+| 09:00–09:20 | Ryosuke Tominaga                        | Dust growth assisted by Streaming Instability                                                     |
+| 09:20–09:40 | Elephteria Sarafidou                    | Disk dynamics under non ideal MHD effects                                                         |
+| 09:40–10:00 | David Melon-Fuksman                     | Radiation-hydrodynamic phenomena: self-shadowing and VSI                                          |
+| 10:00–10:20 | Peggy Varniere                          | Rossby Wave Instability at the edge of circumbinary disks                                         |
+| 10:20–11:00 | *Coffee Break*                          |                                                                                                   |
+| **Morning session 2**  |*Chair: Stanley Baronett*     |                                                                                                   |
+| 11:00–11:20 | Shengtai Li                             | Dust Coagulation Impact on the Rossby Wave Instability                                            |
+| 11:20–11:40 | Andrew Youdin                           | From Pressure Bumps to Rossby Wave Instability                                                    |
+| 11:40–12:00 | Aleksandra Kuznetsova                   | Multi-fluid evolution of infall-induced Rossby Wave Instability                                   |
+| 12:00–12:20 | Eonho Chang                             | Rossby wave instability with a migrating planet                                                   |  
+| 12:20–14:00 | *Lunch*                                 |                                                                                                   |
+| **Afternoon session 1**  |*Chair: Hans Baehr*         |                                                                                                   |
+| 14:00–14:20 | Alex Ziampras                           | Outburst, rings, and vortices at the dead zone inner edge                                         |
+| 14:20–14:40 | Hui Li                                  | Multi-dimensional modeling of gas-dust dynamics                                                   |
+| 14:40–15:00 | Marius Lehmann                          | Impact of Convective Overstability on planet formation and migration                              |
+| 15:00–15:40 | *Coffee Break*                          |                                                                                                   |
+| **Afternoon session 2**  |*Chair: Yuya Fukuhara*      |                                                                                                   |
+| 15:40–16:00 | David Rea                               | Turbulence driven by weak-ionization instabilities                                                |
+| 16:00–16:20 | Uma Gorti                               | Radially extended protoplanetary disk winds: non-ideal MHD with self-consistent thermal structure |
+| 16:20–17:00 | **Discussion (C.-C. Yang  & H. Li)**    |                                                                                                   |
 
 ---
 
