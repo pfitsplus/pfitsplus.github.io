@@ -162,7 +162,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | **Afternoon session 2**  |*Chair: Tabassum Tanvir*       |                                                                                                                       |
 | 15:40–16:00 | Hubert Klahr                               | TBD                                                                                                                   | 
 | 16:00–16:20 | Paul Estrada                               | TBD                                                                                                                   |
-| 16:20–17:00 | **Discussion (J. Simon & O. Umurhan)**     |                                                                                                                       |
+| 16:20–17:00 | **Discussion/Closing (J. Simon & O. Umurhan)**     |                                                                                                                       |
 
 ---
 
