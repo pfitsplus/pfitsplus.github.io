@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/youdin-andrew.jpg
-    text: "Professor"
+    text: "Professor<br>
+    <a href='/tags/#youdin-andrew'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation"

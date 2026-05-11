@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/sengupta-debanjan.jpg
-    text: "Research Scientist"
+    text: "Research Scientist<br>
+    <a href='/tags/#sengupta-debanjan'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"

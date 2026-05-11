@@ -113,6 +113,27 @@ toc_icon: "users"
 {% endfor %}
 </table>
 
+<h2 id="amnh">American Museum of Natural History</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'American Museum of Natural History' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.position }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
 <h2 id="uc-berkeley">University of California, Berkeley</h2>
 <table>
   {% for post in site.team %}

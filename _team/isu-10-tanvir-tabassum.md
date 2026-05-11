@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/tanvir-tabassum.jpg
-    text: "Postdoctoral Scholar"
+    text: "Postdoctoral Scholar<br>
+    <a href='/tags/#tanvir-tabassum'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/planet-formation/#planetesimal-formation'>Planetesimal formation</a>"

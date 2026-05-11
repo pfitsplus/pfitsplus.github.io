@@ -8,7 +8,8 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/umurhan-orkan.jpg
-    text: "Principal Investigator"
+    text: "Principal Investigator<br>
+    <a href='/tags/#umurhan-orkan'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation"

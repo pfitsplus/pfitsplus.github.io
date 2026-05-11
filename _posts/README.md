@@ -2,6 +2,17 @@
 This folder contains [Markdown](https://www.markdownguide.org/) files for individual posts populating the [**News**](https://pfitsplus.github.io/news/) page.
 To create a new post, we recommend copying an existing post as close to the formatting, structure, or features you want and renaming it in the following *hyphenated* format: `YYYY-MM-DD-key-words.md`.
 
+## Automated Publication Posts
+Publication posts for papers in the [PFITS+ ADS library](https://ui.adsabs.harvard.edu/public-libraries/_-AhcKuYSKyaIu_U5ebVsA) can be generated automatically using the script at [`scripts/ads_to_posts.py`](../scripts/ads_to_posts.py).
+The script runs weekly via GitHub Actions and opens a pull request with draft posts for any new papers.
+You can also run it locally:
+```bash
+export ADS_TOKEN=<your-token>   # https://ui.adsabs.harvard.edu/user/settings/token
+python scripts/ads_to_posts.py --posts-dir _posts
+```
+Review each generated draft before merging: trim tags, verify author links, and confirm citation details.
+To add a new team member to the auto-link lookup, update the `TEAM_MEMBERS` dictionary in `scripts/ads_to_posts.py`.
+
 Note:
 - Posts can be back- or future-dated, but must use a four-digit year and two-digit month and day.
 - `key-words` serve only to differentiate posts with the same date, so keep to a maximum of three (3).
@@ -13,10 +24,10 @@ Note:
 
 ## Front Matter
 Each file must contain a [YAML](https://yaml.org/) [**front matter**](https://jekyllrb.com/docs/front-matter/) block at the top, sandwiched between triple-dashed lines (`---`), for [Jekyll](https://jekyllrb.com/) to process.
-Below is a generic example, followed by a key legend subsection:
+Below is a generic example for a publication post, followed by a key legend subsection:
 ```yaml
 ---
-title: "Nature Publication"
+title: "My Paper Title on Protoplanetary Disks"
 last_modified_at: 2016-03-09T18:20:02-08:00
 categories:
   - Publications
@@ -25,9 +36,14 @@ tags:
   - planet formation
   - fluid dynamics
 ---
+
+Published in *Nature*, 123, 456.
+
+Authors: [Author One](/team/one-author/), Author Two
 ```
 ### Key Legend
 - `title:` The title (wrapped in double quotes) to be displayed in the [News list](http://pfitsplus.github.io/news/), at the top of the post's page itself, and in any relevant search results.
+  - For publication posts, use the **publication title** as the post title (not a generic "Published in [Journal]" string). Place the journal or venue information in the first line of the post body instead (e.g., `Published in *Journal*, volume, pages.`).
 - `last_modified_at:` (Optional) The date and time of last modification, formatted as `YYYY-MM-DDTHH:MM:SS-HH:MM`, where the times following `T` is the 24-hour UTC time $\pm$ the [offset](https://en.wikipedia.org/wiki/UTC_offset) (e.g., `-08:00` for PST)
 - `categories:` A single term (e.g., `Publications` or `Press`) to categorize your post; see [Posts by Category](http://pfitsplus.github.io/categories/) for an existing list.
 - `tags:` Multiple, unlimited entries (each on a separate line) to identify relevant keywords or topics and relate to other tagged posts; be sure to include relevant team members in `- Lastname, Firstname` format; see [Posts by Tag](http://pfitsplus.github.io/tags/) for an existing list.
