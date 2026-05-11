@@ -20,4 +20,4 @@ link: https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..156L/abstract
 
 Published in *The Astrophysical Journal*, 1000, 156.
 
-Authors: [Jeonghoon Lim](/team/lim-jeonghoon/), [Jacob B. Simon](/team/simon-jacob/), [Rixin Li](/team/rixin-li/), [Olivia Brouillette](/team/brouillette-olivia/), [David Rea](/team/rea-david/), [Wladimir Lyra](/team/lyra-wladimir/)
+Authors: [Jeonghoon Lim](/team/lim-jeonghoon/), [Jacob B. Simon](/team/simon-jacob/), [Rixin Li](/team/li-rixin/), [Olivia Brouillette](/team/brouillette-olivia/), [David Rea](/team/rea-david/), [Wladimir Lyra](/team/lyra-wladimir/)
