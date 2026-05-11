@@ -32,30 +32,30 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 #### Monday, June 8
 
-| Time        | Who / What                              | Talk Title                                                                       |
-|-------------|-----------------------------------------|----------------------------------------------------------------------------------|
-| 09:00–09:40 | *Registration & Arrival*                |                                                                                  |
-| **Morning session 1**  |*Chair: Thomas Pfeil*         |                                                                                  |
-| 09:40–10:00 | Luca Ricci                              | TBD                                                                              |
-| 10:00–10:20 | Farzana Meru                            | Gravitationally unstable disks delay the radial drift of dust                    |
-| 10:20–10:40 | Kaitlin Kratter                         | Gravitational Instability in weakly self-gravitating disks                       |
-| 10:40–11:20 | *Coffee Break*                          |                                                                                  |
-| **Morning session 2**  |*Chair: David Rea*            |                                                                                  |
-| 11:20–11:40 | Cassandra Hall                          | Kinematics of gravitational instability                                          |
-| 11:40–12:00 | Hans Baehr                              | Dust dynamics in gravitational instabilities                                     |
-| 12:00–12:20 | Shangjia Zhang                          | Shadows: A Laboratory to probe disk thermodynamics and hydrodynamics             |
-| 12:20–14:00 | *Lunch*                                 |                                                                                  |
-| **Afternoon session 1**|*Chair: Daniel Carrera*       |                                                                                  |
-| 14:00–14:20 | Jeffrey Fung                            | Radiation Pressure Instability — Clumps and cavities carved by light             |
-| 14:20–14:40 | Weston Hall                             | Size distribution of KBOs compared to theory                                     |
-| 14:40–15:00 | Rixin Li                                | Cold Classical Kuiper belt objects as primordial planetesimals                   |
-| 15:00–15:40 | *Coffee Break*                          |                                                                                  |
-| **Afternoon session 2**|*Chair: Anna Childs*          |                                                                                  |
-| 15:40–16:00 | Linn Eriksson                           | Streaming instability and MRI turbulence                                         |
-| 16:00–16:20 | Tabassum Tanvir                         | Planetesimal formation from millimeter grains in pressure bumps                  |
-| 16:20–17:00 | **Discussion (K. Kratter & C. Hall)**   |                                                                                  |
-|             |                                         |                                                                                  |
-| 19:00-      | *Social night at Eureka*                |                                                                                  |
+| Time        | Who / What                              | Talk Title                                                                         |
+|-------------|-----------------------------------------|------------------------------------------------------------------------------------|
+| 09:00–09:40 | *Registration & Arrival*                |                                                                                    |
+| **Morning session 1**  |*Chair: Thomas Pfeil*         |                                                                                    |
+| 09:40–10:00 | Luca Ricci                              | High-resolution interferometric observations to unveil physical processes in disks |
+| 10:00–10:20 | Farzana Meru                            | Gravitationally unstable disks delay the radial drift of dust                      |
+| 10:20–10:40 | Kaitlin Kratter                         | Gravitational Instability in weakly self-gravitating disks                         |
+| 10:40–11:20 | *Coffee Break*                          |                                                                                    |
+| **Morning session 2**  |*Chair: David Rea*            |                                                                                    |
+| 11:20–11:40 | Cassandra Hall                          | Kinematics of gravitational instability                                            |
+| 11:40–12:00 | Hans Baehr                              | Dust dynamics in gravitational instabilities                                       |
+| 12:00–12:20 | Shangjia Zhang                          | Shadows: A Laboratory to probe disk thermodynamics and hydrodynamics               |
+| 12:20–14:00 | *Lunch*                                 |                                                                                    |
+| **Afternoon session 1**|*Chair: Daniel Carrera*       |                                                                                    |
+| 14:00–14:20 | Jeffrey Fung                            | Radiation Pressure Instability — Clumps and cavities carved by light               |
+| 14:20–14:40 | Weston Hall                             | Size distribution of KBOs compared to theory                                       |
+| 14:40–15:00 | Rixin Li                                | Cold Classical Kuiper belt objects as primordial planetesimals                     |
+| 15:00–15:40 | *Coffee Break*                          |                                                                                    |
+| **Afternoon session 2**|*Chair: Anna Childs*          |                                                                                    |
+| 15:40–16:00 | Linn Eriksson                           | Streaming instability and MRI turbulence                                           |
+| 16:00–16:20 | Tabassum Tanvir                         | Planetesimal formation from millimeter grains in pressure bumps                    |
+| 16:20–17:00 | **Discussion (K. Kratter & C. Hall)**   |                                                                                    |
+|             |                                         |                                                                                    |
+| 19:00-      | *Social night at Eureka*                |                                                                                    |
 
 ---
 
