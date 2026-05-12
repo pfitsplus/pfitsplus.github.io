@@ -55,7 +55,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 16:00–16:20 | Tabassum Tanvir                         | Planetesimal formation from millimeter grains in pressure bumps                    |
 | 16:20–17:00 | **Discussion (K. Kratter & C. Hall)**   |                                                                                    |
 |             |                                         |                                                                                    |
-| 19:00-      | *Social night at Eureka*                |                                                                                    |
+| 19:00-      | *Social night at <a href="https://eurekarestaurantgroup.com/locations/mountain-view">Eureka</a>*                |            |
 
 ---
 
@@ -106,7 +106,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 |             |                                         |                                                                                  |
 |             | *Free afternoon*                        |                                                                                  |
 |             |                                         |                                                                                  |
-| 19:00-      | **Conference Dinner at Café Baklava**   |                                                                                  |
+| 19:00-      | **Conference Dinner at <a href="https://www.cafebaklava.online/">Café Baklava</a>**   |                                    |
 
 ---
 
