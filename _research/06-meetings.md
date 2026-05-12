@@ -66,7 +66,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | **Morning session 1**  |*Chair: Nadine Soliman*       |                                                                                  |
 | 09:00–09:20 | Shiang-Chih Wang                        | How azimuthal accretion flows affect dust growth via streaming instabilities     |
 | 09:20–09:40 | Hossam Aly                              | Dusty warps in the local frame: instability and fast clumping                    |
-| 09:40–10:00 | Mario Flock                             | The inner dusty rim of the protoplanetary disk                                   |
+| 09:40–10:00 | Jiaqing Bi                              | Substructures Induced by Dust Drag in Protoplanetary Disks                       |
 | 10:00–10:20 | Michael Cecil                           | Episodic instability of the inner disk rim                                       |
 | 10:20–11:00 | *Coffee Break*                          |                                                                                  |
 | **Morning session 2**  |*Chair: Sergei Dyda*          |                                                                                  |
