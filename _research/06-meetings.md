@@ -43,7 +43,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | **Morning session 2**  |*Chair: David Rea*            |                                                                                    |
 | 11:20–11:40 | Cassandra Hall                          | Kinematics of gravitational instability                                            |
 | 11:40–12:00 | Hans Baehr                              | Dust dynamics in gravitational instabilities                                       |
-| 12:00–12:20 | Shangjia Zhang                          | Shadows: A Laboratory to probe disk thermodynamics and hydrodynamics               |
+| 12:00–12:20 | Lizxandra Flores-Rivera                 | Vertical mixing and radial transport of pebbles in protoplanetary disks            |
 | 12:20–14:00 | *Lunch*                                 |                                                                                    |
 | **Afternoon session 1**|*Chair: Daniel Carrera*       |                                                                                    |
 | 14:00–14:20 | Jeffrey Fung                            | Radiation Pressure Instability — Clumps and cavities carved by light               |
@@ -73,7 +73,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 11:00–11:20 | Chiara Scardoni                         | From dust filaments to observables: tracing streaming instability                |
 | 11:20–11:40 | Daniel Godines                          | On the mass budget problem: Streaming instability and optically thick emission   |
 | 11:40–12:00 | Takayuki Muto                           | Disk heating due to planet-induced spiral shocks and implications to a snowline  |
-| 12:00–12:20 | Lizxandra Flores-Rivera                 | Vertical mixing and radial transport of pebbles in protoplanetary disks          |
+| 12:00–12:20 | Shangjia Zhang                          | Shadows: A Laboratory to probe disk thermodynamics and hydrodynamics             |
 | 12:20–14:00 | *Lunch*                                 |                                                                                  |
 | **Afternoon session 1**|*Chair: Linn Eriksson*        |                                                                                  |
 | 14:00–14:20 | Thomas Pfeil                            | Can the Vertical Shear Instability survive dust coagulation and settling?        |
