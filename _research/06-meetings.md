@@ -204,7 +204,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | Aleksandra Kuznetsova                           | University of Connecticut                 | <i class="fa-solid fa-location-dot"></i> in person |
 | [Marius Lehmann](/team/lehmann-marius/)         | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
 | Hui Li                                          | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
-| [Rixin Li](/team/rixin-li/)                     | UC Berkeley                               | <i class="fa-solid fa-location-dot"></i> in person |
+| [Rixin Li](/team/li-rixin/)                     | UC Berkeley                               | <i class="fa-solid fa-location-dot"></i> in person |
 | Shengtai Li                                     | Los Alamos National Laboratory            | <i class="fa-solid fa-location-dot"></i> in person |
 | [Jay Lim](/team/lim-jeonghoon/)                 | UNLV/Iowa State University                | <i class="fa-solid fa-location-dot"></i> in person |
 | Min-Kai Lin                                     | ASIAA                                     | <i class="fa-solid fa-laptop"></i>       remote    |

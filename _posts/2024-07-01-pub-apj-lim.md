@@ -22,4 +22,4 @@ link: https://ui.adsabs.harvard.edu/abs/2024ApJ...969..130L/abstract
 
 Published in *The Astrophysical Journal*, 969, 130.
 
-Authors: [Jeonghoon Lim](/team/lim-jeonghoon/), [Jacob B. Simon](/team/simon-jacob/), [Rixin Li](/team/rixin-li/), Armitage, Philip J., [Daniel Carrera](/team/carrera-daniel/), [Wladimir Lyra](/team/lyra-wladimir/), [David Rea](/team/rea-david/), [Chao-Chin Yang](/team/yang-chao-chin/), [Andrew N. Youdin](/team/youdin-andrew/)
+Authors: [Jeonghoon Lim](/team/lim-jeonghoon/), [Jacob B. Simon](/team/simon-jacob/), [Rixin Li](/team/li-rixin/), Armitage, Philip J., [Daniel Carrera](/team/carrera-daniel/), [Wladimir Lyra](/team/lyra-wladimir/), [David Rea](/team/rea-david/), [Chao-Chin Yang](/team/yang-chao-chin/), [Andrew N. Youdin](/team/youdin-andrew/)
