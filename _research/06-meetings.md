@@ -17,7 +17,7 @@ The workshop is the third in the [PFITS+](/) (Planet Formation in the Southwest 
 the [first meeting](https://www.ufos-project.eu/dust-gas-drag-instability-code-comparison) was held in June, 2022, in Las Cruces, NM;
 the [second](https://sites.google.com/view/tcanaz) in Tucson AZ, in Nov., 2023.
 
-<!--~~We kindly ask all participants to register by filling out [this form]~~<!--(https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"}).-->-->
+<!-- ~~We kindly ask all participants to register by filling out [this form] (https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"}).-->
 
 Registration is now closed. 
 
@@ -25,7 +25,7 @@ The meeting will include invited and contributed talks to be announced here.
 Due to space constraints, the meeting will be capped at 40 participants.
 A hybrid Zoom component will be available for remote participants beyond this limit or those who cannot make the trip.
 
-The conference fee (for in-person participants only) is 270 USD, to be collected on site on the first day.
+The conference fee (for in-person participants only) is <b>270 USD</b>, to be collected on site on the first day.
 
 <!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
