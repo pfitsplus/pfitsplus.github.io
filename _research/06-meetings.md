@@ -101,7 +101,7 @@ A hybrid Zoom component will be available for remote participants beyond this li
 | 11:00–11:20 | <i class="fa-solid fa-laptop"></i> Hubert Klahr                | What Can We Learn from Spectral Analysis of VSI and SI Simulations?                                                   |                                            
 | 11:20–11:40 | <i class="fa-solid fa-location-dot"></i>Orkan Umurhan          | Analytics Expressions for streaming instability growth rate                                                           |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i>Debanjan Sengupta      | Operation of streaming instability in the presence of external turbulence                                             |
-| 12:00–12:20 | <i class="fa-solid fa-location-dot"></i>Paul Estrada           | TBD                                                                                                                   |
+| 12:00–12:20 | <i class="fa-solid fa-location-dot"></i>Paul Estrada           | Explaining water and carbon depletion in carbonaceous chondrites through open-system loss in the early solar nebula   |
 | 12:20–      | *Conference Photo*                                             |                                                                                                                       |
 |             |                                                                |                                                                                                                       |
 |             | *Free afternoon*                                               |                                                                                                                       |
