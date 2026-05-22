@@ -25,7 +25,7 @@ The meeting will include invited and contributed talks to be announced here.
 Due to space constraints, the meeting will be capped at 40 participants.
 A hybrid Zoom component will be available for remote participants beyond this limit or those who cannot make the trip.
 
-Registration is 270 USD, to be collected on site on the first day.
+The conference fee (for in-person participants only) is 270 USD, to be collected on site on the first day.
 
 <!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
