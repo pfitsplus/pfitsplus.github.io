@@ -73,7 +73,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 | 10:20–11:00 | *Coffee Break*                                                 |                                                                                                                       |
 | **Morning session 2**  |*Chair: Sergei Dyda*                                 |                                                                                                                       |
 | 11:00–11:20 | <i class="fa-solid fa-laptop"></i> Chiara Scardoni             | From dust filaments to observables: tracing streaming instability                                                     |
-| 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Daniel Godines        | On the mass budget problem: Streaming instability and optically thick emission                                        |
+| 11:20–11:40 | <i class="fa-solid fa-laptop"></i> Daniel Godines              | On the mass budget problem: Streaming instability and optically thick emission                                        |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i> Takayuki Muto         | Disk heating due to planet-induced spiral shocks and implications to a snowline                                       |
 | 12:00–12:20 | <i class="fa-solid fa-laptop"></i> Shangjia Zhang              | Shadows: A Laboratory to probe disk thermodynamics and hydrodynamics                                                  |
 | 12:20–14:00 | *Lunch*                                                        |                                                                                                                       |
@@ -191,7 +191,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 | Jeffrey Fung                                    | Clemson University                        | <i class="fa-solid fa-laptop"></i>       remote    |
 | Susmita Garai                                   | University of New Mexico                  | <i class="fa-solid fa-location-dot"></i> in person |
 | Fabiola Antonietta Gerosa                       | University College London                 | <i class="fa-solid fa-laptop"></i>       remote    |
-| [Daniel Godines](/team/godines-daniel/)         | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
+| [Daniel Godines](/team/godines-daniel/)         | New Mexico State University               | <i class="fa-solid fa-laptop"></i>       remote    |
 | Uma Gorti                                       | SETI                                      | <i class="fa-solid fa-location-dot"></i> in person |
 | Cassandra Hall                                  | University of Georgia                     | <i class="fa-solid fa-location-dot"></i> in person |
 | [Weston Hall](/team/hall-weston/)               | Iowa State University                     | <i class="fa-solid fa-location-dot"></i> in person |
