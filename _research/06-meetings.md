@@ -95,7 +95,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 |-------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | **Morning session 1**  |*Chair: Marius Lehmann*                              |                                                                                                                       |
 | 09:00–09:20 | <i class="fa-solid fa-laptop"></i> Chen Wang                   | Baroclinic critical layers and zombie vortices                                                                        |
-| 09:20–09:40 | <i class="fa-solid fa-laptop"></i> Min-Kai Lin                 | Locally global simulations of the Convective Overstability                                                            |
+| 09:20–09:40 | <i class="fa-solid fa-laptop"></i> Pinghui Huang               | Planetesimal Formation under Realistic Gas Dynamics                                                                   |  
 | 09:40–10:00 | <i class="fa-solid fa-laptop"></i> Heloise Meheut              | Keplerian turbulence and planetesimal formation                                                                       |
 | 10:00–10:20 | <i class="fa-solid fa-laptop"></i> Fabiola Gerosa              | Dust clustering and drifting in turbulence                                                                            |
 | 10:20–11:00 | *Coffee Break*                                                 |                                                                                                                       |
@@ -145,7 +145,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 | Time        | Who / What                                                     | Talk Title                                                                                                            |
 |-------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | **Morning session 1**  |*Chair: Alex Ziampras*                               |                                                                                                                       |
-| 09:00–09:20 | <i class="fa-solid fa-laptop"></i> Pinghui Huang               | Planetesimal Formation under Realistic Gas Dynamics                                                                   |  
+| 09:00–09:20 | <i class="fa-solid fa-laptop"></i> Min-Kai Lin                 | Locally global simulations of the Convective Overstability                                                            |
 | 09:20–09:40 | <i class="fa-solid fa-laptop"></i> Nathan Magnan               | The reflex instability, or how not to deal with the indirect term                                                     |
 | 09:40–10:00 | <i class="fa-solid fa-laptop"></i> Michael Hammer              | Can radial convection happen in protoplanetary discs even with magnetic fields?                                       |
 | 10:00–10:20 | <i class="fa-solid fa-laptop"></i> Dominik Ostertag            | A comparison between particle and fluid approaches for streaming instability in global patch simulations              |
