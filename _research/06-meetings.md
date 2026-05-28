@@ -54,7 +54,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 | 15:00–15:40 | *Coffee Break*                                                 |                                                                                                                       |
 | **Afternoon session 2**|*Chair: Anna Childs*                                 |                                                                                                                       |
 | 15:40–16:00 | <i class="fa-solid fa-location-dot"></i> Linn Eriksson         | Streaming instability and MRI turbulence                                                                              |
-| 16:00–16:20 | <i class="fa-solid fa-location-dot"></i> Tabassum Tanvir       | Planetesimal formation from millimeter grains in pressure bumps                                                       |
+| 16:00–16:20 | <i class="fa-solid fa-location-dot"></i> Jay Lim               | Bridging unstratified and stratified simulations of the Streaming Instability                                         |
 | 16:20–17:00 | **Discussion (K. Kratter & C. Hall)**                          |                                                                                                                       |
 |             |                                                                |                                                                                                                       |
 | 19:00-      | *Social night at <a href="https://eurekarestaurantgroup.com/locations/mountain-view">Eureka</a>*                                   |                                                   |
@@ -103,7 +103,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 | 11:00–11:20 | <i class="fa-solid fa-laptop"></i> Hubert Klahr                | What Can We Learn from Spectral Analysis of VSI and SI Simulations?                                                   |                                            
 | 11:20–11:40 | <i class="fa-solid fa-location-dot"></i>Orkan Umurhan          | Analytics Expressions for streaming instability growth rate                                                           |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i>Debanjan Sengupta      | Operation of streaming instability in the presence of external turbulence                                             |
-| 12:00–12:20 | <i class="fa-solid fa-location-dot"></i>Paul Estrada           | Explaining water and carbon depletion in carbonaceous chondrites through open-system loss in the early solar nebula   |
+| 12:00–12:20 | <i class="fa-solid fa-location-dot"></i> Daniel Carrera        | Positive feedback loops as a pathway to planetesimal formation                                                        |
 | 12:20–      | *Conference Photo*                                             |                                                                                                                       |
 |             |                                                                |                                                                                                                       |
 |             | *Free afternoon*                                               |                                                                                                                       |
@@ -144,26 +144,26 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 
 | Time        | Who / What                                                     | Talk Title                                                                                                            |
 |-------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Morning session 1**  |*Chair: Alex Ziampras*                               |                                                                                                                       |
+| **Morning session 1**  |*Chair: Aleksandra Kuznetsova*                       |                                                                                                                       |
 | 09:00–09:20 | <i class="fa-solid fa-laptop"></i> Min-Kai Lin                 | Locally global simulations of the Convective Overstability                                                            |
 | 09:20–09:40 | <i class="fa-solid fa-laptop"></i> Nathan Magnan               | The reflex instability, or how not to deal with the indirect term                                                     |
 | 09:40–10:00 | <i class="fa-solid fa-laptop"></i> Michael Hammer              | Can radial convection happen in protoplanetary discs even with magnetic fields?                                       |
 | 10:00–10:20 | <i class="fa-solid fa-laptop"></i> Dominik Ostertag            | A comparison between particle and fluid approaches for streaming instability in global patch simulations              |
 | 10:20–11:00 | *Coffee Break*                                                 |                                                                                                                       |
-| **Morning session 2**  |*Chair: Aleksandra Kuznetsova*                       |                                                                                                                       |
+| **Morning session 2**  |*Chair: Tabassum Tanvir*                             |                                                                                                                       |
 | 11:00–11:20 | <i class="fa-solid fa-location-dot"></i> Stanley Baronett      | A framework to model stellar irradiated disks with frequency-dependent absorption and scattering opacities in Athena++|
 | 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Prakruti Sudarshan    | Comparing different radiation methods used in astrophysical codes                                                     |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i> Sergei Dyda           | Resolution Effects and the Streaming Instability                                                                      |
 | 12:00–12:20 | <i class="fa-solid fa-laptop"></i> Leonardo Krapp              | Not just gas: How solids-driven torques shaped the migration of the Galilean moons                                    |
 | 12:20–14:00 | *Lunch*                                                        |                                                                                                                       |
-| **Afternoon session 1**  |*Chair: Debanjan Sengupta*                         |                                                                                                                       |
+| **Afternoon session 1**  |*Chair: Alex Ziampras*                             |                                                                                                                       |
 | 14:00–14:20 | <i class="fa-solid fa-location-dot"></i> Anna Childs           | Composition Constraints of the TRAPPIST-1 Planets from Pebble Accretion                                               |
 | 14:20–14:40 | <i class="fa-solid fa-location-dot"></i> Susmita Garai         | Pebble accretion for Earth’s composition and water delivery                                                           |
 | 14:40–15:00 | <i class="fa-solid fa-location-dot"></i> Tom Konijn            | A multifluid approach to pebble accretion                                                                             |
 | 15:00–15:40 | *Coffee Break*                                                 |                                                                                                                       |
-| **Afternoon session 2**  |*Chair: Tabassum Tanvir*                           |                                                                                                                       |
-| 15:40–16:00 | <i class="fa-solid fa-location-dot"></i> Jay Lim               | Bridging unstratified and stratified simulations of the Streaming Instability                                         |
-| 16:00–16:20 | <i class="fa-solid fa-location-dot"></i> Daniel Carrera        | Positive feedback loops as a pathway to planetesimal formation                                                        |
+| **Afternoon session 2**  |*Chair: Debanjan Sengupta*                         |                                                                                                                       |
+| 16:00–16:20 | <i class="fa-solid fa-location-dot"></i> Tabassum Tanvir       | Planetesimal formation from millimeter grains in pressure bumps                                                       |
+| 16:20–16:40 | <i class="fa-solid fa-location-dot"></i> Paul Estrada          | Explaining water and carbon depletion in carbonaceous chondrites through open-system loss in the early solar nebula   |
 | 16:20–17:00 | **Discussion/Closing (J. Simon & O. Umurhan)**                 |                                                                                                                       |
 
 ---
