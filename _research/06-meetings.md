@@ -116,7 +116,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 
 | Time        | Who / What                                                     | Talk Title                                                                                                            |
 |-------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Morning session 1**  |*Chair: Jay Lim*                                     |                                                                                                                       |
+| **Morning session 1**  |*Chair: Aleksandra Kuznetsova*                       |                                                                                                                       |
 | 09:00–09:20 | <i class="fa-solid fa-laptop"></i> Ryosuke Tominaga            | Dust growth assisted by Streaming Instability                                                                         |
 | 09:20–09:40 | <i class="fa-solid fa-laptop"></i> Elephteria Sarafidou        | Disk dynamics under non ideal MHD effects                                                                             |
 | 09:40–10:00 | <i class="fa-solid fa-laptop"></i> David Melon-Fuksman         | Radiation-hydrodynamic phenomena: self-shadowing and VSI                                                              |
@@ -144,7 +144,7 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 
 | Time        | Who / What                                                     | Talk Title                                                                                                            |
 |-------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Morning session 1**  |*Chair: Aleksandra Kuznetsova*                       |                                                                                                                       |
+| **Morning session 1**  |*Chair: Jay Lim*                                     |                                                                                                                       |
 | 09:00–09:20 | <i class="fa-solid fa-laptop"></i> Min-Kai Lin                 | Locally global simulations of the Convective Overstability                                                            |
 | 09:20–09:40 | <i class="fa-solid fa-laptop"></i> Nathan Magnan               | The reflex instability, or how not to deal with the indirect term                                                     |
 | 09:40–10:00 | <i class="fa-solid fa-laptop"></i> Michael Hammer              | Can radial convection happen in protoplanetary discs even with magnetic fields?                                       |
