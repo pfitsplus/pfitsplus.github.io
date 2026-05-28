@@ -150,13 +150,13 @@ The conference fee (for in-person participants only) is <b>270 USD</b>, to be co
 | 09:40–10:00 | <i class="fa-solid fa-laptop"></i> Michael Hammer              | Can radial convection happen in protoplanetary discs even with magnetic fields?                                       |
 | 10:00–10:20 | <i class="fa-solid fa-laptop"></i> Dominik Ostertag            | A comparison between particle and fluid approaches for streaming instability in global patch simulations              |
 | 10:20–11:00 | *Coffee Break*                                                 |                                                                                                                       |
-| **Morning session 2**  |*Chair: Debanjan Sengupta*                           |                                                                                                                       |
+| **Morning session 2**  |*Chair: Aleksandra Kuznetsova*                       |                                                                                                                       |
 | 11:00–11:20 | <i class="fa-solid fa-location-dot"></i> Stanley Baronett      | A framework to model stellar irradiated disks with frequency-dependent absorption and scattering opacities in Athena++|
 | 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Prakruti Sudarshan    | Comparing different radiation methods used in astrophysical codes                                                     |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i> Sergei Dyda           | Resolution Effects and the Streaming Instability                                                                      |
 | 12:00–12:20 | <i class="fa-solid fa-laptop"></i> Leonardo Krapp              | Not just gas: How solids-driven torques shaped the migration of the Galilean moons                                    |
 | 12:20–14:00 | *Lunch*                                                        |                                                                                                                       |
-| **Afternoon session 1**  |*Chair: Aleksandra Kuznetsova*                     |                                                                                                                       |
+| **Afternoon session 1**  |*Chair: Debanjan Sengupta*                         |                                                                                                                       |
 | 14:00–14:20 | <i class="fa-solid fa-location-dot"></i> Anna Childs           | Composition Constraints of the TRAPPIST-1 Planets from Pebble Accretion                                               |
 | 14:20–14:40 | <i class="fa-solid fa-location-dot"></i> Susmita Garai         | Pebble accretion for Earth’s composition and water delivery                                                           |
 | 14:40–15:00 | <i class="fa-solid fa-location-dot"></i> Tom Konijn            | A multifluid approach to pebble accretion                                                                             |
