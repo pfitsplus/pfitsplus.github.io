@@ -129,7 +129,7 @@ Sign up for the <a href="https://pfits3rddisks-qzm3854.slack.com/">slack channel
 | 11:00–11:20 | <i class="fa-solid fa-location-dot"></i> Shengtai Li           | Dust Coagulation Impact on the Rossby Wave Instability                                                                |
 | 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Andrew Youdin         | From Pressure Bumps to Rossby Wave Instability                                                                        |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i> Aleksandra Kuznetsova | Multi-fluid evolution of infall-induced Rossby Wave Instability                                                       |
-| 12:00–12:20 | <i class="fa-solid fa-location-dot"></i> Eonho Chang           | Rossby wave instability with a migrating planet                                                                       |
+| 12:00–12:20 | <i class="fa-solid fa-laptop"></i> Eonho Chang                 | Rossby wave instability with a migrating planet                                                                       |
 | 12:20–14:00 | *Lunch*                                                        |                                                                                                                       |
 | **Afternoon session 1**  |*Chair: Hans Baehr*                                |                                                                                                                       |
 | 14:00–14:20 | <i class="fa-solid fa-location-dot"></i> Alex Ziampras         | Outburst, rings, and vortices at the dead zone inner edge                                                             |
