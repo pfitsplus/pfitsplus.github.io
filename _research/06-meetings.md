@@ -27,6 +27,9 @@ A hybrid Zoom component will be available for remote participants beyond this li
 
 The conference fee (for in-person participants only) is <b>270 USD</b>, to be collected on site on the first day.
 
+Sign up for the <a href="https://pfits3rddisks-qzm3854.slack.com/">slack channel</a> for the conference. 
+
+
 <!--[**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSeyDIlCAMdTOTdDBOZz1sXVF8MqAswBGJHpOcJv2G8gO1kCSw/viewform){:target="_blank"} **to let us know if you'll be attending!**-->
 
 
