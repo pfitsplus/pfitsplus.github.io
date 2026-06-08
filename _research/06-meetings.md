@@ -155,7 +155,7 @@ Sign up for the <a href="https://pfits3rddisks-qzm3854.slack.com/">slack channel
 | 10:20–11:00 | *Coffee Break*                                                 |                                                                                                                       |
 | **Morning session 2**  |*Chair: Tabassum Tanvir*                             |                                                                                                                       |
 | 11:00–11:20 | <i class="fa-solid fa-location-dot"></i> Stanley Baronett      | A framework to model stellar irradiated disks with frequency-dependent absorption and scattering opacities in Athena++|
-| 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Prakruti Sudarshan    | Comparing different radiation methods used in astrophysical codes                                                     |
+| 11:20–11:40 | <i class="fa-solid fa-laptop"></i> Prakruti Sudarshan          | Comparing different radiation methods used in astrophysical codes                                                     |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i> Sergei Dyda           | Resolution Effects and the Streaming Instability                                                                      |
 | 12:00–12:20 | <i class="fa-solid fa-laptop"></i> Leonardo Krapp              | Not just gas: How solids-driven torques shaped the migration of the Galilean moons                                    |
 | 12:20–14:00 | *Lunch*                                                        |                                                                                                                       |
