@@ -85,7 +85,7 @@ Sign up for the <a href="https://pfits3rddisks-qzm3854.slack.com/">slack channel
 | 14:20–14:40 | <i class="fa-solid fa-location-dot"></i> Jip Matthijsse        | Dust-driven Vertical Shear Instability                                                                                |
 | 14:40–15:00 | <i class="fa-solid fa-location-dot"></i> Nadine Soliman        | Dust regulates the Vertical Shear Instability                                                                         |
 | 15:00–15:40 | *Coffee Break*                                                 |                                                                                                                       |
-| **Afternoon session 2**|*Chair: Tom Konijn*                                  |                                                                                                                       |
+| **Afternoon session 2**|*Chair: Shengtai Li*                                 |                                                                                                                       |
 | 15:40–16:00 | <i class="fa-solid fa-location-dot"></i> Yuya Fukuhara         | Impact of vertical shear instability on dust evolution                                                                |
 | 16:00–16:20 | <i class="fa-solid fa-location-dot"></i> Karim Shariff         | Pade code and the Vertical Shear Instability                                                                          |
 | 16:20–17:00 | **Discussion (A. Youdin  & T. Muto)**                          |                                                                                                                       |
@@ -202,7 +202,7 @@ Sign up for the <a href="https://pfits3rddisks-qzm3854.slack.com/">slack channel
 | Loren Held                                      | University of Cambridge                   | <i class="fa-solid fa-laptop"></i>       remote    |
 | Pinghui Huang                                   | Purple Mountain Observatory               | <i class="fa-solid fa-laptop"></i>       remote    |
 | [Leopold Hutnik](/team/hutnik-leopold/)         | New Mexico State University               | <i class="fa-solid fa-location-dot"></i> in person |
-| Hubert Klahr                                    | MPIA                                      | <i class="fa-solid fa-location-dot"></i> in person |
+| Hubert Klahr                                    | MPIA                                      | <i class="fa-solid fa-laptop"></i>       remote    |
 | Tom Konijn                                      | TU Delft                                  | <i class="fa-solid fa-location-dot"></i> in person |
 | [Leonardo Krapp](/team/krapp-leo/)              | Universidad de Concepción                 | <i class="fa-solid fa-laptop"></i>       remote    |
 | Kaitlin Kratter                                 | University of Arizona                     | <i class="fa-solid fa-location-dot"></i> in person |
