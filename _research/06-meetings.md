@@ -127,7 +127,7 @@ Sign up for the <a href="https://pfits3rddisks-qzm3854.slack.com/">slack channel
 | 10:20–11:00 | *Coffee Break*                                                 |                                                                                                                       |
 | **Morning session 2**  |*Chair: Stanley Baronett*                            |                                                                                                                       |
 | 11:00–11:20 | <i class="fa-solid fa-location-dot"></i> Shengtai Li           | Dust Coagulation Impact on the Rossby Wave Instability                                                                |
-| 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Andrew Youdin         | From Pressure Bumps to Rossby Wave Instability                                                                        |
+| 11:20–11:40 | <i class="fa-solid fa-location-dot"></i> Andrew Youdin         | Drifting In, Diffusing Out: Steady-State Dust Profiles in Gas Pressure Bumps                                          |
 | 11:40–12:00 | <i class="fa-solid fa-location-dot"></i> Aleksandra Kuznetsova | Multi-fluid evolution of infall-induced Rossby Wave Instability                                                       |
 | 12:00–12:20 | <i class="fa-solid fa-laptop"></i> Eonho Chang                 | Rossby wave instability with a migrating planet                                                                       |
 | 12:20–14:00 | *Lunch*                                                        |                                                                                                                       |
